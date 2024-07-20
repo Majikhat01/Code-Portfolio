@@ -19,4 +19,4 @@ It serves as a valuable resource for dedicated players who are visiting new area
 
 2. Run the script:
    ```sh
-   python csv_to_geojson.py
+   python geo-json-maker.py
