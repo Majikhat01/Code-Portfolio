@@ -1,0 +1,63 @@
+echo hi
+exit
+pwd
+exit
+cat grammar.txt
+exit
+ls
+exit
+ls
+cd ..
+pwd
+ls
+cd -
+pwd
+cd hw3/
+ls
+pwd
+cat Jobs.c
+ls
+cd ..
+ls
+cd hw3
+exit
+pwd
+cd Test/
+ls
+pwd
+cd -
+pwd
+history
+cd Test
+pwd
+cd ..
+pwd
+ls
+cd -
+pwd
+cd -
+pwd
+cd -
+pwd
+cd -
+pwd
+cd -
+pwd
+cd ..
+pwd
+cd ..
+pwd
+ls
+cd hw3
+ls
+exit5
+exit
+ls
+cat Jobs.h
+exit
+ls
+cd Test
+ls
+cd ..
+ls
+exit

@@ -1,0 +1,9 @@
+pwd
+cd /
+pwd
+cd /etc
+pwd
+cd -
+pwd
+cd /home/CalvinHatfield/CS452/homework3/hw3
+pwd

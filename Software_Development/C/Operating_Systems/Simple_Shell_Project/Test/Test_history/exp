@@ -1,0 +1,5 @@
+test1
+test2
+1: echo test1
+2: echo test2
+3: history

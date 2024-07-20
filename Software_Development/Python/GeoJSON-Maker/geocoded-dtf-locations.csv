@@ -1,0 +1,1401 @@
+Country,State/Province,City,Business Name,Phone,Address,Contact Name,Qty of 7ft Tables,Qty of 8ft Tables,Qty of 9ft Tables,Latitude,Longitude,Geocode Success
+USA,AK,Anchorage,Panhandle Bar,(907) 277-9311,"312 West 4th Avenue Anchorage, AK 99504",Jerry Buffington,,,,61.2183318,-149.8880257,TRUE
+USA,AK,Anchorage,Anchorage Billiard Palace,(907) 562-4251,"903 W Northern Lights Blvd. Anchorage, AK 99503",,10,,6,61.1955981,-149.8997549,TRUE
+USA,AK,Fairbanks,Bank's Billiards,(907) 322-7635,"544 3rd Ave. Fairbanks, AK 99701",Max Adams,1,,6,64.8430855,-147.7201888,TRUE
+USA,AK,Fairbanks,Red Fox Bar & Grill,(907) 479-9082,"398 Old Chena Pump Rd. Fairbanks, AK 99709",,,,3,64.8483536,-147.8668356,TRUE
+USA,AK,Fairbanks,Tony's Sports Bar,907-378-6969,"537 Gaffney St. Fairbanks, AK 99701",J. D. Clawson,2,,1,64.8368086,-147.7175294,TRUE
+USA,AK,Fort Wainwright,American Legion Post 57,(907) 388-5024,"P.O. Box 35574 Fort Wainwright, AK 99703",Robert Monteith,,,1,64.8277871,-147.6429151,TRUE
+USA,AK,Juneau,Crystal Saloon,(415) 205-3704,"218 Front Street Juneau, AK 99801",Jack Tripp & Jared Cure,,,,58.3007358,-134.4069332,TRUE
+USA,AK,Juneau,Viking Lounge Billiards,(907) 586-2159,"218 Front St. Juneau, AK 99801",,5,,,58.3007358,-134.4069332,TRUE
+USA,AK,Fairbanks,Bank's Billiards,(907) 322-7635,"544 3rd Ave. Fairbanks, AK 99701",,1,,6,64.8430855,-147.7201888,TRUE
+USA,AK,Fairbanks,Tony's Sports Bar,907-378-6969,"537 Gaffney St. Fairbanks, AK 99701",,2,,1,64.8368086,-147.7175294,TRUE
+USA,AK,Juneau,Crystal Saloon,(415) 205-3704,"218 Front Street Juneau, AK 99801",,,,,58.3007358,-134.4069332,TRUE
+USA,AL,Adger,River Bend Sports Bar & Grill,(205) 491-3390,"108 Hurd Shoals Rd. Adger, AL 35006",,,,,33.5267486,-87.2380294,TRUE
+USA,AL,Anniston,Rack and Roll Billiards,205-862-8700,"917 Noble St. Anniston, AL 36201",,,,,33.6564416,-85.8294343,TRUE
+USA,AL,Anniston,Rack and Roll Billiards,256-282-1206,"917 Noble Street Anniston, AL 36201",,,,,33.6564416,-85.8294343,TRUE
+USA,AL,Birmingham,"Veal Convention Services, Inc.",205-328-1010,"3016 Rev. Abraham Woods Jr. Blvd. Birmingham, AL 35203",Katie Clements,,,,33.5289728,-86.7962035,TRUE
+USA,AL,Birmingham,Iron City Billiards,(256) 375-6454,"800 Gadsden Hwy Birmingham, AL 35235",,,,,33.5850061,-86.6731417,TRUE
+USA,AL,Birmingham,Pub 261,(205) 444-0261,"9340 Helena Rd Birmingham, AL 35244",,,,,33.323227,-86.8168564,TRUE
+USA,AL,Birmingham,Courtyard Oyster Bar,(205) 261-9235,"4643 Highway 280 Suite M Birmingham, AL 35242","Carson Robinson Paul Baker
+Michael Catanese",,,,33.4271615,-86.7042258,TRUE
+USA,AL,Boaz,The Gridiron,256-302-3189,"214 S. McCleskey Street Boaz, AL 35957",Clint Compton,,,,34.1966425,-86.1558604,TRUE
+USA,AL,Clanton,Peach City Billiards,205-761-0589,"715 2nd Ave. N. Clanton, AL 35045",Matthew Fountain,,,,32.8386646,-86.6316831,TRUE
+USA,AL,Decatur,6 Pocket Billiards,(256) 686-3171,"1819 Bassett Ave SE Decatur, AL 35601",,14,,8,34.5753539,-86.9782847,TRUE
+USA,AL,Dora,Sayre Bar & Grill,(205) 648-7427,"4657 Brents Cutoff Rd. Dora, AL 35062",,4,,,33.714046,-86.9937842,TRUE
+USA,AL,Foley,The Office Lounge,(251) 970-0043,"122 Co Rd 20 Foley, AL 36535",,7,,,30.371033,-87.6859693,TRUE
+USA,AL,Hoover,Bumpers,(205) 983-2016,"2132 Lornaridge Lane Hoover, AL 35216",Khoa Nguyen,,,,33.392285,-86.7938921,TRUE
+USA,AL,Hoover,Axe House Billiards,(205) 281-2849,"1901 B Hoover Court Hoover, AL 35226",Janet Arledge,10,,1,33.4025837,-86.8084852,TRUE
+USA,AL,Hueytown,Shooters Sports Bar,(205) 744-2277,"821 Allison-Bonnett Memorial Drive Hueytown, AL 35023",,5,,,33.4569742,-86.961521,TRUE
+USA,AL,Hueytown,Sportsters Bar & Grill,(205) 744-6292,"242 Forest Road Hueytown, AL 35023",,2,,,33.451435,-86.9811231,TRUE
+USA,AL,Huntsville,Billiards & Barstools,(256) 426-1874,"3607 Memorial Parkway S Huntsville, AL 35801",Steve Koslow,,,,34.7731743,-86.58516,TRUE
+USA,AL,Huntsville,Bumpers - AL,(256) 527-3635,"4925 University Drive #188 Huntsville, AL 35816",Robert Hall,16,,8,34.7375482,-86.6564251,TRUE
+USA,AL,Huntsville,Chips And Salsa Sports Bar,(256) 426-7409 (cell),"10300 Bailey Cove Road Huntsville, AL 35803",Alfredo Ortiz,8,,,34.6430375,-86.5409747,TRUE
+USA,AL,Huntsville,Encore Pub & Grill,(256) 886-5079,"13136 South Memorial Parkway Huntsville, AL 35802",Danita Gardner,,,,34.7000158,-86.5859749,TRUE
+USA,AL,Huntsville,Good Timez Billiards,256-990-9986 (Cell),"6241 University Drive Huntsville, AL 35806",Sam Zuaiter,18,,10,34.7436772,-86.6794205,TRUE
+USA,AL,Huntsville,Steve's Billiards & Lounge,(256) 539-8919,"2322 Memorial Parkway Southwest Huntsville, AL 35801",,12,,,34.7139382,-86.5918287,TRUE
+USA,AL,Huntsville,Steve's Cue and Grill,256-684-1786,"2322 1/2 S. Memorial Huntsville, AL 35801",Sharee Skipworth,,,,34.7037827,-86.5879803,TRUE
+USA,AL,Leeds,Van's Bar,(205) 352-3699,"1621 Ashville Road Leeds, AL 35094",,3,,,33.557427,-86.5273731,TRUE
+USA,AL,Minette,GK Pub,(2513) 674-3573,"204 West 3rd St. Bay Minette, AL 36507",George Kahalley,,,,30.8838383,-87.7770827,TRUE
+USA,AL,Mobile,The Billiard Club,251-447-2162,"4130 Government Blvd. Mobile, AL 36693",Richard Byrd,,,,30.6338054,-88.1465226,TRUE
+USA,AL,Mobile,The Billiard Club,(251) 674-3573,"2716 Woodland Road Mobile, AL 36693",Alton Harwell,,,,30.6338794,-88.1821648,TRUE
+USA,AL,Montgomery,Bizzy B's Bar & Grill,615-330-8741,"163 Eastern Boulevard Montgomery, AL 36117",Corey Phelan or Willy,,,,32.3791665,-86.2068756,TRUE
+USA,AL,Montgomery,DeJa Vu Billiards,(334) 356-7530,"121 North Burbank Drive Montgomery, AL 36117",,14,,,32.385016,-86.1998322,TRUE
+USA,AL,Montgomery,Montgomery Billiards,(971) 241-1851,"121 N. Burbank Dr. Montgomery, AL 36117",Rick Barber & Justin Player,,,,32.385016,-86.1998322,TRUE
+USA,AL,Montgomery,The Break Room,334.538.3705,"P.O. Box 240849 Montgomery, AL 36124",Rick Barber,10,,,32.37,-86.3,TRUE
+USA,AL,Montgomery,The Corner Pocket,334-300-2750,"5743 Woodmere Boulevard Montgomery, AL 36117","Jerry ""JJ"" Meeks",,,,32.3566227,-86.21397,TRUE
+USA,AL,Opelika,Rockin Robin Bar and Grill,334-703-0558,"2102 Alabama Hwy 169 Opelika, AL 36804",Rusty Hall,,,,32.5992611,-85.3364166,TRUE
+USA,AL,Opelika,The Rockin Robin,(334) 759-7171,"2390 Crawford Rd. Opelika, AL 36804",,5,,,32.5993152,-85.3363563,TRUE
+USA,AL,Pelham,Lil Bits Tavern,(205) 624-2345,"3221 Highway 52 W B Pelham, AL 35124",,3,,,33.2854716,-86.81477,TRUE
+USA,AL,Pelham,Papa G's Billiards,(205) 957-3307,"2722 Chandalar Place Dr. Pelham, AL 35124",Michael Glass,,,,33.3131974,-86.8028816,TRUE
+USA,AL,Pelham,Poppa G's Billiards,205-664-2949,"2722 Chadalar Place Drive Pelham, AL 35124",Frank Gagtina,16,,2,33.3131974,-86.8028816,TRUE
+USA,AL,Pelham,Rack Em Billiards,(205) 255-8179,"2613 Pelham Parkway Pelham, AL 35124",,8,,8,33.3198611,-86.7963299,TRUE
+USA,AL,Sitka,Moose Lodge Sitka,(907) 747-3344,"337 Lincoln Street Sitka, AK 99835",Joseph Reed,,,,57.0510121,-135.3334785,TRUE
+USA,AL,Talladega,WW Vending,(205)368-9681,"232 Grand Way Talladega, AL 35160",William Weller,2,,,33.4860424,-86.2639709,TRUE
+USA,AL,Tuscaloosa,The Wheelhouse Pub,(205) 535-5933,"2326 4th Street Tuscaloosa, AL 35401",,2,,,33.2112041,-87.5684121,TRUE
+USA,AL,Wetumpka,The Breakroom,334-538-3930,"157 Maplewood Dr. Wetumpka, AL 36093",Bryan& Kathe Ainsworth,,,,32.4634821,-86.1103249,TRUE
+USA,AR,Benton,Krome Billiards,501-860-1455,"2217 Edison Ave Benton, AR 72015",Sheri Elliott,,,,34.5563378,-92.561454,TRUE
+USA,AR,Conway,The Rab Conway,(501) 336-8484,"408 US-65 Conway, AR 72032",,,,,35.1377892,-92.4004565,TRUE
+USA,AR,Fayetteville,The Green Room,479-530-2254 (Cell),"326 NW Avenue #16 Fayetteville, AR 72701",,,,,36.067412,-94.1650285,TRUE
+USA,AR,Fayetteville,Morano's,(479) 935-4800,"2179 M.L.K. Jr. Blvd Fayetteville, AR 72701",,6,,2,36.0537058,-94.1900876,TRUE
+USA,AR,Fort Smith,Classic Billiards,479-650-9577,"1310 S. Zero St. Fort Smith, AR 72901",Wayne Wittamore & Chad Bandy,,,,35.327735,-94.4196028,TRUE
+USA,AR,Fort Smith,Squatty's Billiards,(479) 996-1465,"14625 US-71 Fort Smith, AR 72916",,,,,35.265013,-94.3663205,TRUE
+USA,AR,Hot Springs,Boondock's Pool Hall,501-881-4856,"1331 Airport Road #G Hot Springs, AR 71913",Joe Gordon,,,,34.4707119,-93.1279098,TRUE
+USA,AR,Hot Springs,VIP Billiards Sports Bar,(501) 760-0088,"426 Winona St. Hot Springs, AR 71901",,,,,34.4937063,-93.0572198,TRUE
+USA,AR,Mabelvale,On The Snap Billiards,(501) 580-2291,"14106 Chicot Road Mabelville, AR 72103",,8,,,34.622199,-92.365167,TRUE
+USA,AR,North Little Rock,Krome Billiards,(501) 771-0968,"2657 Pike Ave North Little Rock, AR 72114",,12,,4,34.7800314,-92.281135,TRUE
+USA,AR,Paragould,Cues and Blues,(870) 236-7665,"2702 East Lake Street Paragould, AR 72450",Seth Overton,,,,36.0517321,-90.4504147,TRUE
+USA,AR,Paragould,Percy's Pool Hall,870-205-1119,"108 W Main St. Paragould, AR 72450",Devin Poteet,,,,36.0543133,-90.486719,TRUE
+USA,AR,Texarkana,The Arrow Bar,870-648-8939,"110 E 36 St Texarkana, AR 71854",Tony Couch,,,,33.4572901,-94.0421899,TRUE
+USA,AR,Texarkana,Stages Texarkana,(870) 773-4610,"110 East 36th St. Texarkana, AR 71854",,7,,1,33.4572901,-94.0421899,TRUE
+USA,AZ,Avondale,Lighthouse Sports Bar,(623) 440-6968,"12351 West Indian School Road Avondale, AZ 85392",,2,,,33.4927765,-112.3244166,TRUE
+USA,AZ,Bellemont,Roadhouse Bar & Grill,(928) 774-5080,"11840 W Route 66 Bellemont, AZ 86015",,3,,,35.2292597,-111.8100822,TRUE
+USA,AZ,Gilbert,Jester's Billiards,(480) 926-1314,"1515 North Gilbert Road Gilbert, AZ 85234",,10,,,33.3770851,-111.7875035,TRUE
+USA,AZ,Gilbert,Skip & Jans Sports Bar,(480) 539-0110,"1520 W Warner Rd. Unit 112 Gilbert, AZ 85233",,12,,12,33.3363024,-111.8237258,TRUE
+USA,AZ,Glendale,Mason's Sports Pub & Grub,(623) 878-9874,"10634 N 51st Ave. Glendale, AZ 85304",,2,,,33.5833333,-112.1695076,TRUE
+USA,AZ,Glendale,Stingers,623-326-5370 cell,"20259 N. 52nd Dr. Glendale, AZ 85308",,,,,33.6700451,-112.172479,TRUE
+USA,AZ,Holbrook,The Corral,(928) 524-1875,"865 Navajo Blvd Holbrook, AZ 86025",,2,,,34.9072722,-110.1582911,TRUE
+USA,AZ,Lake Havasu City,Mr Lucky's Billiards,(928) 855-4000,"3313 Maricopa Ave. Lake Havasu City, AZ 86406",,,,,34.4586428,-114.2769875,TRUE
+USA,AZ,Mesa,Main Street Billiards,480-694-7037,"1749 W. Main St. Suite #11 Mesa, AZ 85201",,16,,16,33.414413,-111.869062,TRUE
+USA,AZ,Mesa,Venture Out,530-862-1472,"5001 E. Main St. Lot 798 Mesa, AZ 85205",Mike Ellis,,,,33.4119601,-111.723524,TRUE
+USA,AZ,Peoria,Lions Light Corp.,907-223-7872,"27896 N 92nd Ln. Peoria, AZ 85383",,,,,33.7369849,-112.259964,TRUE
+USA,AZ,Phoenix,Bullshooters,602-441-2447,"3337 West Peoria Phoenix, AZ 85029",Mike Bates,,,,33.5806193,-112.1327994,TRUE
+USA,AZ,Phoenix,Metro Sportz Bar,602-326-9448 (Cell),"10402 North Black Canyon Highway Phoenix, AZ 85051",John Upshaw,,,,33.5801077,-112.118329,TRUE
+USA,AZ,Phoenix,O'Briens Sports Pub,602--841-3980,"7829 North 35th Ave. Phoenix, AZ 85051",Coady Shannon,,,,33.5523141,-112.1339396,TRUE
+USA,AZ,Phoenix,Metro,(602) 997-5717,"10111 N Metro Parkway E Phoenix, AZ 85051",,9,,,33.5793726,-112.1186634,TRUE
+USA,AZ,Prescott Valley,Barefoot Bobs Billiards,928-759-9590,"8367 Pecos Drive Prescott Valley, AZ 86314",Bob Soto,,,,34.6266129,-112.3182245,TRUE
+USA,AZ,Scottsdale,Connelly Billiards,480-419-2965,"15507 North Scottsdale Road Scottsdale, AZ 85254",,,,,33.6283609,-111.9244087,TRUE
+USA,AZ,Scottsdale,Craig Billiards,480-907-7600,"15816 N. Greenway Hayden Loop #400 Scottsdale, AZ 85260",Craig Connelly,,,,33.6294892,-111.9135102,TRUE
+USA,AZ,Sun City West,Sun City West,623-544-6029,"19803 R.H. Johnson Boulevard Sun City West, AZ 85375",Jack Cuddie,,,,33.6629403,-112.3562119,TRUE
+USA,AZ,Surprise,Sun City Grand,623-546-7468,"19726 N. Remington Dr. Surprise, AZ 85374",Laurie Segler,,,,33.6590081,-112.4056306,TRUE
+USA,AZ,Surprise,Sunflower RV Resort,480-387-1041,"16501 N. El Mirage Rd. Surprise, AZ 85378",Andrew Hill,,,,33.6331406,-112.3222977,TRUE
+USA,AZ,Tempe,Kolby's Corner Pocket,812-631-2010 (Cell),"1301 E. University Dr. Suite 112 Tempe, AZ 85281",Brian Desantis,,,,33.4212923,-111.9167999,TRUE
+USA,AZ,Tempe,Mill's Modern Social,602-491-9119 Bar,"83 East Broadway Road Tempe, AZ 85282",,16,,12,33.4072364,-111.9387616,TRUE
+USA,AZ,Tucson,Click's Billiards,520-887-7312,"3325 North 1st Avenue Tucson, AZ 85719",Chris Chlup,,,,32.2673174,-110.9617937,TRUE
+USA,AZ,Tucson,Craft Republic,520-575-1980,"7625 North La Cholla Blvd. Tucson, AZ 85741",Michael Murphy,,,,32.3444243,-111.013394,TRUE
+USA,AZ,Tucson,Pockets,520-275-6336,"1062 South Wilmot Road Tucson, AZ 85711",Curtis Johnson,,,,32.2084098,-110.8584368,TRUE
+USA,AZ,Winslow,PT's Bar,928-386-4205 (Cell),"1500 East 3rd Street Winslow, AZ 86047",Mark Dragoo,,,,35.0182423,-110.6828462,TRUE
+USA,AZ,Yuma,Country Roads RV Village,903-539-8844 (Cell),"5707 East 32nd Street Yuma, AZ 85365",Terry Moser,,,,32.6629549,-114.5336913,TRUE
+USA,AZ,Yuma,Fat Harvey's,(9284) 683-2873,"303 W 26th St. Yuma, AZ 85364",,3,,,32.6800407,-114.6236966,TRUE
+USA,AZ,Yuma,Sundance RV Resort,928-287-5051 (Cell),"13502 North Frontage Yuma, AZ 85367",Christina Hurwin,,,,32.6711104,-114.4019327,TRUE
+USA,CA,Anaheim,99 Bottles & Cocktails,(714) 826-2040,"8901 Katella Ave. Anaheim, CA 92804",,,,,33.8034455,-117.9770979,TRUE
+USA,CA,Anaheim,Blvd Cocktails,310-619-6828,"819 S. Euclid Street Anaheim, CA 92802",Dustin Cabrera,2,,,33.8207292,-117.9418565,TRUE
+USA,CA,Bakersfield,Firehouse Sports Pub,(661) 836-7665,"2905 Calloway Drive Bakersfield, CA 93312",,7,,,35.3872815,-119.1108034,TRUE
+USA,CA,Bakersfield,The Corner Pocket,(661) 835-7665,"3216 Ming Ave. #B Bakersfield, CA 93304",,15,,3,35.3402094,-119.0379032,TRUE
+USA,CA,Brea,Shady Nook Sports Bar,(714) 672-9440,"151 S Kraemer Blvd. Brea, CA 92821",,2,,,33.9189183,-117.8647966,TRUE
+USA,CA,Chico,Down Lo,(530) 892-2473,"319 Main St. Chico, CA 95928",,,,,39.7296047,-121.8389584,TRUE
+USA,CA,Chico,Oasis Bar & Grill,(530) 343-4305,"1007 West 1st Street Chico, CA 95928",,,,,39.7251302,-121.8495341,TRUE
+USA,CA,El Cajon,Kelly's Pub,(619) 448-7072,"719 E Bradley Ave. El Cajon, CA 92021",,4,,,32.8186591,-116.9512817,TRUE
+USA,CA,Emeryville,The Broken Rack,510-915-4611,"5768 Peladeau Street Emeryville, CA 94608",,,,,37.838822,-122.289597,TRUE
+USA,CA,Escondido,Five Points Sports Bar,(760) 740-1139,"1881 S. Escondido Blvd. Escondido, CA 92025",,3,,,33.1016234,-117.0713642,TRUE
+USA,CA,Fremont,California Billiards,(510) 668-1670,"40510 Albrae St. Fremont, CA 94538",,,,,37.5201274,-121.9875887,TRUE
+USA,CA,French Camp,Second Chance Saloon,636-697-5630,"8555 S. Wolfe Rd. French Camp, CA 95231",Janet Van Anterp,,,,37.8765021,-121.3023572,TRUE
+USA,CA,Fullerton,The Blue Door,(714) 870-6191,"1310 S Euclid St. Fullerton, CA 92832",,2,,,33.8586737,-117.9414217,TRUE
+USA,CA,Hayward,Shirlene's Iron Horse,510-278-3563,"18974 Meekland Avenue Hayward, CA 94541",Ryan Logsdon,,,,37.6802347,-122.1128377,TRUE
+USA,CA,Huntington Beach,Shooters Sports Bar,(714) 964-5171,"18582 Beach Blvd. #20 Huntington Beach, CA 92648",,4,,,33.6928978,-117.9880342,TRUE
+USA,CA,La Habra,Shotz Bar & Kitchen,(562) 245-7247,"1500 E La Habra Blvd La Habra, CA 90631",,4,,,33.9315081,-117.9294312,TRUE
+USA,CA,La Habra,Hedz or Tales,562-640-0701,"211 East Imperial Hwy. LaHabra, CA 90631",Michael Shoemaker,,,,33.9177236,-117.9446023,TRUE
+USA,CA,La Mesa,On Cue Billiards,(619) 463-8759,"8308 Parkway Dr. La Mesa, CA 91942",,,,,32.7787877,-117.0176625,TRUE
+USA,CA,La Mirada,Sportsman's Lounge,(562) 921-1016,"13902 Imperial Hwy. La Mirade, CA 90638",,2,,,33.9165595,-118.0360587,TRUE
+USA,CA,La Mirada,Golde Brique Inn,(562) 941-9263,"14942 Leffingwell Rd. La Mirada, CA 90638",,2,,,33.9260437,-118.0127763,TRUE
+USA,CA,Lakewood,Good Times Family Billiards,(562) 420-9556,"4125 Paramount Blvd. Lakewood, CA 90712",,,,,33.8332769,-118.1605238,TRUE
+USA,CA,Livermore,Pine Street Bar,(925) 606-8266,"875 Rincon Ave. Livermore, CA 94551",Will Nowicki,4,,,37.6881629,-121.7840641,TRUE
+USA,CA,Los Angeles,90 West Lounge,(310) 821-4000,"12740 Culver Blvd. Los Angeles, CA 90066",,1,,,33.9853191,-118.4250498,TRUE
+USA,CA,Menifee,Pitstop Pub Sports Bar,(951) 679-0869,"26900 Newport Rd. Menifee, CA 92584",,4,,,33.6860167,-117.1901182,TRUE
+USA,CA,Mesa,Pub 33,714-865-0733,"1562 Newport Blvd Costa Mesa, CA 92627",Gary Turner,,,,33.6317961,-117.9231098,TRUE
+USA,CA,Milpitas,Edgie's Billiards,(669) 236-9800,"235 S. Milpitas Blvd. Milpitas, CA 95035",,,,,37.4273071,-121.896327,TRUE
+USA,CA,Moorpark,Butera's Billiards,805-558-1910,"476 W Los Angeles Blvd. Moorpark, CA 93021",Sal Butera,,,,34.2786359,-118.8870344,TRUE
+USA,CA,Northridge,The Nectar,(818) 717-9300,"8626 Balboa Blvd. Northridge, CA 91325",,2,,,34.227449,-118.5021342,TRUE
+USA,CA,Oxnard,The Q-Club,818-448-5580,"2362 North Oxnard Boulevard Oxnard, CA 93036",Jose Gonzalez,,,,34.2284779,-119.177341,TRUE
+USA,CA,Pasadena,Jerry's Family Billiards,(626) 590-3770,"1312 N. Lake Ave. Pasadena, CA 91104",,,,,34.1685514,-118.1318219,TRUE
+USA,CA,Petaluma,Buffalo Billiards,707-585-8992,"246 Petaluma Boulevard North Petaluma, CA 94952",Lee Simon,,,,38.2368001,-122.6414109,TRUE
+USA,CA,Ramona,Cheers of Ramona,(760) 789-0270,"2475 Main St. Ramona, CA 92065",,,,,33.0265592,-116.8920234,TRUE
+USA,CA,Rancho Cordova,Diamond Billiards,916-257-3874,"10303 Folsom Blvd. Rancho Cordova, CA 95670",Brian Rutledge,,,,38.58798,-121.3078747,TRUE
+USA,CA,Rancho Cucamonga,Mustang Sally's,(909) 987-2617,"10028 Foothill Blvd S Rancho Cucamonga, CA 91730",,,,,34.1057492,-117.5891324,TRUE
+USA,CA,Rialto,Jacks Grill & Billiards,(909) 440-5730,"148 S Riverside Ave. Rialto, CA 92376",,,,,34.0992784,-117.3707022,TRUE
+USA,CA,Sacramento,Hard Times,(916) 332-8793,"5536 Garfield Ave Sacramento, CA 95841",Oscar & Desiree Dominguez,2,,8,38.6671772,-121.3360823,TRUE
+USA,CA,Sacramento,Jointed Cue,(916) 456-3243,"2375 Fruitridge Rd. Sacramento, CA 95822",,4,,,38.5251138,-121.484034,TRUE
+USA,CA,San Diego,O Zone Billiard Cafe,510-965-8888,"4887 Convoy Street San Diego, CA 92111",Kenny Kwok Ling Cheung,,,,32.8301205,-117.152693,TRUE
+USA,CA,San Diego,Pockets Billiards & Brew,(858) 876-5452,"6450 Cleeve Way San Diego, CA 92117",Lila Woodland,,,,32.8271302,-117.1675812,TRUE
+USA,CA,San Francisco,Family Billiards,530-570-2611,"2807 Geary Boulevard San Francisco, CA 94118",Gilbert Argllano,,,,37.782059,-122.4492982,TRUE
+USA,CA,San Francisco,Billiard Palacade,415-225-4336,"5179 Mission Street San Francisco, CA 94112",,,,,37.7157633,-122.4411891,TRUE
+USA,CA,San Francisco,Target Pool,,"1097 Howard St. Unit 307 San Francisco, CA 94103",Christian Taylor,,,,37.7779951,-122.4089145,TRUE
+USA,CA,Santa Barbara,Don Q Family Billiard Center,(805) 845-3197,"1128 Chapala St. Santa Barbara, CA 93101",,,,,34.4222502,-119.7052084,TRUE
+USA,CA,Santa Barbara,Cliff Room,805-705-8806,"1828 Cliff Drive Santa Barbara, CA 93109",Dave Clark,2,,,34.4017305,-119.7214966,TRUE
+USA,CA,Torrance,Mr. Lucky's Billiards,(310) 371-9489,"21020 Hawthorne Blvd. Torrance, CA 90503",,,,,33.8391698,-118.3530662,TRUE
+USA,CA,Ventura,GiGi's Cocktail Lounge,(805) 642-2411,"2493 Grand Ave. Ventura, CA 93003",,2,,,34.2514202,-119.2072636,TRUE
+USA,CA,Vista,The Stage Coach Inn,(760) 724-9090,"1865 West Vista Way Vista, CA 92083",Jay Turner,,,,33.1881032,-117.2810751,TRUE
+USA,CA,Walnut,VIP Billiards,(909) 345-7782,"20627 Golden Springs Dr. Walnut, CA 91789",,,,,33.9981731,-117.855365,TRUE
+USA,CA,Westminster,Posse Bar,(657) 227-7172,"13093 Springdale St. Westmister, CA 92683",,1,,,33.7727374,-118.0235948,TRUE
+USA,CA,Woodland,The Morning Star Company,519-630-8705 (Cell),"724 Main Street Woodland, CA 95695",Todd Rufer,,,,38.677301,-121.7708465,TRUE
+USA,CO,Alamosa,Bank Shot Sports Bar,719-588-9895 (Cell),"1212 8th St. Alamosa, CO 81101",Al Lujan,7,,,37.464304,-105.8747711,TRUE
+USA,CO,Arvada,Mile High Billiards,970-418-2159,"11651 West 64th Unit B-3 Arvada, CO 80004",Warner Kingsbury,12,,4,39.8132703,-105.1289563,TRUE
+USA,CO,Aurora,Rack'em Billiards & Sports Bar,303-755-7675,"1919 S/ Havana St. Aurora, CO 80014",,12,,10,39.6816115,-104.8675082,TRUE
+USA,CO,Aurora,Steel Tips Bar,303-699-2222,"15162 E Hampden Ave. Aurora, CO 80014",,2,,,39.6517194,-104.8121749,TRUE
+USA,CO,Aurora,The Famous Door 2,720-870-3236,"15220 E Hampden Ave. Aurora, CO 80014",,,,,39.6517807,-104.8113999,TRUE
+USA,CO,Aurora,Piazza's Sports Bar & Restaurant,720-379-7124,"1770 S. Buckley Rd. Aurora, CO 80017",Tony Piazza,8,,,39.6833164,-104.7892846,TRUE
+USA,CO,Brighton,Rock Pocketz LLC,303-412-0257,"682 Hayloft Way Brighton, CO, 80601",Rob Randolph,,,,39.9996062,-104.7655167,TRUE
+USA,CO,Broomfield,Zooster's Pu & Pool Hall,303-465-9298,"300 Nickel St #23 Broomfield, CO 80020",,11,,,39.9204394,-105.0867478,TRUE
+USA,CO,Colorado Springs,Time Out Sports Lounge,719-390-7257,"3721 Drennan Rd. Colorado Springs, CO 80910",,6,,,38.7816275,-104.758839,TRUE
+USA,CO,Colorado Springs,Antique Billiards Museum,719-597-9809,"3628 Citadel Dr N Colorado Springs, CO 80909",Jim Barber,25+,,,38.8466041,-104.7620475,TRUE
+USA,CO,Denver,Lil's Place,303-430-7176,"7575 Broadway Ste. D Denver, CO 80221",,,,,39.833924,-104.9881206,TRUE
+USA,CO,Denver,Memphis Cue Bar,720-909-2215,"333 N. Broadway Denver, CO 80203",,6,,,39.7215644,-104.9877029,TRUE
+USA,CO,Denver,Los Sierra's Bar,303-657-5920,"6762 Lowell Blvd. Denver, CO 80221",,4,,,39.8195682,-105.0341213,TRUE
+USA,CO,Denver,Wynkoop Brewing Company,303-297-2700,"1634 18th St. Denver, CO 80202",,,,,39.7534202,-104.9985353,TRUE
+USA,CO,Denver,Love Shack,303-426-6420,"7290 N Pecos St, Denver, CO 80221",,,,,39.8288909,-105.0056461,TRUE
+USA,CO,Durango,El Rancho Tavern,970-749-1816,"975 Main Avenue Durango, CO 81301",,,,,37.2744059,-107.880764,TRUE
+USA,CO,Englewood,Felt Billiards,720-266-6190,"101 W Floyd Ave #2421 Englewood, CO 80110",,16,,-1,39.656761,-104.9893368,TRUE
+USA,CO,Evans,Lit'l Bit Bar and Grill,720-467-5381,"3620 35th Avenue Evans, CO 80620",,,,,40.3788562,-104.7335471,TRUE
+USA,CO,Federal Heights,The Wreck Room Saloon,303-412-0257,"2695 W. 92nd Ave Federal Heights, CO 80260",,7,,,39.8639105,-105.0190779,TRUE
+USA,CO,Fort Morgan,The Club Tap,970-441-0738,"212 Main Street Fort Morgan, CO 80701",,,,,40.2491724,-103.8012506,TRUE
+USA,CO,Lakewood,Greenfield's Pool & Sports Bar,303-989-9820,"3355 S Yarrow St E101, Lakewood, CO 80227",,14,,,39.6545617,-105.0836832,TRUE
+USA,CO,Littleton,The Mirage Sports Bar,303-979-9220,"8340 W Coal Mine Ave. Littleton, CO 80123",,,,,39.5942588,-105.090495,TRUE
+USA,CO,Lone Tree,Fox & Hound,720-875-9161,"9239 Park Meadows Drive Lone Tree, CO 80124",,4,,,39.5559188,-104.8805349,TRUE
+USA,CO,Pagosa Springs,Pagosa Bar,970-264-2749,"460 Pagosa St. Pagosa Springs, CO 81147",,2,,,37.2667587,-107.0113736,TRUE
+USA,CO,Pueblo,A and D Billiards,(719) 250-1004,"1715 South Prairie Ave Pueblo, CO 81005",Ted Mauro,,,,38.2381508,-104.6440707,TRUE
+USA,CO,Pueblo,Classic Q's,719-250-6983,"1715 South Prairie Avenue Pueblo, CO 81005",D'Layne Easton,9,,2,38.2381508,-104.6440707,TRUE
+USA,CO,Pueblo West,Jimmy's Tavern,719-547-1515,"324 S McCulloch Blvd Pueblo West, CO 81007",,,,,38.321231,-104.745977,TRUE
+USA,CO,Wheat Ridge,Longshots,303-403-0227,"4400 Ward Rd, Wheat Ridge, CO 80033",,,,,39.7787918,-105.1374537,TRUE
+USA,CT,Naugatuck,Victoria Inn Cafe,203-910-2666,"23 Union St. Naugatuck, CT 06770",,,,,41.5015757,-73.0459467,TRUE
+USA,CT,New London,Crown Billiards,860-439-1676,"264 S. Frontage Rd. New London, CT 06320",,,,,41.367706,-72.1171532,TRUE
+USA,CT,Wallingford,Yale Billiards,203-631-2428,"169 N. Plaines Industrial Rd. Wallingford, CT 06492",,,,,41.4733238,-72.8187299,TRUE
+USA,CT,West Haven,Us1 Billiards,(203) 848-1212,"1167 Boston Post Rd. West Haven, CT 06516",,,,,41.2809906,-72.9843089,TRUE
+USA,DE,Dagsboro,Delmarva Billiards,302-927-0314,"32448 Royal Blvd Unit 2 Dagsboro, DE 19939",,,,,38.5410003,-75.2558441,TRUE
+USA,DE,Georgetown,Milford Billiards,302-856-0991,"128 East Market Street Georgetown, DE 19947",,,,,38.691341,-75.38381,TRUE
+USA,DE,Ocean View,SSPL,703-338-1992,"38840 Oyster Catcher Dr. Ocean View, DE 19970",,,,,38.5688656,-75.1107071,TRUE
+USA,DE,Wilmington,Red White And Brew,302-275-2233,"106 Main St. Wilmington, DE 19804",,,,,39.7138678,-75.6447434,TRUE
+USA,FL,Bradenton,Livingston's Billiards,941-753-6692,"4828 14th St. W Bradenton, FL 34207",,14,,12,27.454984,-82.5769922,TRUE
+USA,FL,Bradenton,Naughty Monk Brewery,841-708-2966,"2507 Lakewood Ranch Blvd. Bradenton, FL 34211",,2,,,27.475244,-82.433086,TRUE
+USA,FL,Brandon,Baluka Billiards & Lounge,813-681-7665,"2072 Badlands Dr. Brandon, FL 33511",,,,,27.9272585,-82.3158945,TRUE
+USA,FL,Cape Coral,Southern Billiards,847-863-2567,"2138 Santa Barbara Blvd Cape Coral, FL 33991",,10,,2,26.6114764,-81.9745751,TRUE
+USA,FL,Cape Coral,Diamond Billiards,239-573-7665,"1242 Pine Island Rd Cape Coral, FL 33991",,8,,12,26.6403081,-81.999677,TRUE
+USA,FL,Casselberry,Clicks,407-678-9366,"1455 North Semoran Blvd. #291 Casselberry, FL 32707",,,,,28.5662917,-81.3103459,TRUE
+USA,FL,Casselberry,The Green Parrot,321-947-2317,"280 State Rd. 436 Casselberry, FL 32707",,,,,28.6594729,-81.3350357,TRUE
+USA,FL,Charlotte,Charlie's Pub,941-268-0551,"3496 North Tamiami Trail Port Charlotte, FL 33952",,,,,26.9796573,-82.0943072,TRUE
+USA,FL,Clearwater,Breakers Billiards,727-531-9258,"1458 S. Belcher Rd. Clearwater, FL 33764",,,,,27.9438433,-82.7469072,TRUE
+USA,FL,Clearwater,Crooked Cue Billiards,727-580-5709,"14100 US Hwy 19 Suite 127 Clearwater, FL 33764",,,,,27.899984,-82.727581,TRUE
+USA,FL,Davie,Beyond Billiards,954-235-5625,"5705 S. University Drive Davie, FL 33328",,3,,,26.0496621,-80.2535203,TRUE
+USA,FL,Daytona Beach,Waldo's Sports Pub & Billiards,386-760-7006,"2454 S Nova Rd. Daytona Beach, FL 32119",,,,,29.1560801,-81.0211681,TRUE
+USA,FL,Dunedin,Stix Billiards,727-686-5746,"2676 Crystal Circle Dunedin, FL 34698",,,,,28.04654,-82.7566055,TRUE
+USA,FL,Homosassa,Stixx Billiards,352-628-0432,"3171 S. Stonebrook Dr. Homosassa, FL 34448",,3,,,28.8156223,-82.5757075,TRUE
+USA,FL,Homosassa,High Octane Billiards,352-794-6037,"1590 S. Suncoast Blvd. Homosassa, FL 34448",,,,,28.8389224,-82.5801577,TRUE
+USA,FL,Jacksonville,9 Ball Heaven,904-683-2630,"2777 University Blvd W Ste. 14 Jacksonville, FL 32217",,8,,8,30.2614937,-81.6309164,TRUE
+USA,FL,Jacksonville,Blanding Billiards,904-683-4933,"2044 Blanding Blvd. Jacksonville, FL 32210",,,,,30.2808534,-81.72668,TRUE
+USA,FL,Jacksonville,Gator Coin,904-356-4301,"576 Woodruff Ave. Jacksonville, FL 32254",,,,,30.3199019,-81.7287434,TRUE
+USA,FL,Jacksonville,Jim's Blanding Billiards,904-716-4841,"244 Blanding Blvd Jacksonville, FL 32210",,,,,30.1747761,-81.7451613,TRUE
+USA,FL,Jacksonville,Mariannes Tournaments,904-576-3820,"875 N. Woodbridge Hallow Rd. Jacksonville, FL 32218",,,,,30.4425329,-81.6673396,TRUE
+USA,FL,Jacksonville,Sunshine State ProAm Pool Tour,904-759-8421,"1513 Huffingham Rd. Jacksonville, FL 32216",,,,,30.294447,-81.6001017,TRUE
+USA,FL,Kissimmee,Mad Hippo Saloon,203-395-7394,"2948 Vineland Rd. Kissimmee, FL 34746",,6,,,28.3346285,-81.4808896,TRUE
+USA,FL,Lakeland,Wally's,863-618-9996,"1734 Moose Dr. Lakeland, FL 33801",,,,,28.0210612,-81.9089091,TRUE
+USA,FL,Lantana,Paradise Billiards,561-508-4627,"5877 S. Congree Avenue Lantana, FL 33462",,,,,26.5888337,-80.0953224,TRUE
+USA,FL,Largo,The Corner Pocket,727-330-7822,"12686 Starkey Rd. Largo, FL 33773",,,,,27.8880941,-82.762534,TRUE
+USA,FL,Lecanto,Fraternal Order Of The Eagles 4272,609-221-9049,"F4272 Frank Wunder 2638 W Joerae Ct. Lecanto, FL 34461",,,,,28.7698829,-82.4773275,TRUE
+USA,FL,Leesburg,Frank's Place,352-323-1989,"201 N 1st Street Leesburg, FL 34748",,,,,28.811625,-81.8759243,TRUE
+USA,FL,Lynn Haven,The Hideaway Pub,850-527-2835,"4708 Highway 389 Lynn Haven, FL 32444",,,,,30.2343157,-85.6276535,TRUE
+USA,FL,Miami,Sharp Shooters Billiards,305-596-0588,"7200 S.W. 117th Avenue Miami, FL 33183",,,,,25.7001963,-80.3827172,TRUE
+USA,FL,Miami,K & K Billiards,305-960-7273,"1090 N. E. 79th Street Miami, FL 33138",,12,,3,25.8478628,-80.1742104,TRUE
+USA,FL,Miami,K & K Billiard Club & Sports Bar,305-982-8355,"1090 NE 79th Street Miami, FL 33138",,,,,25.8478628,-80.1742104,TRUE
+USA,FL,Ocala,Diamond Sports Bar,407-810-4697,"2911 NE Jacksonville Road Ocala, FL 34479",Doug Lily,,,,29.21565,-82.125223,TRUE
+USA,FL,Ocala,Time Out Billiards,352-444-7665,"618 S Pine Ave. Ocala, FL 34471",,10,,,29.181523,-82.1416989,TRUE
+USA,FL,Ocala,Boulevard Billiards,352-615-0088,"3741 E Silver Springs Blvd Ocala, FL 34470",,,,,29.2000961,-82.084622,TRUE
+USA,FL,Okeechobee,Tin Fish,863-357-0722,"301 North Parrott Ave. Okeechobee, FL 34972",,,,,27.2460271,-80.8302669,TRUE
+USA,FL,Okeechobee,Hammerheads,863-357-4745,"701 NE 3rd St. Okeechobee, FL 34972",,,,,27.250967,-80.832753,TRUE
+USA,FL,Orange Park,Cue & Shisha,904-375-9058,"311 Blanding Blvd #10 Orange Park, FL 32073",,15,,1,30.1701961,-81.745799,TRUE
+USA,FL,Orange Park,Park Avenue Billiards,904-215-1557,"714 Park Avenue Orange Park, FL 32073",,,,,30.1812966,-81.7032168,TRUE
+USA,FL,Orlando,Clicks - Orlando,407-275-6064,"2524 S. Semoran Blvd. Orlando, FL 32822",,,,,28.5148997,-81.3112089,TRUE
+USA,FL,Palm Bay,Poolies Billiards,321-951-1560,"1851 Palm Bay Rd NE Palm Bay, FL 32905",,,,,28.0357193,-80.6175147,TRUE
+USA,FL,Palm Harbor,Strokers Sports Bar and Grill,917-355-9908 (Cell),"30901 US Highway 19 North Palm Harbor, FL 34684",,,,,28.0535591,-82.7380137,TRUE
+USA,FL,Palm Harbor,Stix,727-937-9225,"38529 US Hwy 19 N, Palm Harbor, FL 34684",,,,,28.1218783,-82.7383176,TRUE
+USA,FL,Panama City,Pasky Inc.,850-819-8007,"309 South Tyndall Pkwy Panama City, FL 32404",,,,,30.141698,-85.5907737,TRUE
+USA,FL,Panama City Beach,Vic's Sports Bar,850-919-5413,"2727 Joan Ave Panama City Beach, FL 32408",,,,,30.172719,-85.7901488,TRUE
+USA,FL,Pensacola,Cordova Lanes,850-477-2300,"2111 Airport Blvd Pensacola, FL 32504",,,,,30.4753132,-87.2042003,TRUE
+USA,FL,Pensacola,Krazy 8 Billards,850-530-3900,"1707 West Fairfield Drive Pensacola, FL 32501",,,,,30.4448428,-87.2366684,TRUE
+USA,FL,Pinellas Park,City Billiards,727-521-0858,"6200 62nd Avenue North Pinellas Park, FL 33781",,,,,27.8280125,-82.7206149,TRUE
+USA,FL,Port St. Lucie,Harpers Billiards,772-237-4536,"337 SE Port St. Lucie Blvd. Port St. Lucie, FL 34953",,,,,27.2734437,-80.3404145,TRUE
+USA,FL,Port St. Lucie,Shooters Billiards,772-215-2783 (Cell),"8934-8942 US1 Port St. Lucie, FL 34952",,22,,,27.3045879,-80.3067966,TRUE
+USA,FL,Sanford,Racks Billiards Sports Bar and Grill,407-449-7665,"312 Entrance Rd N Sanford, FL 32771",,20,,,28.8082961,-81.3380077,TRUE
+USA,FL,Seminole,Jesse's Bar CMsplace,727-392-1900,"10754 70th Ave Ste. D Seminole, FL 33772",,,,,27.8354157,-82.7881045,TRUE
+USA,FL,South Daytona,Uncle Waldo's,386-212-4998,"2454 South Nova Road South Daytona, FL 32119",,,,,29.1560801,-81.0211681,TRUE
+USA,FL,Spring Hill,Capone's Billiard's,352-688-9965,"10463 County Line Rd Spring Hill, FL 34609",,11,,,28.4348344,-82.5429316,TRUE
+USA,FL,Stuart,Raxx Billiards,772-215-2783 (Cell),"1600 NW Federal Highway Stuart, FL 34995",,18,,,27.2248041,-80.2651532,TRUE
+USA,FL,Summerfield,Spruce Creek Golf and Country Club,3523070696 Ext. 223,"13601 Del Webb Blvd Summerfield, FL 34491",,,,,29.0177407,-82.011208,TRUE
+USA,FL,Tallahassee,Zingale Billiards & Sports Bar,850-524-6888,"1147 Apalachee Tallahassee, FL 32301",,,,,30.4363909,-84.2646288,TRUE
+USA,FL,Tampa,The Billiard Fitter,813-416-2255,"4119 Gunn Hwy Suite 18 Tampa, FL 33618",,,,,28.0423109,-82.5100852,TRUE
+USA,FL,Tampa,Repeal 18,813-486-8070,"9882 West Linebaugh Ave. Tampa, FL 33626",,,,,28.0438933,-82.5967276,TRUE
+USA,FL,Tampa,Stixx Billiards Oldsmar,813-475-4697,"13918 W Hillsborough Ave, Tampa, FL 33635",,,,,28.0319676,-82.6464909,TRUE
+USA,FL,The Villages,Villages Center Community,352-753-4022,"1071 Canal Street The Villages, FL 32162",,,,,28.9075462,-81.9745213,TRUE
+USA,FL,Valrico,Ocho Blanco Billiards,913-689-8258,"112 Pierce Christie Dr. Valrico, FL 33594",,,,,27.9385454,-82.2604027,TRUE
+USA,FL,Winter Park,A'int Missbehavin,407-672-0368,"1550 State Road 436 Winter Park, FL 32792",,,,,28.6238628,-81.314605,TRUE
+USA,FL,Winter Park,Cue-Phoria Billiards Cafe,321-972-1867,"1810 Semoran Blvd. Ste. 132 Winter Park, FL 32792",,,,,28.5690194,-81.3115662,TRUE
+USA,FL,Winter Park,The Pool Table Store,407-339-5686,"1786 State Road 436 Winter Park, FL 32792",,,,,28.618291,-81.3116388,TRUE
+USA,FL,Zephyrhills,Jerry's Crystal Bar,813-469-1077,"5707 Gall Blvd Zephyrhills, FL 33542",,,,,28.2404457,-82.1857872,TRUE
+USA,FL,Zephyrhills,"Main Street Billiards, LLC",815-607-0520,"38529 5th Ave. Zephyrhills, FL 33542",,,,,28.23501,-82.1794079,TRUE
+USA,GA,Woodstock,Big Shot Billiards,678-445-7665,"101 Emma Ln. Ste. 104 Woodstock, GA 30189",,13,,4,34.0869892,-84.5478543,TRUE
+USA,GA,LaGrange,Chalk It Up,706-882-9798room,"1872 Vernon Rd. LaGrange, GA 30240",,,,,33.0293748,-85.0698972,TRUE
+USA,GA,Marietta,Cue's Billiards,770-425-1101,"3372 CAnton Rd. Ste. 140 Marietta, GA 30066",,,,,34.034154,-84.5262328,TRUE
+USA,GA,Hinesville,Doodles Billiards,912-369-2211,"105 W General Screven Way Hinesville, GA 31313",,20,,,31.8412284,-81.5986867,TRUE
+USA,GA,Rincon,Doodles Billiards Rincon,912-295-2536,"586 S Columbia Ave. Rincon, GA 31326",,,,,32.2695617,-81.2236699,TRUE
+USA,GA,Kennesaw,Kennesaw Billiards,404-886-6534,"3600 Cherokee Street #107 Kennesaw, Georgia 30144",,4,,8,34.0417862,-84.6018319,TRUE
+USA,GA,Loganville,Level Best Billiards,770-598-0550,2887 Highway 78 Suite 107 Loganville Ga 30052,,,,,33.830123,-83.8512012,TRUE
+USA,GA,Augusta,Master Billiards,706-825-4254,"624 Stevens Crossing Augusta, GA 30907",,,,,33.540776,-82.0595688,TRUE
+USA,GA,Atlanta,Mr. Cues Billiards,678-834-4727 (Cell),"3541 Chamblee Tucker Road Atlanta, GA 30341",,,,,33.8845865,-84.248292,TRUE
+USA,GA,Kennesaw,Ozone Billiards,770-874-6181ex114,"890 Cobb Place Boulevard Kennesaw, GA 30144",,,,,34.012072,-84.575009,TRUE
+USA,GA,Covington,Pockets Billiards,404-456-1444,"6185 Highway 278 NE Covington, GA 30014",,20,,4,33.6026303,-83.8450017,TRUE
+USA,GA,Brunswick,Port City Billiards,912-262-1755,"4420 Altama Avenue, Suite 44 Brunswick, GA 31520",,,,,31.1942882,-81.4838063,TRUE
+USA,GA,Augusta,"Prescott, Robbie",706-738-0866,"2834 Washington Road Augusta, GA 30909",,,,,33.5105101,-82.0335371,TRUE
+USA,GA,Augusta,Rack and Grill,706-814-5673,"3801 Mike Padgett Hwy. Augusta, GA 30906",,,,,33.3603894,-81.9906788,TRUE
+USA,GA,Martinez,Rack and Grill,706-288-4845,"304 Commerce Dr Martinez, GA 30907",,,,,33.5173377,-82.0715194,TRUE
+USA,GA,Martinez,Rack and Grill,706-855-7534,"3481 Old Petersburg Rd. Martinez, GA 30907",,,,,33.5179961,-82.0802812,TRUE
+USA,GA,Augusta,Robbie's Sports Club,706-738-0866 (Cell),"2834 Washington Rd. Augusta, GA 30909",,,,,33.5105101,-82.0335371,TRUE
+USA,GA,Statesboro,Southern Billiards & Burgers,912-225-9887,"200 Lanier Dr Ste. 2 Stateboro, GA 30458",,,,,32.4132005,-81.7808809,TRUE
+USA,GA,Hampton,Sticks Pool Room,770-897-2111 (Cell),"106A Woolsey Road Hampton, GA 30228",,,,,33.3819027,-84.2998752,TRUE
+USA,GA,Villa Rica,Stix Tavern LLC,678-523-4272,"660 W. Bankhead Highway Villa Rica, GA 30180",,,,,33.7293696,-84.9370001,TRUE
+USA,GA,Newnan,Swing and Billiard Etc.,770-252-2050,"19 Vanderbilt Pointe Way Newnan, GA 30265",,,,,33.3630173,-84.7186786,TRUE
+USA,GA,Jonesboro,Tara Billiards,770-603-0116,"9625 South Main Street Jonesboro, GA 30236",,,,,33.4925346,-84.3392918,TRUE
+USA,GA,Savannah,The Bar Bar,912-231-1910,"219 W Julian St. Savannah, GA 31401",,,,,32.0806313,-81.094664,TRUE
+USA,GA,Macon,The Dawg House,478-256-8894,"634 Shurling Dr. Macon, GA 31211",,10,,1,32.8609567,-83.6133285,TRUE
+USA,GA,Richmond Hill,The Jukebox Bar & Grill,912-756-6997,"3741 US Hwy. 17 Ste. 500 Richmond Hill, GA 31324",,,,,31.9318539,-81.3244268,TRUE
+USA,GA,Bloomingdale,Twilight Bar & Grill,912-988-1580,"2805 Fort Argyle Rd. Bloomingdale, GA 31302",,4,,,32.079479,-81.370768,TRUE
+USA,HI,Honolulu,Siam Paradise,(808) 312-1236,"1336 Dillingham Blvd. #2 Honolulu, HI 96817",,2,,,21.3237572,-157.8750375,TRUE
+USA,HI,Honolulu,TJ's Sports Bar & Grill,(808) 427-2507,"600 Kapiolani Blvd. Honolulu, HI 96813",,,,,21.3032235,-157.8549526,TRUE
+USA,HI,Honolulu,Velvet Touch Billiards,808-255-1005,"1415 Liholiho St Apt 707 Honolulu, HI 96822",,,,,21.3035286,-157.8407981,TRUE
+USA,IA,Burlington,"Buddies, Inc.",319-752-6005,"2600 Madison Avenue Burlington, IA 52601",,,,,40.7798121,-91.1076321,TRUE
+USA,IA,Cedar Rapids,2nd Ave. Corner Pocket,(319) 366-0979,"609 2nd Avenue SW Cedar Rapids, IA 52404",,10,,2,41.9727574,-91.6793758,TRUE
+USA,IA,Clear Lake,Rookies Rockin Sports Bar,641-529-0306,"307 Main Ave. Clear Lake, IA 50428",,4,,,43.135926,-93.3815098,TRUE
+USA,IA,Clinton,Legend's Sports Bar,(563) 243-4266,"2118 Harrison Dr. Clinton, IA 52732",,8,,2,41.8173637,-90.2375857,TRUE
+USA,IA,Clive,The Rack Billiard Club,(515) 727-9067,"2249 NW 86th St. Clive, IA 50325",,16,,,41.6140469,-93.7357932,TRUE
+USA,IA,Davenport,Sharkey's Billiards,(563) 359-7225,"2902 E Kimberly Rd. Davenport, IA 52807",,25,,,41.5563702,-90.5289481,TRUE
+USA,IA,Davenport,Yoshis Bar And Filipino Canteen,319-961-6330,"831 W. 3rd St Davenport, IA 52802",,,,,41.5222285,-90.5857344,TRUE
+USA,IA,Des Moines,Big Dog's Billiards,(515) 266-6100,"4510 NE 14th St. Des Moines, IA 50313",,,,,41.642446,-93.601168,TRUE
+USA,IA,Dubuque,Cue Masters Billiards,563-542-2550 (Cell),"900 Central Avenue Dubuque, IA 52001",,,,,42.5024901,-90.6652866,TRUE
+USA,ID,Boise,The Pocket,(208) 375-2474,"1487 N Curtis Rd. Boise, ID 83706",,15,,2,43.618001,-116.2544466,TRUE
+USA,ID,Boise,Eastside Tavern,(208) 345-3878,"1228 S. Oakland Ave. Boise, ID 83706",,3,,,43.5973032,-116.2031349,TRUE
+USA,ID,Boise,Quinn's Restaurant,(208) 514-1083,"1005 S. Vista Ave. Boise, ID 83705",,3,,,43.5950204,-116.2140306,TRUE
+USA,ID,Coeur d'Alene,Paddy's Sports Bar,208-765-0701,"601 W. Appleway Ave. Coeur d'Alene, ID 83814",,,,,47.7010564,-116.7949145,TRUE
+USA,ID,Hayden,Reverend Jonas Billiards,208-758-9999,"1305 E. Burnham Ave. Hayden, ID 83835",,,,,47.7650451,-116.7692125,TRUE
+USA,ID,Idaho Falls,Pockets,208-525-9962 - Location,"905 E Lincoln Rd. Idaho Falls, ID 83401",,4,,,43.511732,-112.0133327,TRUE
+USA,ID,Nampa,Kickback Bar,(208) 467-3409,"3116 Garrity Blvd. Nampa, ID 83687",,7,,,43.5878075,-116.5323241,TRUE
+USA,ID,Nampa,Firehouse Sports Pub,208-863-3652 Cell,"423 E Karcher Rd. Nampa, ID 83687",,6,,,43.6048138,-116.56745,TRUE
+USA,ID,New Plymouth,Double Diamond,(208) 278-9282,"109 W. Maple St. New Plymouth, ID 83655",,3,,,43.971415,-116.82027,TRUE
+USA,ID,Pocatello,Rim Rock Bar And Grill,208-233-6789,"4037 N. Lower Rd. Pocatello, ID 83204",,,,,42.8197655,-112.3791326,TRUE
+USA,ID,Pocatello,Office Bar & Grill,208-577-1028,"251 E Center St. Pocatello, ID 83201",,,,,42.8643396,-112.4466399,TRUE
+USA,ID,Pocatello,Center Street Clubhouse,208-232-9654,"542 East Center Street Pocatello, ID 83201",,,,,42.8664446,-112.4440936,TRUE
+USA,ID,Pocatello,Clydesdale Bar & Lounge,(208) 233-1841,"655 N. 5th Ave. Pocatello, ID 83204",,3,,,42.8707647,-112.448871,TRUE
+USA,ID,Pocatello,The First National Bar,(208) 233-1516,"232 W. Center St. Pocatello, ID 83204",,,,,42.8625508,-112.4503539,TRUE
+USA,ID,Pocatello,"Cue & Brews, LLC",208-709-0112,"249 East Center Street Pocatello, ID 83201",,6,,,42.8643034,-112.4466749,TRUE
+USA,ID,Pocatello,Oasis Sports Bar,208-317-2398,"304 N. Main Street Pocatello, ID 83204",,,,,42.863859,-112.452313,TRUE
+USA,ID,Pocatello,Idaho State University,208-282-3335,"921 South 8th Street Pocatello, ID 83209",,,,,42.8613521,-112.433097,TRUE
+USA,ID,Twin Falls,The Pocket,208-733-9676,"1532 Kimberly Rd. Twin Falls, ID 83301",,,,,42.5480943,-114.4546864,TRUE
+USA,IL,Algonquin,Twisted Rose,630-506-0842,"1130 S Main St. Algonquin, IL 60102",,,,,42.1574152,-88.2974264,TRUE
+USA,IL,Alsip,Red Shoe Billiards,708-388-3700,"12009 South Pulaski Road Alsip, IL 60803",,,,,41.6733866,-87.7178708,TRUE
+USA,IL,Anna,The Strike Zone,618-697-2398,"1616 Dogwalk Road Anna, IL 62906",,,,,37.4672395,-89.190991,TRUE
+USA,IL,Arlington Heights,Arlington Lanes,847-255-6373,"3435 N Kennicott Ave. Arlington Heights, IL 60004",,10,,,42.1377993,-87.9942667,TRUE
+USA,IL,Arlington Heights,Fox & Hound Smoke House & Tavern,847-590-9019,"910918 W Dundee Rd. Ste A01A03 Arlington Heights, IL 60004",,,,3,42.1398751,-87.9943587,TRUE
+USA,IL,Ashmore,Down Street Bar,217-508-6611,"109 West Ashmore Ashmore, IL 61912",,,,,39.5340069,-88.0205927,TRUE
+USA,IL,Aurora,Rudy's Place,630-621-7619,"900 Hill Avenue Aurora, IL 60505",,,,,41.7384066,-88.2875116,TRUE
+USA,IL,Berwyn,Berwyn Tap Room,708-310-1915,"6330 West 16th Street Berwyn, IL 60402",,,,,41.858088,-87.778804,TRUE
+USA,IL,Bloomingdale,Cesar's Sports Bar & Grill,630-582-2006,"185 E Lake St, Bloomingdale, IL 60108",,4,,,41.9585353,-88.0726314,TRUE
+USA,IL,Bloomingdale,Ride the 9 Shooter's Lounge,309-662-1009,"503 N Prospect Rd. Bloomington, IL 61704",,,,,40.4856106,-88.9487932,TRUE
+USA,IL,Boilingbrook,Kisat INC..,630-696-8456,"836 Barclay Dr. Boilingbrook, IL 60440",,,,,41.7065807,-88.1075136,TRUE
+USA,IL,Breese,"Pokojski, Brian/Big Stix",618-526-7706,"8802 Old US 50 Breese, IL 62230",,,,,38.621636,-89.5220608,TRUE
+USA,IL,Bridgeport,The Port,618-945-3400,"1170 Adams St. Bridgeport, IL 62417",,2,,,38.7159334,-87.7665262,TRUE
+USA,IL,Buffalo Grove,Rack'em Up Chicago,847-541-2500,"312 McHenry Rd. Buffalo Grove, IL 60089",,,,,42.1586402,-87.9619106,TRUE
+USA,IL,Carbondale,Chalky's,618-967-4343,"500 New Era Rd. Carbondale, IL 62901",,,,,37.7336937,-89.2469054,TRUE
+USA,IL,Caseyville,Woody'z Pub and Grill,618-530-5412,"100 South Long Street Caseyville, IL 62232",,,,,38.6379802,-90.0252882,TRUE
+USA,IL,Caseyville,Carol's Bridge Inn,618-344-3530,"519 North Main Street Caseyville, IL 62232",,8,,,38.6418809,-90.0200769,TRUE
+USA,IL,Champaign,Jupiter's at the Crossing,217-366-8300,"2511 Village Green Pl. Champaign, IL 61822",,,,,40.0815785,-88.2966756,TRUE
+USA,IL,Charleston,WB's Pub N Grub,217-549-5630,"409 7th Street Charleston, IL 61920",,,,,39.4958926,-88.1745282,TRUE
+USA,IL,Chicago,Chris's Billiards,773-286-4714,"4639 N. Milwaukee Chicago, IL 60630",,,,,41.9650145,-87.7581219,TRUE
+USA,IL,Chicago,Nick's Billiards,773-583-2011,"4445 N Pulaski Rd. Chicago, IL 60630",,,,,41.9619272,-87.7273513,TRUE
+USA,IL,Chicago,Revel Bar Chicago,708-667-0037,"6169 N Northwest Hwy. Chicago, IL 60631",,1,,,41.9940301,-87.8013654,TRUE
+USA,IL,Chicago,Mexico Pool Hall,,"4529 S. Ashland Ave. Chicago, IL 60609",,,,,41.8113084,-87.6647017,TRUE
+USA,IL,Chicago,Just One More,708-516-4757,"1130 S Michigan Ave. Apt# 4304 Chicago, IL 60605",,,,,41.8685662,-87.624423,TRUE
+USA,IL,Chicago Ridge,Lucky's Lounge,708-658-6927,"6605 W 95th St. Chicago Rodge, IL 60415",,2,,,41.7192934,-87.7851977,TRUE
+USA,IL,Clinton,Breakers Bar & Grill,217-935-6503,"211 E Adams St. Clinton, IL 61727",,10,,,40.1520436,-88.9583676,TRUE
+USA,IL,Countryside,Time Out Sports Bar & Grill,708-482-3222,"6025 La Grange Rd. Countryside, IL 60525",,2,,,41.7800002,-87.8677608,TRUE
+USA,IL,Crestwood,Pocket Billiards,312-607-5315,"13420 South Cicero Crestwood, IL 60418",,,,,41.6485159,-87.7395135,TRUE
+USA,IL,Creve Coeur,Famous City Billiards,309-981-3040,"210 N. Thorncrest Ave. Creve Coeur, IL 61610",,10,,3,40.6468216,-89.5991696,TRUE
+USA,IL,Darien,Q Bar & Grill,630-768-9824,"8109 South Cass Darien, IL 60561",,8,,,41.740714,-87.9719922,TRUE
+USA,IL,Decatur,Biggens Bar & Billiards,217-422-6360,"858 W Green St Decatur, IL.",,5,,,39.8487943,-88.9671546,TRUE
+USA,IL,Decatur,Starship Billiard Parlor,217-629-8280,"3015 Grand Prix Drive Decatur, IL 62526",,14,,1,39.8783022,-88.9293424,TRUE
+USA,IL,Des Plaines,Lee Street Games and Sports,847-345-1559,"1122 Lee St. Des Plaines, IL 60016",,,,,42.0326451,-87.8947641,TRUE
+USA,IL,Downers Grove,Q Pub & Grill,630-971-0003,"2145 63rd St. Downers Grove, IL 60516",,,,,41.7712479,-88.036132,TRUE
+USA,IL,East Greenup,Muddy Bottoms Bar and Grill,217-932-8135,"934 County Road 2100 East Greenup, IL 62428",,,,,39.3090499,-88.0814121,TRUE
+USA,IL,Edwardsville,Grand Amusements,618-910-9226,"5204 Fox Cove Edwardsville, IL 62025",,,,,38.8491093,-89.9555142,TRUE
+USA,IL,Glendale Heights,Q Bar Glendale Heights,630-893-9346,"2240 Bloomingdale Rd. Glendale Heights, IL 60139",,8,,,41.9396088,-88.0823153,TRUE
+USA,IL,Glendale Heights,Sundown Inn Pub,630-510-0400,"1775 Bloomingdale Rd. Glendale Heights, IL 60139",,4,,,41.9236766,-88.0805173,TRUE
+USA,IL,Godley,Stumble Inn,815-458-0538,"201 S. Kankakee St. Godley, IL 60407",,5,,,41.2366695,-88.2455479,TRUE
+USA,IL,Grayslake,Shooter's Sports Bar & Billiards,847-922-4616,"1858 E Belvidere Rd, Grayslake, IL 60030",,8,,15,42.3394906,-88.0015537,TRUE
+USA,IL,Jacksonville,Amvets Post 100,(217) 370-5892,"210 E Court St. Jacksonville, IL 62650",,,,,39.7349786,-90.2277585,TRUE
+USA,IL,Joliet,Longshots Bar & Grill,815-953-4680,"1609 West Jefferson Street Joliet, IL 60435",,9,,,41.5232173,-88.1204903,TRUE
+USA,IL,Joliet,Lety's Place,815-405-8689,"901 North Hickory Street Joliet, IL 60435",,,,,41.5400637,-88.0870555,TRUE
+USA,IL,Lawrenceville,The Phoenix,618-707-2255,"810 12th St. Lawrenceville, IL 62439",,,,2,38.7281975,-87.6828639,TRUE
+USA,IL,Lena,101 Billiards,815-541-8471,"101 Elm St. Lena, IL 61048",,,,8,42.380685,-89.8288092,TRUE
+USA,IL,Lockport,"Diamond Sports Bar, Inc.",815-838-6605,"16529 W 159th St. Lockport, IL 60441",,,,,41.5962097,-88.0233863,TRUE
+USA,IL,Metropolis,Boo's Burgers & Billiards,618-524-2991,"318 Scott St. Metropolis, IL 62960",,9,,3,37.1457598,-88.7223684,TRUE
+USA,IL,Mokena,Legends Grill & Bar,708-995-7278,"9710 191st St. Mokena, IL 60448",,2,,,41.5441295,-87.8547443,TRUE
+USA,IL,Mount Carmel,Comeaux Daiqiri Depot,618-240-4552 Cell,"319 West 9th St. Mount Carmel, IL 62863",,,,,38.4140989,-87.7684346,TRUE
+USA,IL,New Lenox,"Kuchar Products, Inc.",815-405-3692,"12556 Harvey Drive New Lenox, IL 60451",,,,,41.4959342,-87.9217899,TRUE
+USA,IL,Norridge,Mullen's Bar & Grill,708-452-3190,"8313 W Lawrence Ave. Norridge, IL 60706",,2,,,41.9656482,-87.8342915,TRUE
+USA,IL,Oak Lawn,Demma's Bar & Grill,708-636-1240,"5805 W 87th St. Oak Lawn, IL 60453",,4,,,41.7338457,-87.7663003,TRUE
+USA,IL,Oblong,Floyd's Place,618-554-3907,"134 S. Range St. Oblong, IL 62449",,,,,39.0009691,-87.9090581,TRUE
+USA,IL,Oglesby,Bulldogs Bar,815-343-2425,"201 E Walnut Oglesby, IL 61348",,1,,,41.2949571,-89.0581491,TRUE
+USA,IL,Park Forest,Sapphire Room,708-724-2602,"300 Victory Dr. Park Forest, IL 60466",,4,,5,41.4819095,-87.6797595,TRUE
+USA,IL,Pekin,Koch Street Bar & Grill,309.264.3566,"208 Koch St. Pekin, IL 61554",,,,,40.5527108,-89.6623345,TRUE
+USA,IL,Peoria,Racks on The Rocks,309-839-2609,"2800 West Farmington Road West Peoria, IL 61604",,13,,5,40.7039289,-89.6375037,TRUE
+USA,IL,Peoria,"TE-J's Sports Connection, Inc.",309-208-9189,"3219 NE Adams Peoria, IL 61603",Jay,,,,40.7181661,-89.5588831,TRUE
+USA,IL,Percy,Players Entertainment Inc.,618-927-1077,"209 W. Almond St. Percy, IL 62272",,,,,38.0152989,-89.6185985,TRUE
+USA,IL,Quincy,Rack Daddy's,217-242-9096,"1400 S 28th St Quincy, IL 62301",,,,,39.9146159,-91.3715302,TRUE
+USA,IL,Riverside,The Izaguirre Corp,708-692-4822,"421 Shenstone Rd. Riverside, IL 60546",,,,,41.8344779,-87.8058594,TRUE
+USA,IL,Rockdale,Roc City Bar & Grill,815-730-1330,"508 Moen Ave, Rockdale, IL 60436",,2,,,41.5048964,-88.1139311,TRUE
+USA,IL,Romeoville,Mongo McMichaels,630-739-1660,"1101 N Independence Blvd. Romeoville, IL 60446",,2,,,41.6649735,-88.0681135,TRUE
+USA,IL,Romeoville,Stella's Bar & Grill,815-886-3640,"402 N Weber Rd. Romeoville, IL 60446",,,,,41.639065,-88.1249609,TRUE
+USA,IL,Romeoville,Stone City Saloon,815-524-4704,"721 N Independence Blvd. Romeoville, IL 60446",,,,,41.6557077,-88.0788545,TRUE
+USA,IL,Romeoville,Mickeys Grill & Pub,815-436-8853,"377 Budler Romeoville, IL 60446",,,,,41.6099775,-88.1528111,TRUE
+USA,IL,Round Lake,Sharkys - Lakes Bowl,847-603-4400,"601 Rialroad Ave. Round Lake, IL 60073",,6,,,42.355283,-88.0974793,TRUE
+USA,IL,Sandwich,Route 34 Pub & Grub,815-786-3861,"1201 E Church St. Sandwich, IL 60548",,5,,,41.6466096,-88.6055094,TRUE
+USA,IL,Shorewood,Bedrocks,815-744-8408,"700 W Jefferson St. Shorewood, IL 60404",,6,,,41.522964,-88.2047462,TRUE
+USA,IL,Springfield,Mowie's Cue,217-529-7616,"1277 Toronto Rd. Springfield, IL 62712",,4,,10,39.7145648,-89.6377052,TRUE
+USA,IL,Springfield,Neilson's Billiards,217-989-1660,"2601 Taylor Avenue Springfield, IL 62703",,,,,39.7693447,-89.6184307,TRUE
+USA,IL,Springfield,Starship Billiards Parlor,217-691-3803 (Cell),"23001 Stevenson Drive Springfield, IL 62703",,9,,6,39.7577738,-89.6251575,TRUE
+USA,IL,St. Percy,Slammin' Sammy's Saloon,618-317-5451,"114 Russell St. Percy, IL 62997",,,,,37.9861395,-89.5881814,TRUE
+USA,IL,Trenton,7 West Bar & Grill,618-401-2423 (cell),"7 West Broadway Trenton, IL 62293",,,,,38.6058227,-89.6826676,TRUE
+USA,IL,Troy,McDill's Irish Pub,618-567-5464,"8925 Wheat Dr. Troy, IL 62294",,,,,38.7136647,-89.8483252,TRUE
+USA,IL,Willisville,Triple S Enterprises,618-317-5451,"114 Russell St. Willisville, IL 62997",,,,,37.9861395,-89.5881814,TRUE
+USA,IL,Willow Hill,Sky Saloon,618-553-6348,"21220 E. 500th Street Willow Hill, IL 62480",,,,,38.923545,-87.978536,TRUE
+USA,IL,Worth,Racks Tap,708-827-5305,"10533 Southwest Hwy. Worth, IL 60482",,1,,,41.6999986,-87.7937761,TRUE
+USA,IN,Anderson,The Billiards Club,765-610-4392,"124 E 7th St. Anderson, IN 46016",,8,,1,40.1091935,-85.6773877,TRUE
+USA,IN,Bloomington,Bluetip Billiards,812-606-7253,"426 South College Ave. Bloomington, IN 47403",,12,,,39.1620693,-86.5356094,TRUE
+USA,IN,Bloomington,Steve's Place,812-287-8152,"2510 W 3rd St. Bloomington, IN 47404",,6,,,39.1649996,-86.5688966,TRUE
+USA,IN,Clarksville,Pool Club of Louisville,502-650-3090,"506 E Lewis & Clark Parkway Clarksville, IN 47131",,,,,38.311105,-85.7662841,TRUE
+USA,IN,Cloverdale,Cataract Lake Lodge,765-795-7300 Location,"4779 State Highway 42 Cloverdale, IN 46120",,,,,39.4566971,-86.8573619,TRUE
+USA,IN,Elkhart,Overtime Bar,574-675-9140,"30107 Old US 33 Elkhart, IN 46516",,8,,,41.6873832,-85.973517,TRUE
+USA,IN,Evansville,River City Eagles,812-422-2956,"1824 W Franklin St. Evansville, IN 47712",,4,,,37.9798388,-87.5918261,TRUE
+USA,IN,Evansville,Bob's Lounge,812-425-4929,"907 N Fares Ave. Evansville, IN 47711",,2,,,37.9861673,-87.5427726,TRUE
+USA,IN,Evansville,KC's Corner Pocket,812-428-2255,"1819 N Fulton Ave. Evansville, IN 47710",,9,,,37.9950722,-87.5805569,TRUE
+USA,IN,Evansville,Break Time Bar & Grill,812-602-1756,"1323 S barker Ave. Evansville, IN 47712",,3,,,37.9622919,-87.610415,TRUE
+USA,IN,Evansville,Doc's,812-401-1201 (Cell),"1305 Stringtown Road Evansville, IN 47711",,,,,37.9897293,-87.5580097,TRUE
+USA,IN,Evansville,Piston's Bar,812-449-8358,"2131 West Franklin Street Evansville, IN 47712",,,,,37.9808436,-87.5970255,TRUE
+USA,IN,Fishers,The Main Event,317-413-6644,"8932 East 96th Street Fishers, IN 46037",,,,,39.9278491,-86.0107621,TRUE
+USA,IN,Fort Wayne,Corner Pocket,260-492-7665,"3215 St. Joe Center Rd. Fort Wayne, IN 46835",,18,,3,41.1349441,-85.1010609,TRUE
+USA,IN,Hammond,Angel Games,,"443 Mulberry Street Hammond, IL 46324",,,,,41.5912319,-87.5164964,TRUE
+USA,IN,Indianapolis,Main Street Entertainment,,Indianapolis,,2,,,39.768403,-86.158068,TRUE
+USA,IN,Indianapolis,Kip's Pub,317-578-2146,"9546 Allisonville Rd. Indianapolis, IN 46520",,16,,,39.9257539,-86.0692487,TRUE
+USA,IN,Indianapolis,John Wayne's Pub & Eatery,317-882-8124,"2367 E Stop 11 Rd. Indianapolis, IN 46227",,10,,4,39.6496942,-86.1206978,TRUE
+USA,IN,Indianapolis,10th Street Pub,317-897-1010,"10050 E 10th St. Indianapolis, IN 46229",,5,,,39.7831337,-85.9889123,TRUE
+USA,IN,Indianapolis,Brickyard Billiards,317-248-0555,"6445 W Washington St. Indianapolis, IN 46241",,9,,9,39.7439327,-86.2734695,TRUE
+USA,IN,Kokomo,Spanky's,574-727-1810,"1321 N. Washington Kokomo, IN 46901",,8,,4,40.4983154,-86.1339622,TRUE
+USA,IN,Lafayette,Hideaway Bar & Grill,765-586-4392,"3269 Teal Road Lafayette, IN 47905",,,,,40.3943656,-86.8591761,TRUE
+USA,IN,Lafayette,Purdue University,765-494-8904,"101 N. Grant Street West Lafayette, IN 47907",,,,,40.4245495,-86.912646,TRUE
+USA,IN,Linton,The Palace Bar,812-239-8291,"90 W. Vincennes Street Linton, IN 47441",,,,,39.0342951,-87.1671609,TRUE
+USA,IN,Mitchell,Mitchell Community Center,812-583-4437,"101 Tom Green Dr. Mitchell, IN 47446",,,,,38.7328304,-86.4736019,TRUE
+USA,IN,Muncie,The New Anchor Lounge,765-702-3261,"2900 S Monroe St. Muncie, IN 47302",,,,,40.1681547,-85.3803493,TRUE
+USA,IN,New Castle,New Castle Roadhouse,765-465-5696,"501 Fosters Way New Castle, IN 47362",,,,,39.9146315,-85.3403759,TRUE
+USA,IN,Orland,John Boys Pool Hall,260-668-6208,"5235 N. State Rd 327 Orland, IN 46776",,,,,41.7308339,-85.1712939,TRUE
+USA,IN,Osceola,Gina's Far East Lounge,574-329-5148,"55581 Ash Rd. Osceola, IN 46561",,4,,3,41.6873425,-86.0619216,TRUE
+USA,IN,Peru,Peru Moose Family Center #249,765-473-4594,"110 North Broadway Peru, IN 46970",,,,,40.7554672,-86.0711998,TRUE
+USA,IN,Terre Haute,Cranky's,812-236-1877,"2155 N. 13th Street Terre Haute, IN 47804",,,,,39.4914886,-87.3975079,TRUE
+USA,IN,Terre Haute,Break Time Billiards,812-230-0107,"2155 N 13th St. Terre Haute, IN 47804",,7,,5,39.4914886,-87.3975079,TRUE
+USA,IN,Terre Haute,Big Shooter's,812-466-6266,"2938 N 16th St. Terre Haute, IN 47804",,,,,39.5019314,-87.3910344,TRUE
+USA,KS,Basehor,Heroes Billiards,913-671-9400,"15518 Pinehurst Drive Basehor, KS 66007",Melanie Taylor,,,,39.1157066,-94.9404081,TRUE
+USA,KS,Junction City,Fat Toad Billiards,(785) 579-6465,"741 West 6th Junction City, KS 66441",,8,,2,39.0279113,-96.8427632,TRUE
+USA,KS,Lawrence,Empire Bar and Billiards,785-550-3825 (Cell),"925 Iowa Street Suite P Lawrence, KS 66049",,,,,38.967263,-95.2624213,TRUE
+USA,KS,Olathe,Shooters - Olathe,(913) 780-5740,"810 W Highway 56 Olathe, KS 66061",,,,,38.8118935,-94.8911395,TRUE
+USA,KS,Salina,Hank's Tavern,785-826-0779,"116 North Broadway Salina, KS 67401",,,,,38.8412576,-97.6247801,TRUE
+USA,KS,Salina,Sunset Billiards,(785) 826-9992,"1215 W Crawford St. Salina, KS 67401",,,,,38.8259884,-97.6242411,TRUE
+USA,KS,Shawnee,Precise Billiards,816-455-8383,"5412 Quivira Road Shawnee, KS 66216",,,,,39.0305111,-94.7242324,TRUE
+USA,KS,Topeka,Breakers Sports Bar & Grill,(785) 272-1513,"8249 SW 10th Ave. Topeak, KS 66615",,,,,39.04944,-95.8143709,TRUE
+USA,KS,Topeka,Boulevard Billiards - KS,785-393-3456,"4700 SW Topeka Blvd Topeka, KS 66609",,,,,38.9606852,-95.6871096,TRUE
+USA,KS,Topeka,Breakers - KS,785-272-1513,"8249 SW 10th Ave. Topeka, KS 66615",,,,,39.04944,-95.8143709,TRUE
+USA,KS,Wichita,Club Billiards,316-265-2293,"925 West Douglas Avenue Wichita, KS 67213",,10,,,37.6837103,-97.3515081,TRUE
+USA,KS,Wichita,Side Pockets Wichita,(316) 729-4000,"614 S. Tyler Rd. Wichita, KS 67209",,,,,37.6734093,-97.4421496,TRUE
+USA,KS,Wichita,Fox & Hound Restaurant Group,972-437-4225,"1551 N. Waterfront Parkway Suite 310 Wichita, KS 67206",,,,,37.7037608,-97.2329255,TRUE
+USA,KY,Phelps,Kick Shot Billiards,(859) 647-7468,"5900 Centennial Cir, Florence, KY 41042",,7,,4,39.0147645,-84.6693916,TRUE
+USA,KY,Boaz,Rockers Bar & Grill,270-994-6677 (Cell),"7725 Old Highway 45S Boaz, KY 42027",Rick Wray,,,,36.8856121,-88.6344933,TRUE
+USA,KY,Bowling Green,Cue Time,270-782-3740,"532 Three Springs Rd. Bowling Green, KY 42104",,,,,36.9342497,-86.4213802,TRUE
+USA,KY,Bowling Green,Cue Time Cocktails & Billiards,270-782-3740,"532 Three Springs Rd. Bowling Green, KY 42104",,,,,36.9342497,-86.4213802,TRUE
+USA,KY,Campbellsville,Rack & Cue,(270) 465-5918,"207 S. Columbia Ave Campbellsville, KY 42718",,,,,37.3377389,-85.344834,TRUE
+USA,KY,Campbellsville,Rack & Cue,270-403-1334,"207 S. Columbia Ave. Campbellsville, KY 42718",,,,,37.3377389,-85.344834,TRUE
+USA,KY,Central City,Bully's Rack And Cue,270-543-3789,"105 E Reservoir Ave Central City, KY 42330",,,,,37.2956533,-87.127072,TRUE
+USA,KY,Covington,Legend's Bar,859-581-4140,"3530 Decoursey Ave. Covington, KY 41015",,,,,39.0488646,-84.5029234,TRUE
+USA,KY,Dry Ridge,Moonbird Bar,859-393-6035,"100 Arbor Drive Dry Ridge, KY 41035",,,,,38.6795353,-84.5874092,TRUE
+USA,KY,Florence,1st and 10 Sports Bar,859-817-0664,"10358 Dixie Hwy. Florence, KY 41042",,2,,,38.9457702,-84.6218714,TRUE
+USA,KY,Florence,Breaker's Grill,859-918-5110,"8147 Mall Rd. Florence, KY 41042",,15,,,38.9829965,-84.6517951,TRUE
+USA,KY,Florence,Muggbees,859-371-9766,"8405 US Highway 42 Florence, KY 41042",,2,,,38.9786021,-84.6541398,TRUE
+USA,KY,Georgetown,Kaizen Billiards Club,502-735-9019,"401 Outlet Ctr Dr. Ste 150 Georgetown, KY 40324",,8,,5,38.2180568,-84.5372903,TRUE
+USA,KY,Hagerhill,Murphy's Wholesale,606-789-6858,"4694 KY-321 Hagerhill, KY 41222",,4,,,37.7793215,-82.7928927,TRUE
+USA,KY,Lexington,Kelly's Pub,859-492-9911,4889 Pleasant Grove Road Lexington KY 40515,,,,,37.9555027,-84.4745832,TRUE
+USA,KY,Lexington,The Cue Club,859-619-7273,"140 Moore Drive Lexington, KY 40503",,12,,3,37.999833,-84.5223418,TRUE
+USA,KY,Louisville,"Day Ferguson & Ferguson, LLC",812-725-2484 - Kyle,"630 Barret Ave. Louisville, KY 40204",,,,,38.2461004,-85.7328914,TRUE
+USA,KY,Louisville,Diamond Pub & Billiards,859-797-1960 - Norm Wilson,"3814 Frankfort Ave. Louisville, KY 40207",,6,,2,38.2527664,-85.6564469,TRUE
+USA,KY,Louisville,Gilbert's Bar & Grill,502-448-7365,"4950 Terry Rd. Louisville, KY 40216",,,,,38.1775232,-85.8625547,TRUE
+USA,KY,Louisville,Jock's Sports Bar,502-491-1199,"3423 Breckenridge Lane Louisville, KY 40220",,,,,38.1986522,-85.6223362,TRUE
+USA,KY,Louisville,Louisville Billiards Club,502-491-3810,"5404 Bardstown Rd. Louisville, KY 40291",,,,,38.1665799,-85.6032883,TRUE
+USA,KY,Louisville,Martin's Tavern,502-775-5539,"1614 Dixie Hwy Louisville, KY 40210",,,,,38.2268718,-85.7913497,TRUE
+USA,KY,Louisville,New Direction Bar & Grill,502-243-8429,"2630 Chamberlain Louisville, KY 40245",,,,,38.289561,-85.5149424,TRUE
+USA,KY,Louisville,Prime Time Cafe,502-333-0719,"7017 Global Dr. Louisville, KY 40258",,,,,38.1406825,-85.8881366,TRUE
+USA,KY,Louisville,R Place Pub,502-425-8516,"9603 Whipps Mill Rd. Louisville, KY 40242",,3,,,38.2682373,-85.579268,TRUE
+USA,KY,Louisville,Railyard Billiards & Pub,502-618-4033,"630 Barret Ave. Louisville, KY 40204",,,,,38.2461004,-85.7328914,TRUE
+USA,KY,Louisville,S&B's Billiards,606-260-7442,"7045 S. US Hwy 25 Corbin, KY 40447",,,,1,37.4672223,-84.0378894,TRUE
+USA,KY,Louisville,Smiley's Pocket LLC,502-418-6021,"2124 South Preston Street Louisville, KY 40217",,,,,38.2166653,-85.7451751,TRUE
+USA,KY,Louisville,Spectators Sports Bar & Grill,502-797-3916,"5530 New Cut Rd. Louisville, KY 40214",,,,,38.1434033,-85.7758352,TRUE
+USA,KY,Louisville,The Barret Bar,502-269-8571,"1012 Barret Ave. Louisville, KY 40204",,,,,38.2359723,-85.7281622,TRUE
+USA,Ky,Louisville,The Fox Den,502-494-8094,"3814 Frankfort Ave Louisville, KY 40207",,,,,38.2527664,-85.6564469,TRUE
+USA,KY,Morehead,Frankie's Plaza,606-207-0818,"540 Fraley Drive Morehead, KY 40351",,,,,38.1897201,-83.4742766,TRUE
+USA,KY,Mount Sterling,Billy Macks Billard,859-497-0105,"213 Windsor Dr. Mount Springs, KY 40353",,,,,38.0477704,-83.9398986,TRUE
+USA,KY,Owensboro,Golden's Hometown Diner & Pool Hall,270-231-8054,"1846 Triplett St/ Owensboro, KY 42303",,2,,,37.7579376,-87.1044413,TRUE
+USA,KY,Owensboro,Rocky's Bar & Grill,270-993-3895 (cell),"819 Crittenden Street Owensboro, KY 42303",,,,,37.7681917,-87.1067838,TRUE
+USA,KY,Paducah,Cheer's,270.556.2804,"185 County Park Rd. Paducah, KY 42001",,,,,37.0867106,-88.6621442,TRUE
+USA,KY,Paducah,Driftwood Lounge,270-210-4117 (Cell),"3535 Clark's River Road Paducah, KY 42003",,,,,37.0100528,-88.5758574,TRUE
+USA,KY,Russell Springs,Laker Billiards,270-866-2885,"618 Main St. Russell Springs, KY 42642",,,,,37.0560817,-85.0881533,TRUE
+USA,KY,West Liberty,Jenkin's One Stop,606-522-3717,"8574 Highway 437 West Liberty, KY 41472",,,,,37.9214758,-83.2596216,TRUE
+USA,KY,Wilder,Top 10 Sports Bar,859-360-5095,"1412 Gloria Terrell Dr. Wilder, KY 41076",,4,,,39.0086774,-84.4704418,TRUE
+USA,KY,Williamson,Jump Shot Billiards,606-225-5746 (Jason Cell),"148 Appalachian Plaza South Williamson, KY 41503",Jason Casey,,,,37.6685812,-82.2771408,TRUE
+USA,LA,Baldwin,M and M Billiards,337-578-2274,"208 T. J. Hetcherson St. Baldwin, LA 70514",,,,,29.8346017,-91.5470257,TRUE
+USA,LA,Bastrop,Skeeters,318-237-5611,"3482 New Monroe Road Bastrop, LA 71220",,,,,32.774783,-91.949976,TRUE
+USA,LA,Baton Rogue,Bayou Billiards,225-315-4789 - Cell,"10090 Florida Blvd. Baton Rouge, LA 70815",,,,,30.4556659,-91.0712434,TRUE
+USA,LA,Baton Rogue,Chance's Billiards,225-366-6360,"3030 S. Sherwood Forest Blvd Baton Rouge, LA 70816",,,,,30.4251056,-91.0525111,TRUE
+USA,LA,Bossier City,Eddie's Tavern,713-614-0099,"1701 Old Minden Road Bossier City, LA 71111",,,,,32.5169888,-93.7182833,TRUE
+USA,LA,Bossier City,Goodtimes Billiards,318-584-7037,"2648 Barksdale Blvd. Bossier City, LA 71112",,,,,32.5029285,-93.6957454,TRUE
+USA,LA,Breaux Bridge,Bubba's Sports Bar,337-442-6960,"551 W. Mills Ave Breaux Bridge, LA 70517",,7,,,30.273916,-91.9205538,TRUE
+USA,LA,Breaux Bridge,Droke's Diamond Mine,337-414-6484,"551 W Mills Ave. Breaux Bridge, LA 70517",,7,,,30.273916,-91.9205538,TRUE
+USA,LA,Chalmette,"Lacy's Cue, LLC",985-640-1565,"701 West Judge Perez Drive Chalmette, LA 70043",,15,,12,29.9450512,-89.9682847,TRUE
+USA,LA,Covington,Wherehouse Bar,985-327-5182,"1105 N Collins Blvd. Covington, LA 70433",,8,,,30.4877043,-90.0947928,TRUE
+USA,LA,Gretna,Redd's Place,310-283-8824,"505 Gretna Boulevard Suite #9 Gretna, LA 70053",,,,,29.8986186,-90.0468063,TRUE
+USA,LA,Gretna,Gerry's Place,225-216-5395,"1096 Behrman Highway Gretna, LA 70056",,,,,29.8838824,-90.0202237,TRUE
+USA,LA,Hammond,Shooter's Billiards & Grill,985-956-7057,"1306 South Morrison Blvd. Hammond, LA 70403",,12,,1,30.4866956,-90.4832276,TRUE
+USA,LA,Hammond,The NightKap,985-956-7474,"42309 South Morrison Blvd. Hammond, LA 70403",,12,,1,30.4740156,-90.4833501,TRUE
+USA,LA,Harvey,Landing Lounge,504-348-0528,"500 Destrehan Ave. Harvry, LA 70058",,,,,29.9054913,-90.084131,TRUE
+USA,LA,Henderson,The Blackpool,337-789-2284 - Cell,"1217A Henderson Highway Henderson, LA 70517",,,,,30.314766,-91.813871,TRUE
+USA,LA,Houma,Double Hill Bar and Grill,504-615-6353 (Cell),"9892 East Main Street Houma, LA 70363",,7,,,29.5832862,-90.6634085,TRUE
+USA,LA,Houma,Uptown Sports,985-855-5762 (Cell),"7812 Main St. Houma, LA 70360",,,,,29.5966484,-90.7237715,TRUE
+USA,LA,Houma,Rickochet Billiards (Uptown Sports),985-876-9605,"7812 Main St. Houma, LA 70360",,9,,,29.5966484,-90.7237715,TRUE
+USA,LA,Jefferson,Buffalo's Billiards,504-835-0173,"5015 Bloomfield Street Jefferson, LA 70121",,15,,16,29.9613363,-90.1808439,TRUE
+USA,LA,Kenner,Corner Pocket,504-812-3743,"2424 Williams Blvd. Suite H Kenner, LA 70062",,6,,3,30.0001199,-90.2402215,TRUE
+USA,LA,LaFayette,McMillian's Pub,337-235-9965,"2905 E Simcoe St. Lafayette, LA 70501",,3,,,30.2217351,-91.9883481,TRUE
+USA,LA,LaFayette,Dixie Phonograph LLC,337-235-7487,"P.O. Box 51171 Lafayette, LA 70505",,,,,30.204687,-92.0167267,TRUE
+USA,LA,Leesville,Club Zydeco,337-238-9692,"11868 Lake Charles Highway Leesville, LA 71446",,,,,31.090915,-93.2711086,TRUE
+USA,LA,Marrero,The Break Room,504-621-4941,"6901 Westbank Expressway Marrero, LA 70072",,14,,3,29.8929912,-90.1240824,TRUE
+USA,LA,Marrero,Side Pocket Bar and Grill,504-628-2745 (Cell),"5601 4th Street Marrero, LA 70072",,,,,29.8987564,-90.1068511,TRUE
+USA,LA,Matairie,Crescent City,504-319-8392,"307 Houma Blvd. Metaire, LA 70001",,,,,29.9775831,-90.1746925,TRUE
+USA,LA,Matairie,Big & Easy Bar,504-250-3856,"4124 Hastings Street Matairie, LA 70002",,,,,30.0125376,-90.1790151,TRUE
+USA,LA,Metairie,Causeway Grill,504-838-9128,"2800 N. Causeway Blvd. Metairie, LA 70002",,,,,30.0021787,-90.1557825,TRUE
+USA,LA,Metairie,Whitey's,504-833-9122,"3764 Derbigny St. Metairie, LA",,,,,29.9766378,-90.1669556,TRUE
+USA,LA,Monroe,Downtown Billiards,318-348-2888 Luis,"524 Desiard St. Monroe, LA 71201",,,,,32.5040955,-92.1131628,TRUE
+USA,LA,Morgan City,Pool Do's Sports Bar,281-216-7848,"7889 Hwy 182 E. Morgan City, LA 70380",,,,,29.6935908,-91.1728366,TRUE
+USA,LA,New Iberia,Emerald Billiards,337-319-0530,"2511 West Old Spanish Trail New Iberia, LA 70560",,,,,30.0272673,-91.8399867,TRUE
+USA,LA,New Iberia,Shane's Billiard Supply,337-352-0211,"4705 Coteau Road New Iberia, LA 70560",,,,,30.0505617,-91.949594,TRUE
+USA,LA,New Orleans,Voodoo Two,504-606-7499,"330 Carondelet Street New Orleans, LA 70130",,,,,29.9512331,-90.0712842,TRUE
+USA,LA,Pearl River,Gator's Daiquiris,985-788-6644,"64380 HWY 41 Suite A Pearl River, LA 70452",,4,,,30.3670856,-89.7583273,TRUE
+USA,LA,Ponchatoula,Stray Cats,985-778-1870 (Cell),"138 North 6th Street Ponchatoula, LA 70454",,,,,30.4394039,-90.4428486,TRUE
+USA,LA,Shreveport,Riverfront Billiards,318-617-6365 (Mike),"924 Commerce Shreveport, LA 71101",,,,,32.5120704,-93.7424682,TRUE
+USA,LA,Slidell,Mr. Cs,985-265-4329,"1428 Gause Blvd. Slidell, LA 70458",,2,,,30.285416,-89.7593723,TRUE
+USA,LA,Slidell,Kappy's Daiquiri & Sports Bar,985-643-1260,"1428 Gause Blvd # M Slidell, LA 70458",,4,,,30.285416,-89.7593723,TRUE
+USA,LA,Slidell,Southern Bayou Enterprise,,"155 Robert Street Slidell, LA 70458",,,,,30.2726168,-89.7842716,TRUE
+USA,LA,Slidell,Two Sister's Billiards & Cafe,985-781-0059,"960 E I-10 Service Rd. Slidell, LA 70461",,5,,,30.2843563,-89.7483646,TRUE
+USA,LA,Thibodaux,CueSports,985-387-2066,"380 W 6th St. Thibodaux, LA 70301",,6,,,29.7952894,-90.8225501,TRUE
+USA,LA,Thibodaux,Thibodaux Cue Sports,985-228-4996,"527 Jackson Street Thibodaux, LA 70301",,,,,29.7954482,-90.8222766,TRUE
+USA,LA,Thibodeaux,Longshotz,985-860-3213,"1804 Highway 3185 Thibodaux, Louisiana 70301",,,,,29.784787,-90.858478,TRUE
+USA,LA,West Monroe,The Arena,318-669-9969,"1411 Thomas Road West Monroe, LA 71292",,24,,4,32.4894186,-92.1553498,TRUE
+USA,MA,Ayer,The Billiards Cafe,978-772-7665,"39 Main Street Ayer, MA 01432",Roy Pastor,,,,42.5597753,-71.5884832,TRUE
+USA,MA,Fall River,Rack 'Em Up Billiards,(508) 679-1942,"129 Griffin St. Fall River, MA 02724",,10,,5,41.688625,-71.1724228,TRUE
+USA,MA,Malden,Amazin Billiards,(603) 864-0192,"40 Faulkner St. Malden, MA 02148",Mazin Shooni,,,,42.4299941,-71.0558622,TRUE
+USA,MA,Medford,Boston Billiards,617-625-2718,"90 Sagamore Ave. Medford, MA 02155",Steve Kelly,,,,42.4237752,-71.1413849,TRUE
+USA,MA,Northampton,Packards Restaurant,(413) 584-5957,"14 Masonic Street Northampton, MA 01060",Bob McGovern,,,,42.3181269,-72.6333128,TRUE
+USA,MD,Bowie,Center Pocket,301-613-0456 - Taseen,"4931 Tesla Drive, Unit H Bowie, MD 20715",Taseen Abdulbarr,,,,38.9564259,-76.7084886,TRUE
+USA,MD,Cambridge,Choptank Bowling & Billiards,(410) 901-1212,"1200 Goodwill Ave. Cambridge, MD 21613",,14,,2,38.5581904,-76.0730029,TRUE
+USA,MD,Cambridge,Great Slates,443-521-2700 (cell),"732 Cambridge Plaza Cambridge, MD 21613",John Moody,,,,38.5607083,-76.0638758,TRUE
+USA,MD,Capitol Heights,Quball 1,(301) 808-7700,"7945 Central Avenue Capitol Heights, MD 20743",Larry Steel,,,,38.88871,-76.8679747,TRUE
+USA,MD,Chesapeake Beach,American Legion #206,(443) 949-5602,"3330 Chesapeake Beach Rd Chesapeake Beach, MD 20732",Les Griffith,,,,38.6985433,-76.5444429,TRUE
+USA,MD,Chestertown,Backyard Buddy,410-708-4280,"23915 Ricauds Branch Road Chestertown, MD 21620",Roger Pinder,,,,39.1877343,-76.1421873,TRUE
+USA,MD,Chestertown,Blue Bird Tavern,443-480-1036,"512 Washington Ave. Chestertown, MD 21620",Patricia Lewis,,,,39.2218123,-76.0691281,TRUE
+USA,MD,Crofton,Moni's Place,410-721-6801,"1641 Route 3 North Crofton, MD 21114",Marion Emrick,,,,38.9929645,-76.7018362,TRUE
+USA,MD,Elkridge,Triple Nines Bar & Billiards,(410) 799-1818,"7540 Washington Blvd. Elkridge, MD 21075",,,,,39.1793785,-76.7724247,TRUE
+USA,MD,Essex,Schultz's Crab House,410-458-2187,"1732 Old Eastern Ave, Essex, MD 21221",Steve McKinney,,,,39.321914,-76.4470408,TRUE
+USA,MD,Gaithersburg,7 Billiards Shady Grove,(240) 907-2025,"15966 Shady Grove Rd. Gaithersburg, MD 20877",,,,9,39.1182591,-77.184998,TRUE
+USA,MD,Gaithersburg,Moonlight Bar,301-357-6837,"8035 Snouffer School Road Gaithersburg, MD 20879",Raphael Rodriguez,,,,39.1612346,-77.1629858,TRUE
+USA,MD,Glen Burnie,Brews & Cues on the Boulevard,410-761-6161,"7954 Baltimore Annapolis Boulevard Glen Burnie, MD 21060",Tony Manning,6,,,39.1351226,-76.5862964,TRUE
+USA,MD,Hagerstown,Breakaway II,240-674-9745cell,"13726 Pennsylvania Ave. Hagerstown, MD 21742",Paul Harp,5,,,39.6906898,-77.7215616,TRUE
+USA,MD,Hyattsville,Mi Patria Restaurant,202-486-5261,"5906 Riggs Rd Hyattsville, MD 20783",Selvin Guitierrez,,,,38.9627833,-76.9937195,TRUE
+USA,MD,Laurel,B & B Billiards Inc.,301-483-8644,"3249 Fort Meade Road Laurel, MD 20724",Robert Barrow,,,,39.0907844,-76.7770595,TRUE
+USA,MD,Laurel,The Bank Shot,301-483-8644,"3249 Laurel Fort Meade Rd. Laurel, MD 20724",Robert Barrow,17,,3,39.0908009,-76.7770225,TRUE
+USA,MD,Leonardtown,Action Lounge & Billiards,(240) 309-4031,"25470 Point Lookout Rd. Unit F Leonardtown, MD 20650",Matthew Suite,11,,3,38.2996906,-76.638654,TRUE
+USA,MD,Parkville,Top Hat Cue Club,410-665-1906,"8809 Satyr Hill Road Parkville, MD 21234",Beth Rembert,,,,39.4003419,-76.5448041,TRUE
+USA,MD,Perry Hall,Charlie's Pro Shop,443-414-1580,"20 Bangert Ave. Perry Hall, MD 21128",Charles Fleming,,,,39.4103656,-76.4289889,TRUE
+USA,MD,Sudlersville,Lena's Bar and Grill,410-708-7694,"5124 Sudlersville Road Sudlersville, MD 21668",Lean Reny,,,,39.1915876,-75.8306758,TRUE
+USA,MD,Wheaton,American Legion #268,(202) 246-6288,"11225 Fern St. Wheaton, MD 20902",Scott Schlesenger,,,,39.0398583,-77.0492954,TRUE
+USA,MD,White Plains,Jimmie's Paddock,240-419-9648,"PO Box 600 White Plains, MD 20695",Melissa Mills,,,,38.5911751,-76.9423672,TRUE
+USA,ME,Banger,Rack City Billiards,207-735-4358,"1215 Broadway Banger, ME 04401",,,,,44.839043,-68.7934068,TRUE
+USA,ME,Lewiston,Legends Sports Bar,(207) 241-0051,"4 Molliston Way Lewiston, ME 04240",,,,10,44.1242122,-70.2007826,TRUE
+USA,ME,Machias,Thirsty Moose,207-255-6100,"36 Main St. Machias, ME 04654",,,,,44.715019,-67.4574036,TRUE
+USA,ME,Minot,Legends Sports Bar & Grill,207-577-7102,"178 Harris Road Minot, ME 04258",,,,,44.1674478,-70.3413443,TRUE
+USA,ME,Portland,American Pool & Billiards,(207) 899-3693,"272 St. John St. Portland, ME 04102",,,,,43.6524511,-70.2800613,TRUE
+USA,ME,Waterville,TJ's Billiards,207-877-7665,"14.1 Airport Rd. Waterville, ME 04901",,,,,44.5366982,-69.6778575,TRUE
+USA,ME,Windham,Club 302,207-776-9552,"20 Abbey Road Windham, ME 04062",,,,,43.8364505,-70.4370311,TRUE
+USA,MI,Adrian,Diamond Jims,517-759-4464,"117 West Maumee St. Adrian, MI 49221",Jim Cavender,,,,41.8989154,-84.0374006,TRUE
+USA,MI,Bay City,Who's Who,989-714-4843,"700 Ncgraw Bay City, MI 48708",Andy Kreger & Lupe Rosa,10,,1,43.5588551,-83.893277,TRUE
+USA,MI,Belleville,The Creek,734-277-0174,"50521 W. Huron River Drive Belleville, MI 48111",Frank Lonero,,,,42.2006606,-83.5340461,TRUE
+USA,MI,Belmont,The Vestal Inn,616-893-9315,"6255 West River Drive NE Belmont, MI 49306",Richard Dallett,,,,43.0648606,-85.6018313,TRUE
+USA,MI,Beulah,Fallen Timbers,231-409-4676,"13901 US-31 Beulah, MI 49617",Rodger Duford,,,,44.659052,-85.959552,TRUE
+USA,MI,Coldwater,JT's Billiard Bar,517-279-8002,"50 East Chicago St. Coldwater, MI 49036",Jim Tong,4,,,41.9400867,-84.9987763,TRUE
+USA,MI,Dearborn,"Presley, Bryan",,"5045 Porath St. Dearborn, MI 48126",Bryan Presley,,,,42.3251873,-83.1587234,TRUE
+USA,MI,Detroit,Blue Diamond Lounge,313-841-4836,"2453 Campbell Rd. Detroit, MI 48209",Daniel Vega,,,,42.3215105,-83.1073101,TRUE
+USA,MI,Flat Rock,Michael's on the River,313-570-6236 (cell),"28828 Telegraph Road Flat Rock, MI 48134",Mike Crowder,,,,42.096081,-83.2941817,TRUE
+USA,MI,Grand Rapids,Anazeh Sands - Charley's,616-364-0567,"3519 Plainfield Ave. NE Grand Rapids, MI 49525",,,,,43.0272916,-85.6327074,TRUE
+USA,MI,Grand Rapids,Charleys,616-364-0567,"3519 Plainfield Ave. NE Grand Rapids, MI 49525",,,,2,43.0272916,-85.6327074,TRUE
+USA,MI,Grand Rapids,East Side,616-285-1122,"3520 E Mall Dr. SE Grand Rapids, MI 49546",,,,,42.9160253,-85.5825145,TRUE
+USA,MI,Grand Rapids,Eastside Billiards,616-826-3056 - Cell,"3520 E. Mall Dr. Grand Rapids, MI 49546",Rich Williams,16,,2,42.9160253,-85.5825145,TRUE
+USA,MI,Grand Rapids,Quinn And Tuite's Irish Pub,616-813-8751,"1535 Plainfield Ave Grand Rapids, MI 49505",Rick Schall,,,,42.9904025,-85.6636753,TRUE
+USA,MI,Grand Rapids,The Point Bar,734-384-3808,"1720 Hamilton Ave. NW Grand Rapids, MI 48166",,2,,,42.9945651,-85.6807442,TRUE
+USA,MI,Hanover,Johnnies Backwoods,734-637-9969,"130 W. Main St. Hanover, MI 49241",John DeAngelis,,,,42.1020807,-84.5546708,TRUE
+USA,MI,Holland,Reliable Sport and Billiards,616-396-7795,"254 South River Avenue Holland, MI 49423",Ken Vos,,,,42.7879059,-86.1094098,TRUE
+USA,MI,Holt,Gravity Smokehouse BBQ,517-258-4900,"2440 Cedar St Holt, MI 48842",,2,,,42.6527067,-84.5298779,TRUE
+USA,MI,Ignace,Johnnies Bar And Grill,734-637-9969,"W748 US 2 West St. Ignace, MI 49781",John DeAngelis,,,,45.854968,-84.7535716,TRUE
+USA,MI,Ishpeming,The Royal Pub,906-360-9351,"205 East Division St. Ishpeming, MI 49849",Tom Austin,,,,46.4887673,-87.6673766,TRUE
+USA,MI,Kalamazoo,Comstock Cue Club,269-775-1445,"5301 Comstock Ave. Kalamazoo, MI 49048",,,,,42.2845497,-85.5254173,TRUE
+USA,MI,Lapeer,Side Pockets,810-660-8127,"15 S. Elba Rd. Lapeer, MI 48446",,9,,2,43.0407436,-83.4398848,TRUE
+USA,MI,Lincoln Park,Ball & Cue Billiards,313-381-7665,"3434 Fort St. Lincoln Park, MI 48146",,,,,42.2353646,-83.1806819,TRUE
+USA,MI,Lincoln Park,Lincoln Park Moose Lodge,248-660-2972,"1600 Fort St. Lincoln Park, MI 48146",Tim Caldwell,,,,42.2527893,-83.175577,TRUE
+USA,MI,Livonia,Snookers Pool & Pub,734-422-9510,"27630 Schoolcraft Rd. Livonia, MI 48150",Michael Admas,,,,42.3848005,-83.3168906,TRUE
+USA,MI,Livonia,The Rack,734-422-7665,"28410 Joy Rd Livonia, MI 48150",Richie & Mary Eadeh,,,,42.3558259,-83.3214022,TRUE
+USA,MI,Muskegon,The Break Room,231-903-3961,"1447 W. Sherman Blvd Muskegon, MI 49441",Monica Moore,7,,1,43.2049423,-86.2792632,TRUE
+USA,MI,Niles,Roundtable Bar & Grill,269-683-9738,"3024 N Old US-31 Niles, MI 49120",,,,,41.8871878,-86.3007212,TRUE
+USA,MI,Novi,Centria Healthcare,(855) 772-8847 Office,"41521 W. 11th Mile Rd. Novi, MI 48375",Jacob Boven,,,,42.480988,-83.4577892,TRUE
+USA,MI,Onsted,Johnnies Bar & Grill,313-438-6548,"130 North Main Onsted, MI 49265",John DeAngelis,,,,42.0068987,-84.1898719,TRUE
+USA,MI,Owosso,On Cue,989-472-4472,"311 Corunna Ave. Owosso, MI 48867",,6,,,42.992411,-84.1674596,TRUE
+USA,MI,Owosso,The Avenue,989-627-9249,"311 Corunna Ave. Owosso, MI 48867",Brad & Annette Brewer,7,,,42.992411,-84.1674596,TRUE
+USA,MI,Pinconning,Statewide Billiards,231-445-0760,"4363 North Fraser Road Pinconning, MI 48650",Greg Thornton,,,,43.864312,-84.0085129,TRUE
+USA,MI,Port Huron,The Billiard Loft,810-223-3754,"1300 Whipple St. Port Huron, MI 48060",,,,,42.991755,-82.4334277,TRUE
+USA,MI,Riga,Johnnies Riga Tavern,734-637-9969,"7494 Riga Highway Riga, MI 49275",John DeAngelis,,,,41.8112515,-83.8255671,TRUE
+USA,MI,Taylor,Johnnies In Taylor,734-637-9969 (cell),"20648 Ecorse Rd. Taylor, MI 48180",John DeAngelis,,,,42.2565357,-83.2392789,TRUE
+USA,MI,Troy,Bailey's Pub & Grille,248-435-3044,"1965 West Maple Road Troy, MI 48084",,,,2,42.5461418,-83.1718741,TRUE
+USA,MI,Warren,Hall of Fame Billiards,248-854-4647,"5775 East 13 Mile Road Warren, MI 48092",Ron or Robert Yaldo,,,,42.5222718,-83.0492446,TRUE
+USA,MI,Waterford,Emerald Q Billiards,748-682-0660,"4359 Highland Rd. Waterford, MI 48328",Fabian Ruitman,,,,42.65352,-83.3737218,TRUE
+USA,MI,Wyandotte,Grizzly's,734-708-4749,"1519 Oak St. Wyandotte, MI 48192",,,,,42.2036177,-83.1711819,TRUE
+USA,MI,Wyoming,Charley's At Sands,616-538-0810,"1339 28th St. Wyoming, MI 49509",,,,,42.9138993,-85.6992147,TRUE
+USA,MN,Burnsville,Shooters Billiard Club,952-484-6677,"1934 Hwy 13 E Burnsville, MN 55337",Craig Zoschke,,,,44.7896519,-93.2451612,TRUE
+USA,MN,Columbia Heights,Pro Billiards,763-706-1904,"4040 Central Ave. NE Columbia Heights, MN 55421",,20,,,45.0421209,-93.2476596,TRUE
+USA,MN,Columia Heights,Jimmy's Pro Billiards,651-230-3414 (Cell),"4040 Central Ave. NE Columbia Heights, MN 55421",Jimmy Wetch,,,,45.0421209,-93.2476596,TRUE
+USA,MN,Coon Rapids,CR'S Billiards & Sports Bar,612-240-1018,"8525 Cottonwood Street NW Coon Rapids, MN 55433",Gerald Johnson,20,,,45.1251901,-93.271218,TRUE
+USA,MN,Crookston,Crooks Club,218-281-5503,"223 N Main St. Crookston, MN 56716",,2,,,47.7760622,-96.6072584,TRUE
+USA,MN,Crystal,Steve O's,763-537-5970,"4900 W Broadway Ave. Crystal, MN 55412",,2,,,45.0426725,-93.3513494,TRUE
+USA,MN,Duluth,The Break Room,218-393-1697,"501 East 4th Street Duluth, MN 55805",Tom Witzman Roger Koski,8,,2,46.7946763,-92.0964561,TRUE
+USA,MN,Fridley,Two Stooges,763-574-1399,"7178 University Ave. Fridley, MN 55432",Shane Jackson & Ty Wilson,36+,,,45.0984036,-93.2647686,TRUE
+USA,MN,Little Canada,Twin City Billiards,651-689-0236,"80 Little Canada Road East Little Canada, MN 55117",,20,,,45.0245371,-93.0974214,TRUE
+USA,MN,Minneapolis,Cardinal Restaurant,612-724-5837,"2920 E 38th St. Minneapolis, MN 55406",,4,,,44.9342484,-93.2300634,TRUE
+USA,MN,Minneapolis,CR's Sportsbar,763-780-1585,"8525 Cottonwood St. NW Coon Rapids, MN 55433",,20,,,45.1251901,-93.271218,TRUE
+USA,MN,Moorhead,Moorhead Billiards,218-205-2328,"701 Center Ave. Moorhead, MN 56560",,,,,46.8747792,-96.7694013,TRUE
+USA,MN,Moorhead,Blues and More,218-443-1325 (Cell),"1034 90th Avenue NW Moorhead, MN 56560",Chantel Roberts,,,,46.9775046,-96.7972035,TRUE
+USA,MN,North Brooklyn Park,Family Leisure,763-560-7727,"9742 Penn Avenue North Brooklyn Park, MN 55444",Robert Mattson,,,,45.1319366,-93.3121748,TRUE
+USA,MN,Park Rapids,A Better Place,218-252-4612 (cell),"212 West 3rd St. Park Rapids, MN 56470",Gene Forbes,,,,46.9198894,-95.0609728,TRUE
+USA,MN,Robbinsdale,Broadway Pizza,763-533-0800,"4106 Lakeland Ave. Robbinsdale, MN 55422",,4,,,45.0310052,-93.3359675,TRUE
+USA,MN,Shakopee,Pullman Club,952-445-1938,"124 1st Ave. W Shakopee, MN 55379",,2,,,44.7983085,-93.5273976,TRUE
+USA,MN,West St. Paul,Dunham's Food,651-451-7431,"173 Lothenbach Ave. Saint Paul, MN 55118",,8,,,44.8947499,-93.0776176,TRUE
+USA,MO,Barnhart,Kenny's Bar & Grill,636-464-9070,"7045 Highway 61-67 Barnhart, MO 63012",Kenny Vaughn,,,,38.3432456,-90.3905001,TRUE
+USA,MO,Camdenton,Marty's Bar And Grill,573-723-0048 Cell,"1162 S. Business Highway 5 Camdenton, MO 65020",Marty Mathis,,,,38.0211642,-92.7425811,TRUE
+USA,MO,Cape Giradeau,JR's Bar & Billiards,573-803-2750,"829 S Kingshighway Cape Girardeau, MO 63701",,,,,37.2862227,-89.5563592,TRUE
+USA,MO,Cape Giradeau,Blue Diamond Sports Bar,573-837-1148,"26 North Main Street Cape Girardeau, MO 63701",,10,,10,37.3041242,-89.5181682,TRUE
+USA,MO,Centertown,The Outpost Bar and Grill,573-301-2222,"T9705 Lookout Trail Centertown, MO 65023",Mike Tellman,,,,38.618837,-92.4113206,TRUE
+USA,MO,Columbia Heights,Mo River Pub,573-814-1434,"1624 Jade Rd. Columbia, MO 65201",,9,,2,38.9529629,-92.132307,TRUE
+USA,MO,Farmington,Stix and Steins,314-630-3998,"805 Valley Creek Drive Farmington, MO 63640",Melanie Davis,,,,37.7914843,-90.4393669,TRUE
+USA,MO,Hillsboro,Hillsboro Billiards,636-789-3559,"30 Merchants Drive Hillsboro, MO 63050",John Neels,,,,38.2264745,-90.5632439,TRUE
+USA,MO,House Springs,Cosmic Lounge,314-703-6552,"4642 House Springs Center House Springs, MO 63051",Terry Brooks,,,,38.4091419,-90.5762811,TRUE
+USA,MO,Joplin,OK Bar,417-540-9191 Cell,"1516 S. Main St. Joplin, MO 64801",Amanda Love,,,,37.074492,-94.5142278,TRUE
+USA,MO,Kansas City,Chartreuse Saloon,402-326-5304,"Jill Cockson 1627 Oak St. Kansas City, MO 64108",Jill Cockson,,,,39.09339,-94.5785414,TRUE
+USA,MO,Kansas City,Side Pockets North,816-455-9900,"600 NW Englewood Rd. Kansas City, MO 64118",,,,,39.197398,-94.5881183,TRUE
+USA,MO,Kansas City,Brass Rail,816-468-6100,"9104 North Essex Drive Kansas City, MO 64156",Rick Jones,,,,39.2581809,-94.5338791,TRUE
+USA,MO,Kansas City,Swordfish Toms,402-326-5304,"210 W 19 Terrace Kansas City, MO 64108",,,,,39.0903248,-94.5867119,TRUE
+USA,MO,Kirksville,Dukum Inn,660-216-9764,"111 South Elson Street Kirksville, MO 63501",Craig Shorten,,,,40.1941929,-92.5840126,TRUE
+USA,MO,Lee's Summit,Side Pockets,816-524-2400,"224 NW Oldham Pkwy. Lee's Summit, MO 64081",,27,,,38.9177558,-94.4024903,TRUE
+USA,MO,Osage Beach,Lake Billiards,407-800-5707 Cell,"4344 Osage Beach Pkwy Ste 2-A Osage Beach, MO 65065",David Dyer,,,,38.1483787,-92.6194312,TRUE
+USA,MO,Overland,Cue & Cushion,314-852-6293,"2425 Woodson Rd. Overland, MO 63114",Craig Huddleston,,,,38.7020105,-90.3622213,TRUE
+USA,MO,Pacific,Q-Ball's Billiard Supplies,636-485-4354,"508 Cypress Pacific, MO 63069",Ken Thiemann,,,,38.4757699,-90.7585913,TRUE
+USA,MO,Piedmont,Piedmont Family Billiards Pub,573-223-2351,"329 Highway AA Piedmont, MO 63957",Mike McKuin,,,,36.7883115,-90.3350243,TRUE
+USA,MO,Poplar Bluff,The Break Room,573-609-2266,"2201 North Westwood Boulevard #7 Poplar /bluff, MO 63901",Dwayne Coursey,,,,36.7789636,-90.425222,TRUE
+USA,MO,Rolla,Sput's Place,573-578-4959,"17829 Maries Hwy 63 Rolla, MO 65401",Warren Ragers,,,,37.960999,-91.7456121,TRUE
+USA,MO,Saint Joseph,Felix Street Pub,816-262-7899,"516 Felix Street Saint Joseph, MO 64501",Brian Loe,,,,39.7663789,-94.8534174,TRUE
+USA,MO,Saint Peters,Action Billiard Co.,636-928-7772,#12 Drive Newberry Drive Saint Peters. MO 63376,Bud Evans,,,,38.757519,-90.6198414,TRUE
+USA,MO,Saint Peters,Teacher's Billiards,636-441-9964,"3611 North Saint Peters Parkway Saint Peters, MO 63376",Lou,,,,38.7496229,-90.5863483,TRUE
+USA,MO,Springfield,Bugsy Malone's,417-501-1066,"2925 W Republic Rd. Ste. 108 Springfield, MO 65807",,2,,,37.1390273,-93.337593,TRUE
+USA,MO,Springfield,Crazy Hats Lounge,417-773-8292,"1611 N campbell Springfield, MO 65803",,2,,,37.2277723,-93.2940154,TRUE
+USA,MO,Springfield,Marty's Sports Bar,417-720-1228,"3322 S Campbell Ave. Springfield, MO 65807",,3,,,37.1541756,-93.2938137,TRUE
+USA,MO,Springfield,Southbound Bar & Grill,417-755-7774,"5739 Campbell Ave. Ste. B Springfield, MO 65810",,3,,,37.1104429,-93.298118,TRUE
+USA,MO,Springfield,Dennis' Place,417-725-8315,"921 West Sunshine Street Springfield, MO 65807",Dennis Scott,10,,1,37.1827412,-93.3025844,TRUE
+USA,MO,St. Louis,The Crowbar,314-942-6729,"2811 Woodson Rd. St. Louis, MO 63114",,4,,,38.708388,-90.361115,TRUE
+USA,MO,St. Louis,Pints & Rails,314-849-7665,"8924 Watson Road St. Louis, MO 63123",Scott Littles,,,,38.561855,-90.3643836,TRUE
+USA,MO,St. Louis,The Cue,314-537-2828,"3632 South Big Bend St. Louis, MO 63143",Jeremy Mealey,7,,1,38.6011889,-90.3254685,TRUE
+USA,MO,St. Peters,Teacher's Billiards,636-441-9964,"3611 N St. Peters Pkwy. Saint Peters, MO 63376",,14,,4,38.7496229,-90.5863483,TRUE
+USA,MO,St. Peters,Diamond Music Hall,636-477-6825,"4109 N. Cloverleaf St. Peters, MO 63376",Darrell Tullock Jr.,15,,,38.7934764,-90.5735287,TRUE
+USA,MO,Valley Park,The Players Club,314-805-8922,"206 Meramec Valley Plaza Valley Park, MO 63088",Brendan Sullivan,,,,38.548301,-90.4927251,TRUE
+USA,MO,Vanduser,Vanduser Cafe & Pool Hall,573-472-3716,"407 Joyce Street Vanduser, MO 63784",Clay Graviett,,,,36.9903351,-89.686432,TRUE
+USA,MO,Vichy,Sput's Place Bar & Grill,573-299-4412,"17829 Maries Highway 63Vichy, MO 65580",,8,,,39.425219,-92.4118735,TRUE
+USA,MO,Webb City,66 Sports Bar & Restaurant,(305) 904-1777,"660 East Daugherty Street Webb City, MO 64870",Anastasios Voutiritsas,,,,37.1470089,-94.456871,TRUE
+USA,MS,Biloxi,Boogies Grill and Chill,228-265-0631,"388 Big Lake Rd. Biloxi, MS 39531",Jennifer Wilson,,,,30.407175,-88.9884788,TRUE
+USA,MS,Camden,Michael's 43,601-267-5945,"5672 Hwy 43 Camden, MS 39045",Michael Wilder,,,,32.7598608,-89.7627442,TRUE
+USA,MS,Cleveland,Str8 Shooters,662-645-4593,"219 North St. Cleveland, MS 38732",Chris Yarborough,,,,33.7445699,-90.7171484,TRUE
+USA,MS,Grenada,The Sports Center,662.226.1322,"PO Box 28 Grenada, MS 38902",Duane McKinney,,,,33.78215,-89.8287335,TRUE
+USA,MS,Gulfport,Good Times Sports Bar,985-705-1023,"13292 Wisteria Drive Gulfport, MS 39503",Oscar Bato,,,,30.4811137,-89.0548661,TRUE
+USA,MS,Gulfport,Skeeters Bar & Grill,228-265-0631,"197 Tegarden Ln. Gulfport, MS 39507",Ricky Dombrowski & Jennifer Mullins,,,,30.3836917,-89.0360612,TRUE
+USA,MS,Hattiesburg,The Green Room,601-297-6042,"6528 Hwy 49 North Hattiesburg, MS 39401",Shawn Dykes,,,,31.350079,-89.3374186,TRUE
+USA,MS,Jackson,The Green Room,601-713-3444,"444 Bounds St. Jackson, MS 39206",Truett Hawkins,,,,32.3704815,-90.1505594,TRUE
+USA,MS,McComb,Kramer Town Billiards,(601) 324-3555,"601 S Railroad Blvd. McComb, MS 39648",,,,,31.2371249,-90.4505685,TRUE
+USA,MS,Meridian,Dirty Business Billiards,601-616-5543,"103 20th Avenue South Meridian, MS 39301",Amanda Holifield,,,,32.3622598,-88.6953617,TRUE
+USA,MS,Meridian,Lance's Place,601-479-4129,"2307 4th Street Meridian, MS 39301",Lance Crenshaw Bruce,,,,32.3623263,-88.7006724,TRUE
+USA,MS,Meridian,Miss Q's,,"2404 5th Street Meridian, MS 39301",Chris Adkins,,,,32.3630126,-88.701773,TRUE
+USA,MS,Southaven,Southaven Recreation Center,(662) 342-0230,"987 Town & Country Dr. Southaven, MS 38671",,,,,34.9940425,-90.0073451,TRUE
+USA,MS,Starkville,Southern Billiards,(662) 323-7665,"103 S. Washington St. Starkville, MS 39759",,,,,33.4631241,-88.8163575,TRUE
+USA,MS,Tupelo,Shade Tree Lounge,662-680-4336,"883 South Green St. Tupelo, MS 38804",D'Anne Richie,,,,34.24501,-88.7090343,TRUE
+USA,MS,West Point,Sopranos Cafe & Billiards,(662) 494-0520,"113 E Main St. West Point, MS 39773",,,,,33.6073694,-88.6499048,TRUE
+USA,MS,West Summit,County Line Billiards,601-669-1774,"4130 County Line West Summit, MS 39666",Gary Martin,,,,31.3481299,-90.4806516,TRUE
+USA,MT,Billings,Brothers Billiards,(406) 855-0464,"1442 Main St. Billings, MT 59105",,8,,5,45.8252338,-108.4715529,TRUE
+USA,MT,Billings,Rec Room Inc.,406-670-4325 (Cell),"945 Grand Avenue Billings, MT 59102",Michael Guzman,,,,45.784289,-108.540788,TRUE
+USA,MT,Black Eagle,Black Eagle Country Club,(406) 761-8435,"1126 Smelter Ave NE Black Eagle, MT 59414",,,,,47.5247846,-111.2899142,TRUE
+USA,MT,Bozeman,Spas and Home Recreation,(406) 585-0800,"35 Marie Ct. Bozeman, MT 59718",Nick Douma,,,,45.6454599,-111.1789468,TRUE
+USA,MT,Butte,Silver Bow Athletic Club,406-498-2282,"1203 Howard Street Butte, MT 59701",Julie Deshner,,,,46.003186,-112.5060134,TRUE
+USA,MT,Butte,Ace High Casino,(406) 498-2062,"1700 Harrison Ave. Butte, MT 59701",Julie Deshner,,,,45.9979145,-112.5152216,TRUE
+USA,MT,Butte,Party Palace,406-498-2282,"1 West Park Street Butte, MT 59701",Julie Deshner,,,,46.0129838,-112.5360643,TRUE
+USA,MT,Helena,Eagles 4040,406-227-7531,"PO Box 865 East Helena, MT 59635",Michael Ryan,,,,46.5896567,-111.9155461,TRUE
+USA,MT,Joliet,212 Bar & Grill,(406) 860-6798,"600 West Front Street Joliet, MT",Hal Ward,,,,45.4819394,-108.9787741,TRUE
+USA,MT,Missoula,3 In The Side,(406) 543-0646,"P.O. Box 8624 Missoula, MT 59807",Scott MacIntyre,,,,46.852162,-114.0156097,TRUE
+USA,MT,Southwest Great Falls,Jack's Billiards,406-761-2878,"809 13th Street Southwest Great Falls, MT 59404",Jack McFeteridge,,,,47.4983494,-111.3352837,TRUE
+USA,NC,Albemarle,Bulldogs Sports Bar & Gril,704-550-5271,"134 Highway 740 Albemarle, NC 28001",David Meacham,,,,35.3500748,-80.1644441,TRUE
+USA,NC,Arden,Fat Cat's Billiards,828-775-9859,"2345 Hendersonville Road Arden, NC 28704",Dustianna Smith,13,,2,35.4666174,-82.5174422,TRUE
+USA,NC,Boone,Country Retreat Family,828-268-1713 (Cell),"9021 Highway 105 South Boone, NC 28607",,,,,36.1565362,-81.7724217,TRUE
+USA,NC,Carrboro,Tyler's Restaurant & Taproom,919-929-6881,"102 E Main St. Carrboro, NC 27510",,6,,8,35.9101757,-79.0719643,TRUE
+USA,NC,Cary,Break Time Billiards,919-210-5990 (Rich),"6442 Tryon Road Cary, NC 27518",Sara Horsley,,,10,35.7458333,-78.7619444,TRUE
+USA,NC,Chapel Hill,Oscar's Q & Bar,919-418-9711,"1129 Weaver Dairy Rd. Chapel Hill, NC 27514",,,,,35.962854,-79.0527647,TRUE
+USA,NC,Charlotte,Montford Billiards,980-335-2392,"1607 Montford Dr. Charlotte, NC 28209",,,,,35.170976,-80.8493255,TRUE
+USA,NC,Charlotte,Slate Billiards,704-372-5255,"200 E Bland St. Charlotte, NC 28203",,3,,,35.2165178,-80.8546171,TRUE
+USA,NC,Charlotte,Smokin Cue Billiards,704-548-0882,"10901-10 University City Boulevard Charlotte, NC 28213",Matt Riggs,,,,35.314513,-80.7023754,TRUE
+USA,NC,Charlotte,The Press Box,304-319-0835,"9609 North Tryon Street Suite A Charlotte, NC 28262",Chris Babilonia,,,,35.31723,-80.73915,TRUE
+USA,NC,Charlotte,UNC Charlotte,704-687-7112,"9201 University City Charlotte, NC 28223",,,,,35.3056522,-80.7320316,TRUE
+USA,NC,Cherryville,Tom's Tables,704-678-0064 (Cell),"7507 Dallas Cherryville Highway Cherryville, NC 28021",Tom Sellers,,,,35.3854072,-81.3482776,TRUE
+USA,NC,Concord,Hot Shots Sports Bar,704-910-0280,"7731 Gateway Ln. NW Concord, NC 28028",,,,,35.3661284,-80.7084943,TRUE
+USA,NC,Concord,Everything Billiards,704-456-7775,"7730 Bruton Smith Blvd. Concord, NC 28027",Judson Bobo,,,,35.3650627,-80.7099218,TRUE
+USA,NC,Durham,The Green Room,828-464-6583,"1108 Broad Street Durham, NC 27705",Michael Dearing,,,,36.016052,-78.9189615,TRUE
+USA,NC,Eden,Clean Slate Billiards,336-613-2702,"111 North Hundley Drive Eden, NC 27288",Tina Lawson,,,,36.5141282,-79.6992527,TRUE
+USA,NC,Fayetteville,Corner Pocket,910-779-0101,"2443 Hope Mills Road Fayetteville, NC 28304",Tom Greb,8,,2,35.0095737,-78.9661424,TRUE
+USA,NC,Fayetteville,Phat Daddy's Sports Bar,910-223-1515,"3406 Raeford Rd. Fayetteville, NC 28303",,,,,35.0446692,-78.9375305,TRUE
+USA,NC,Fuquay-Verina,Triple Barrel Tavern,919-762-0940,"2221 N Grassland Dr. Fuquay Varina, NC 27526",,,,10,35.6157676,-78.8105446,TRUE
+USA,NC,Gastonia,Rockhouse,704-852-4469,"2699 Aberdeen Blvd. Gastonia, NC 28054",,10,,10,35.2683319,-81.131203,TRUE
+USA,NC,Goldsboro,Silver Spur,919-440-8925,"308 A St. Goldsboro, NC 27534",Paul Williams,,,,35.3992417,-77.9951629,TRUE
+USA,NC,Goldsboro,The Flying Shamrock,919-580-0934,"115 N John St. Goldsboro, NC 27530",,3,,,35.3832498,-77.9954108,TRUE
+USA,NC,Greensboro,Shooters,336-852-1448,"3808 Highpoint Rd. Greensboro, NC 27407",Buddy Cambron,8,,4,36.038856,-79.8561951,TRUE
+USA,NC,Greensboro,Gate City Billiards Club,336-856-8800 (Cell),"6004 Landmark Center Blvd. Greensboro, NC 27407",Donald Leibes,,,,36.0520726,-79.8914063,TRUE
+USA,NC,Greensboro,Everything Billiards,336-988-8642,"111 Guilford College Road Greensboro, NC 27409",Rob Hyler,,,,36.075208,-79.8974551,TRUE
+USA,NC,Havelock,BJ's Billiards,252-671-5063,"446 West Brookcenter Havelock, NC 28532",Marylin Philippart,,,,34.8790492,-76.9013301,TRUE
+USA,NC,Henderson,Deep South Billiards,252-430-9892,"626 Corbitt Road Henderson, NC 27536",Steve Spence,,,,36.3257962,-78.4215619,TRUE
+USA,NC,Hickory,Randolph's Billiards,828-244-4581,"16 2nd Street Northwest Hickory, NC 28601",Lee Canipe,,,,35.7325392,-81.3391943,TRUE
+USA,NC,Hickory,Shooter's Lounge of Viewmont,828-578-6595,"2149 N Center St. Hickory, NC 28601",,3,,,35.7612418,-81.3341614,TRUE
+USA,NC,Hickory,Shooter's Lounge of Mountain View,828-672-1006,"2936 NC-127 Hickory, NC 28602",,3,,,35.6858725,-81.3661931,TRUE
+USA,NC,High Point,Sharky's Bar & Billiards,336-889-2541,"2615 South Main St. Suite 107 High Point, NC 27263",Ronnie Humble,,,,35.9277598,-79.9874135,TRUE
+USA,NC,Jacksonville,Music Vendors,910-455-5555,"1225 Legeune Blvd Jacksonville, NC 28540",Michael Saulnier,,,,34.7471177,-77.4005108,TRUE
+USA,NC,Jacksonville,Rack M Pub & Billiards,910-347-6414,"1150 Henderson Dr. Jacksonville, NC 28540",Greg Cribb,,,,34.782385,-77.42359,TRUE
+USA,NC,Jacksonville,Music Vendors,910-455-5555,"1225 Legeune Blvd Jacksonville, NC 28540",,,,,34.7471177,-77.4005108,TRUE
+USA,NC,Jacksonville,Rack M,910-347-6414,"1150 Henderson Dr. Jacksonville, NC 28540",,,,,34.782385,-77.42359,TRUE
+USA,NC,Kannapolis,The Pub,704-791-3482,"1532 N Ridge Avenue Kannapolis, NC 28083",Rick Husband,3,,,35.5163068,-80.6121153,TRUE
+USA,NC,Kinston,The Dugout,252-208-0304,"674 Stratford St. Kinston, NC 28504",,2,,2,35.261724,-77.641593,TRUE
+USA,NC,Leland,Local's Tavern,910-769-1289,"1107 New Pointe Blvd. Leland, NC 28451",,4,,,34.2109379,-78.0259155,TRUE
+USA,NC,Mathews,Rack 'em Pub & Billiards,704-907-2191,"1898 Windsor Square Drive Mathews, NC 28105",Blake Anthony,,,,35.134217,-80.7088804,TRUE
+USA,NC,Mooresville,Hotshots Sports Bar,704-799-0748,"247 E Plaza Dr. Mooresville, NC 28115",,,,,35.5899419,-80.8286096,TRUE
+USA,NC,Morrisville,PMC Commercial Interiors,919-694-7463,"3000 Perimeter Park Dr. Morrisville, NC 27560",Ashley Trexler,,,,35.8444957,-78.8339347,TRUE
+USA,NC,New Bern,Mickey Milligans Billiards,252-622-0969,"3411 Trent Rd, New Bern, NC 28562",Jerry Sheppard,,,6,35.0925092,-77.0933938,TRUE
+USA,NC,Newton,Captain Jack's Brews N Cues,209-656-1414,"14 E. 1st Street Newton, NC 28658",Mindy Linhares,1,,5,35.6637278,-81.2218325,TRUE
+USA,NC,Newton,Hilltop Sports Club,828-465-3890,"1341 NC 16 Highway Business Newton, NC 28658",Denny Sigmon,,,,35.6550152,-81.2086839,TRUE
+USA,NC,Pineville,Blue Rocks,704-835-1062,"301-C N. Polk Street Pineville, NC 28134",,,,,35.0871939,-80.8875278,TRUE
+USA,NC,Providence,Still Cluckin',434-441-7054 (Cell),"11175 Hwy 86N Providence, NC 27315",Julian Robertson,,,,36.5397636,-79.401155,TRUE
+USA,NC,Raleigh,Brown's Billiards Ltd,919-878-9092,"5500 Atlantic Springs Rd. Raleigh, NC 27616",,,,,35.8575476,-78.5966448,TRUE
+USA,NC,Raleigh,Brass Tap & Billiards,919-876-2382,"3316 Capital Boulevard #0 Raleigh, NC 27604",Tony Coates,,,8,35.8243553,-78.5853519,TRUE
+USA,NC,Raleigh,Brown's Billiards of Raleigh,919-369-7656,"5500-107 Atlantic Springs Road Raleigh, NC 27616",David Huffman,,,,35.8576,-78.596734,TRUE
+USA,NC,Raleigh,Buck's Billiards,919-467-5411,"1102 Buck Jones Road Raleigh, NC 27606",Buck Van Nortwick,,,,35.7694257,-78.7412805,TRUE
+USA,NC,Rocky Mount,Dot's Cue Club,252-212-3373,"14268 US Highway 64 Alt W Rocky Mount, NC 27801",,,,,35.9455087,-77.7511922,TRUE
+USA,NC,Salisbury,Shark Tank 2,704-437-2809,"612 South Main Salisbury, NC 28144",Paul Hudson,4,,,35.6630441,-80.4762324,TRUE
+USA,NC,Spindale,Rutherford County Senior Center,828-287-6411,"193 Callahan Koon Rd #132 Spindale, NC 28160",Tammy Aldridge,,,,35.3493859,-81.909698,TRUE
+USA,NC,Statesville,Chandley's Chalk & Cue,980-635-1109,"1415 Wilkesboro Hwy. Statesville, NC 28625",,,,,35.8038218,-80.9092509,TRUE
+USA,NC,Statesville,Box Car Grill,704-390-5258,"3103 Taylorsville Highway Statesville, NC 28677",Michael Henderson,,,,35.7941104,-80.9382736,TRUE
+USA,NC,Sylva,O'Malley's Sports Bar and Grill,828-631-0554,"83 Asheville Highway Sylva, NC 28779",Cory Coleman,,,,35.3760223,-83.2132461,TRUE
+USA,NC,West Rocky Mountain,Dot's Cue Club,252-886-3865,"14268 US Hwy 64 Alt. West Rocky Mountain, NC 27801",,,,,35.9455087,-77.7511922,TRUE
+USA,NC,Whiteville,Norris Brother's Billiards and Games,910-625-9989,"1727-11/13 South Madison Street Whiteville, NC 28472",,,,,34.3032936,-78.7163543,TRUE
+USA,NC,Wilkesboro,Country Bares Billiards,336-984-9822,"4825 Statesville Road North Wilkesboro, NC 28659",,,,,36.1145301,-81.0854041,TRUE
+USA,NC,Wilmington,Break Time Billiards,910-395-6658,"127 S College Rd. Ste. 12 Wilmington, NC 28403",,24,,9,34.24245,-77.86885,TRUE
+USA,NC,Wilmington,Fox & Hound Wilmington,910-509-0805,"920 Town Center Drive Wilmington, NC 28405",,2,,,34.2423135,-77.8327121,TRUE
+USA,NC,Wilmington,Rack'M Darts & Billiards,910-792-6000,"415 S College Rd. Wilmington, NC 28403",,,,,34.2325444,-77.8735069,TRUE
+USA,NC,Wilmington,Tavern 14,910-769-2225,"6309 Market St. Wilmington, NC 28405",,,,,34.2549186,-77.8468645,TRUE
+USA,NC,Wilmington,Ten Pin Alley Breaktime Billiards,910-452-5455,"127 S College Rd. Wilmington, NC 28403",,10,,8,34.2413121,-77.8682377,TRUE
+USA,NC,Wilmington,Breaktime Billiards,910-395-6658 (Office),"127 S. College Rd. Wilmington, NC 28403",,,,,34.2413121,-77.8682377,TRUE
+USA,NC,Winston-Salem,Breaktime Billiards and Sports Bar,732-763-6969,"420 Jonestown Road Winston-Salem, NC 27104",,,,,36.0744058,-80.3388384,TRUE
+USA,NC,Winterville,Buck Wild Tavern,252-347-6143 (Cell),"4052 South Memorial Drive Suite A Winterville, NC 28590",,,,,35.554074,-77.4075203,TRUE
+USA,ND,Fargo,Fargo Billiards,701-282-4168,"1331 Elm Circle Fargo, ND 58102",,,,,46.8912586,-96.7746159,TRUE
+USA,ND,Minot,The Spot,701-852-7768,"6 2nd Street NE Minot, ND 58703",,8,,2,48.236748,-101.289363,TRUE
+USA,NE,Omaha,Tailgate Games,402-917-4295,"8909 Bedford Circle Suite #5 Omaha, NE 68134",Chris Blaylock & Steve Stessman,,,,41.2885126,-96.0515201,TRUE
+USA,NH,Hampton Falls,House of Billiards,(818) 671-9742,"1 Lafayette Road Hampton Falls, NH 03844",Vikki O'Keefe,6,,9,42.9233765,-70.8528268,TRUE
+USA,NH,Laconia,Foosball Sports Vending,603-393-8113,"PO Box 1301 Laconia, NH 03247",,,,,43.5298981,-71.4692376,TRUE
+USA,NH,Plaistow,Crow's Nest Pub & Grill,603-974-1696,"181 Plaistow Road Plaistow, NH 03865",,,12,,42.8546905,-71.0982589,TRUE
+USA,NH,Pelham,Strokers Billiards Pelham,603-508-6491,"116 Bridge St. Pelham, NH 03076",,2,,7,42.7200315,-71.319204,TRUE
+USA,NJ,Beach Haven,Jack's Racks,609-709-2842,"432 Dock Rd. Beach Haven, NJ 08008",Pat O'Donnell,,,,39.5652341,-74.242544,TRUE
+USA,NJ,Berlin,Golden Nugget Tavern,856-767-9872,"433 New Freedom Road Berlin, NJ 08009",Jim Nunnenkamp,,,,39.7634356,-74.9276819,TRUE
+USA,NJ,Berlin,Woodbriar Inn,856-767-8989,"20 Winding Way Berlin, NJ 08009",Carole Supino,,,,39.7815637,-74.9336871,TRUE
+USA,NJ,Cherry Hill,The Big Event,856-429-0672,"1536 Kings Hwy N Cherry Hill, NJ 08034",,2,,6,39.9172853,-75.008266,TRUE
+USA,NJ,Clementon,Hideaway Tavern,856-346-5909,"263 White Horse Avenue Clementon, NJ 08021",Tim Lindmeier,,,,39.812469,-74.9898064,TRUE
+USA,NJ,Delran,Delran Billiards,856-255-5204,"4000 Rt. 130 N Ste 12B Delran, NJ 08075",,6,1,6,40.0112568,-74.9610336,TRUE
+USA,NJ,Dover,Pancho Villa Rodeo,862-432-0195,"142 East Blackwell Street Dover, NJ 07801",Jorge Rizo,,,,40.8846366,-74.5512146,TRUE
+USA,NJ,Edison,Richie's Sports Bar,732-393-8114,"52 Vineyard Rd. Edison, NJ 08817",,3,,,40.519071,-74.377381,TRUE
+USA,NJ,Edison,Sandcastle Billiards,732-632-9277,"101 Townsley St. Edison, NJ 08837",,,,,40.5302785,-74.3526816,TRUE
+USA,NJ,Ephraim,Spread Eagle,609-502-8037,"316 W Kings Hwy Mount Ephraim, NJ 08059",Tim Lindmeier,,,,39.8804197,-75.0914732,TRUE
+USA,NJ,Gloucester City,Jack's Twin Bar,856-456-6614,"200 South Broadway Gloucester City, NJ 08030",Dennis Galligan,,,,39.8924859,-75.1201847,TRUE
+USA,NJ,Hoboken,Hoboken Billiards,201-876-9666,"1015 Adams St. Hoboken, NJ 07030",Ian Rintel,,,,40.7502689,-74.0336204,TRUE
+USA,NJ,Howell,Side Pocket Billiards,732-987-4343,"4308 Rt 9 S Howell, NJ 07731",,,,,40.1457622,-74.2269676,TRUE
+USA,NJ,Jackson,Knights of Columbus,732-279-5423 Jim,"401 Bartley Road Jackson, NJ 08527",Mike Hart,,,,40.1487456,-74.2771296,TRUE
+USA,NJ,Linden,The Stanley Cup,908-925-8369,"1410 E. Elizabeth Ave. Linden, NJ 07036",Dan Stanley,,,,40.6439832,-74.2377871,TRUE
+USA,NJ,Little Egg Harbor,Mystic Billiards,609-489-3167,"918 Radio Rd. Little Egg Harbor, NJ 08087",John Perugg,,,,39.5686008,-74.3704082,TRUE
+USA,NJ,Seaside Heights,Hemmingways Cafe,732-684-9701,"612 Boulevard Seaside Heights, NJ 08751",Vincent Craparotta,,,,39.9416868,-74.0733008,TRUE
+USA,NJ,Somerdale,Fat Albert's Billiards,856-344-7298,"600 North White Horse Pike - Unit 1 Somerdale, NJ 08083",Albert Tonelli & Joseph Young,,,,39.8512858,-75.0236549,TRUE
+USA,NJ,South River,Gold Star Bar,732-433-3970,"33 White Head Ave. South River, NJ 08882",Steve Grego,,,,40.4439795,-74.3693445,TRUE
+USA,NJ,Southhampton,"KRS Services, Inc.",609-859-3030,"1806 Route 206 Southampton, NJ 08088",Richard Shaw,,,,39.8939038,-74.7402678,TRUE
+USA,NJ,Sussex,The Green Olive,801-574-0770,"2 Sheba Drive Sussex, NJ 07461",Kosta Pulopulo,,,,41.2116431,-74.520122,TRUE
+USA,NJ,Trenton,Kennedy's,609-695-5979,"1701 South Clinton Ave. Trenton, NJ 08610",Jim Kennedy,,,,40.2034705,-74.7376046,TRUE
+USA,NJ,Trenton,Olde Liberty Tavern,609-396-2262,"2114 Liberty Street Trenton, NJ 08629",Jeff Shaw,,,,40.2166472,-74.7301135,TRUE
+USA,NJ,Trenton,Peter's Place,609-271-4097 Cell,"1058 S. Broad St. Trenton, NJ 08611",Mike Peters,,,,40.2048153,-74.7443368,TRUE
+USA,NJ,Union,Black Diamond Billiards,848-219-7832,"1767 Rte 22 W Union, NJ 07083",,,,10,40.6843079,-74.2531465,TRUE
+USA,NJ,West Berlin,OTTS,856-767-3534,"588 North Route 73 West Berlin, NJ 08091",Tim Hamilton,,,,39.818931,-74.9296979,TRUE
+USA,NJ,Westville,Tower Tavern,856-456-9466,"32 River Dr. Westville, NJ 08093",William Reed,,,,39.8730117,-75.1263754,TRUE
+USA,NJ,Williamstown,American Legion #252,(609) 685-0909,"20 Sicklerville Road Williamstown, NJ 08094",Joe Reed,,,,39.6865626,-74.9946403,TRUE
+USA,NM,Albuquerque,Billiards Palace,505-550-2796,"2288 Wyoming Blvd. N.E. Albuquerque, NM 87112",Hrant Kostanian & Levon Hovhannisyan,,,,35.1082046,-106.549108,TRUE
+USA,NM,Farmington,Lucky Break,505-801-9376,"3010 E. 20th St. Ste B Farmington, NM 87402",Diane Mason,4,,6,36.749361,-108.165938,TRUE
+USA,NM,Las Cruces,Lucky Dogs,575-694-6990,"245 E Lohman Ave. Las Cruces, NM 88001",,12,,,32.3069839,-106.775853,TRUE
+USA,NV,Henderson,Sun City MacDonald Ranch,702-270-7007,"2020 West Horizon Ridge Parkway Henderson, NV 89012",Ron Winkel,,,,36.0063938,-115.0764853,TRUE
+USA,NV,Henderson,The Gin Mill,702-385-7568,"2561 Windmill Pkwy. Henderson, NV 89074",,2,,,36.0414671,-115.0982611,TRUE
+USA,NV,Las Vegas,Adrenaline Sports Bar & Grill,702-645-4139,"3102 N Rancho Blvd. Las Vegas, NV 89130",,3,,,36.2156737,-115.2092697,TRUE
+USA,NV,Las Vegas,Backstage Bar & Billiards,702-690-9542,"601 E Fremont St. Las Vegas, NV 89101",,4,,,36.1679409,-115.1395675,TRUE
+USA,NV,Las Vegas,Dylan's Double Duece Saloon,702-451-9221,"3085 S Nellis Blvd. Las Vegas, NV 89121",,3,,,36.1335522,-115.0659099,TRUE
+USA,NV,Las Vegas,Front Row Lounge,702-876-7667,"4180S Jones Blvd. Las Vegas, NV 89103",,2,,,36.1129325,-115.2243687,TRUE
+USA,NV,Las Vegas,"Good Times Billiards, LLC",808-222-4352 - Cell,"5740 West Charleston Boulevard Las Vegas, NV 89146",,7,,8,36.1596137,-115.2204561,TRUE
+USA,NV,Las Vegas,Gorilla Cafe,702-540-3191,"1801 East Tropicana Boulevard Las Vegas, NV 89119",,,,,36.0998776,-115.1269843,TRUE
+USA,NV,Las Vegas,Griff's,702-222-1011,"3650 S. Decatur Blvd. Las Vegas, NV 89103",,10,,11,36.1237099,-115.2073495,TRUE
+USA,NV,Las Vegas,Johnny Fontane's,702-367-6867,"5310 W Sahara Ave. Las Vegas, NV 89146",,2,,,36.1447994,-115.2140187,TRUE
+USA,NV,Las Vegas,Joker's,702-834-8164,"1631 N Decatur Blvd. Las Vegas, NV 89108",,1,,,36.1887803,-115.2066548,TRUE
+USA,NV,Las Vegas,Mickey's Cues & Brews,702-361-2060,"7380 S Eastern Ave. Ste. 104 Las Vegas, NV 89123",,10,,14,36.0563758,-115.1163123,TRUE
+USA,NV,Las Vegas,Office 6 Bar & Grill,702-454-0770,"2570 E Tropicana Ave. Las Vegas, NV 89121",,3,,,36.1009713,-115.11531,TRUE
+USA,NV,Las Vegas,Putter's Eastern,702-891-0119,"5025 S Eastern Ave. Las Vegas, NV 89119",,4,,,36.0976114,-115.1196648,TRUE
+USA,NV,Las Vegas,Putter's Rainbow,,Las Vegas,,6,,,36.171563,-115.1391009,TRUE
+USA,NV,Las Vegas,Putter's South Strip,702-851-6780,"8945 Las Vegas Blvd. S Las Vegas, NV 89123",,2,,,36.0266244,-115.1724183,TRUE
+USA,NV,Las Vegas,Putter's Tropicana,702-458-4567,"3330 E Tropicana Ave. Las Vegas, NV 89121",,3,,,36.1007754,-115.1029867,TRUE
+USA,NV,Las Vegas,Rum Runner Boulder,702-451-7357,"6658 Boulder Hwy #8 Las Vegas, NV 89122",,,,,36.079063,-115.027331,TRUE
+USA,NV,Las Vegas,Rum Runner Desert Inn,702-732-7373,"3050 E Desert Inn Road APT 130 Las Vegas, NV 89121",,2,,,36.1304974,-115.1081755,TRUE
+USA,NV,Las Vegas,Rum Runner Lounge,702-736-6366,"1801 E Tropicana Ave. #7 Las Vegas, NV 89119",,5,,,36.100367,-115.127043,TRUE
+USA,NV,Las Vegas,Single Shot Entertainment Inc.,+61 414 508 854,"8275 South Eastern Avenue Suite 200 #63 Las Vegas, NV 89123",,,,,36.0388727,-115.1188309,TRUE
+USA,NV,Las Vegas,The Tavern,702-804-1113,"113 South Rainbow Las Vegas, NV 89146",Dan Reynolds,,,,36.173549,-115.2446014,TRUE
+USA,NV,Las Vegas,Torrey Pines Pub,702-371-4884 (Cell),"6374 West Lake Meade Blvd. Las Vegas, NV 89109",Bob Bonner,,,,36.1963921,-115.2322192,TRUE
+USA,NV,Las Vegas,ZT8 Billiards Club,702-675-6242,"4001 S Decatur Blvd. Ste. 25-26 Las Vegas, NV 89103",,5,,9,36.1182214,-115.20948,TRUE
+USA,NV,Laughlin,Regency Casino,702-299-1220,"1950 S Casino Dr. Laughlin, NV 89029",,3,,,35.1619377,-114.5716407,TRUE
+USA,NV,Mesquite,Tom's Tavern,623-203-3815,"P O Box 807 Mesquite, NV 89024",Thomas McCauley,,,,36.816709,-114.0504192,TRUE
+USA,NV,North Las Vegas,Sporting Chance,702-631-4099,"2808 W Craig Rd. North Las Vegas, NV 89032",,1,,,36.2398731,-115.1792587,TRUE
+USA,NY,Amsterdam,Sharpshooters Billiards,518-627-4634,"35 East Main Street Amsterdam, NY 12010",,6,,8,42.9366367,-74.1924507,TRUE
+USA,NY,Brooklyn,895 Bar,917-966-4446,"895 Broadway Brooklyn, NY 11203",,2,,,40.6981359,-73.9368776,TRUE
+USA,NY,Brooklyn,Gotham Billiards,718-714-1002,"93 Ave U Brooklyn, NY 11223",,1,,15,40.5962802,-73.9808796,TRUE
+USA,NY,Brooklyn,Gotham City Billiard Club,917-723-9177,"93 Avenue U Brooklyn, NY 11223",Kevin & Isabele Buckley,,,,40.5962802,-73.9808796,TRUE
+USA,NY,Brooklyn,Ha-Weeda,929-337-6078,"4575 2nd Ave. Brooklyn, NY 11232",,,,8,40.6514591,-74.0142805,TRUE
+USA,NY,Brooklyn,Kelly's Tavern,718-236-3854,"9040 Fort Hamilton Parkway Apt. 6F Brooklyn, NY 11209",John Rooney,,,,40.6176665,-74.027304,TRUE
+USA,NY,Brooklyn,Skyline Billiards,718-627-3407,"2515 McDonald Ave, Brooklyn, NY 11223",Robert Pole,,,,40.5907214,-73.9736823,TRUE
+USA,NY,Brooklyn,Star World,631-264-9122,"201 46th Street Brooklyn, NY 11220",Ji Zheng,,,,40.6515186,-74.0140593,TRUE
+USA,NY,Brooklyn,Status Q,718-836-0805,"8218 3rd Avenue Brooklyn, NY 11209",Brian Thomas,,,,40.6259581,-74.0302647,TRUE
+USA,NY,Buffalo,Bison Billiards,716-632-0281,"4545 Transit Road Buffalo, NY",,7,,10,42.971743,-78.6934074,TRUE
+USA,NY,Buffalo,Hippodrome Billiards,716-874-1802,"975 Hertel Avenue Buffalo, NY 14216",Paul Gast,,,,42.9473013,-78.8721547,TRUE
+USA,NY,Clifton Park,"Trick Shot Billiards, Inc.",518-944-6797,"1602 Route 9 Clifton Park, NY 12065",Tim Berlin,8,,1,42.8520354,-73.7573009,TRUE
+USA,NY,Cobleskill,Chieftans Restaurant and Bar,917-519-4046 (Cell),"584 Main Street Cobleskill, NY 12043",John Nolan,,,,42.6779365,-74.4833808,TRUE
+USA,NY,East Yorkville,Hippo's House of Billiards,315-445-3242,"5160 commerical Dr. East Yorkville, NY 13495",Victor Conte,,,,43.1139407,-75.2887825,TRUE
+USA,NY,Endicott,Guys & Dolls Billiards,607-444-3426,"32 Washington Ave. Endicott, NY 13760",,,,,42.1034919,-76.0486645,TRUE
+USA,NY,Endicott,Triangle Billiards,607-748-2985,"118 1/2 Washington Endicott, NY 13760",,,,,42.098408,-76.0493684,TRUE
+USA,NY,Farmingville,Grille in the Ville,631-465-9508,"756 Horseblock Rd. Farmingville, NY 11738",Mike Matlat,,,,40.8312736,-73.0319173,TRUE
+USA,NY,Fulton,Lakeview Lanes,315-593-8070,"723 West Broadway Fulton, NY 13069",Michael Tryniski,,,,43.3174387,-76.4349098,TRUE
+USA,NY,Huntington,The Big Kahuna,631-543-9100,"1730 E Jericho Tpke Unit 6 Huntington, NY 11743",,9,,,40.8334267,-73.3387234,TRUE
+USA,NY,Lindenhurst,Mr. Cue Billiards,631-226-9486,"76 East Sunrise Highway Lindenhurst, NY 11757",Scott Murphy,,,,40.7014519,-73.3795782,TRUE
+USA,NY,Locke,Bradshaw Billiards,607-423-6481,"865 Main Street Locke, NY 13092",Geoff Bradshaw,,,,42.6601073,-76.4305257,TRUE
+USA,NY,Mamroneck,Mamaronuck Elks Lodge,914-261-3060 (Cell),"417 E Boston Post Rd. Mamaroneck, NY 10543",Bill Coleman,,,,40.9498661,-73.7298803,TRUE
+USA,NY,Mattydale,Salt City Billiards,315-454-8643,"1900 Brewerton Rd. Mattydale, NY 13211",,,,,43.0945659,-76.1462517,TRUE
+USA,NY,Middletown,Empire State Tap,845-235-1816,"74 Eisenhower Dr. Middletown, NY 10940",Orlando Drago,,,,41.4701273,-74.4194719,TRUE
+USA,NY,Miller Place,"Long Island UPA, LLC.",516 658 2970,"17 Griffen Court Miller Place, NY 11764",Joe Simoes,,,,40.96061,-73.0101332,TRUE
+USA,NY,Nanuet,Diamond Jim's Billiards & Pub,845-735-0733 (Cell),"400 Market Street Nanuet, NY 10954",,,,,41.0928724,-74.0135089,TRUE
+USA,NY,Nanuet,The Spot,845-623-7768,"33 Route 304 Nanuet, NY 10954",Lenore Donovan,8,,14,41.098604,-73.9989801,TRUE
+USA,NY,New City,D & D's Restaurant & Pub,845-639-0178,"191 S Main St. New City, NY 10956",,3,,,41.1406316,-73.9912368,TRUE
+USA,NY,New York,Barfly,914-456-9879,"244 3rd Ave. New York, NY 10010",Aldo Parisi,,,,40.7371804,-73.9847137,TRUE
+USA,NY,New York,O'Hanlons Bar,646-229-2433 (Cell),"349 East 14th Street New York, NY 10003",Tom Staunton,,,,40.7316969,-73.9828767,TRUE
+USA,NY,New York,Paddy Maguire's Ale House,212-253-0031,"237 3rd Ave. Frnt. New York, NY 10003",,2,,,40.6784451,-73.9850065,TRUE
+USA,NY,New York,Society Billiards,212-420-1000,"10 E 21st St. New York, NY 10010",,3,,16,40.7399045,-73.9902024,TRUE
+USA,NY,New York,Society Billiards & Bar,212-420-1000,"10 East 21st St. New York, NY 10010",Doug Rhee,,,,40.7399045,-73.9902024,TRUE
+USA,NY,Newburgh,Gallery Billiards,845-565-1994,"154 N. Plank Rd. Newburgh, NY 12550",Dave Pinkston,,,,41.5364217,-74.0393128,TRUE
+USA,NY,North Syracuse,Brickhouse Billiards,315-415-9508,"3707 Brewerton Rd. North Syracuse, NY 13212",Brian Holmes,8,,8,43.1162592,-76.1456363,TRUE
+USA,NY,Poughkeepsie,Juliet Cafe,845-452-2234,"5-7 Raymond Avenue Poughkeepsie, NY 12603",Sofia Galaska,,,6,41.6957874,-73.9017043,TRUE
+USA,NY,Poughkeepsie,New York ATM Corporation,845-454-2355 (Cell),"43 Market Street Poughkeepsie, NY 12601",Lou Gallanos,,,,41.702891,-73.9290886,TRUE
+USA,NY,Richmond Hill,Q102 Pool Hall and Lounge,646-287-9162,"102-14 Jamaica Ave. Richmond Hill, NY 11418",Sally Kissoon,,,,40.6949984,-73.8447685,TRUE
+USA,NY,Rochester,Camelot Billiards,585-732-2323 (Cell),"529 Ridge Road East Rochester, NY 14621",Sean Zeng,,,,43.1949825,-77.6043287,TRUE
+USA,NY,Rochester,Diamond Billiards Sports Bar & Grill,585-944-3195,"3400 Ridge Road West Rochester, NY 14626",Dave Wilkins & Fran Imburgia,9,,6,43.2125433,-77.7192085,TRUE
+USA,NY,Rochester,East Ridge Billiards Sports Bar & Lounge,585-270-8215,"529 East Ridge Rd. Rochester, NY 14621",Chris Braiman,,,,43.1949825,-77.6043287,TRUE
+USA,NY,Schenectady,Towne Bowling Academy,518-355-3939,"1601 Altamonta Schenectady, NY 12303",Marty Capullo,,,,42.7833857,-73.9493456,TRUE
+USA,NY,Selden,Goodfellas Billiard Club,631-736-6363 - Bar,"679 Middle Country Road Selden, NY 11784",Angel Alcantara,9,,8,40.8669624,-73.0367953,TRUE
+USA,NY,Staten Island,Cue Time Billiards,347-231-3812 (Danny),"319 Clawson Street Staten Island, NY 10306",Daniel Booth,,,,40.5717068,-74.1116312,TRUE
+USA,NY,Syracuse,Premium Billiards,303-434-1484,"228 Chapel Drive Syracuse, NY 13219",Shane Connors,,,,43.0447927,-76.2446215,TRUE
+USA,NY,Utica,Utica Billiards on the Boulevard,315-732-3000,"2222 Oriskany St W Utica, NY 13502",Andrea Duvall,,,,43.1127728,-75.2657253,TRUE
+USA,NY,Vails Gate,Rack N Roll Billiards,845-629-9519,"115 South Temple Hill Road Vails Gate, NY 12584",Charles Kennedy,,,,41.4546024,-74.0603051,TRUE
+USA,NY,West Hemstead,Raxx's Billiards NY,917-846-6200,"510 Hempstead Turnpike West Hemstead, NY 11552",Holden Chin,,,,40.7061149,-73.6588063,TRUE
+USA,NY,Williamsville,Bison Billiards,716-632-0281,"4545 Transit Road Suite 974 Williamsville, NY 14221",Mike Shriver,,,,42.9717917,-78.6965458,TRUE
+USA,OH,Austintown,Ice Breakers Pool Room,330-544-1112,"5560 W Webb Rd. Austintown, OH 44515",,10,,4,41.1307506,-80.7700582,TRUE
+USA,OH,Beaver Creek,Kings Table,937-609-2757 (Cell),"2348 Grange Hall Road Beaver Creek, OH 45431",Dean Liakakos,,,,39.7582099,-84.0752149,TRUE
+USA,OH,Canal Winchester,The Ugly Mug Bar & Grill,614-920-1604,"9645 Basil Western Road Canal Winchester, OH 43110",,6,,,39.8428249,-82.7748674,TRUE
+USA,OH,Canton,Fiddlestix Billiard Cafe,330-323-5109cell,"5350 Fulton Dr. NW Canton, OH 44718",Chris Szuter,,,,40.8521029,-81.4502824,TRUE
+USA,OH,Canton,The 8 Ball,330-313-6238,"2502 H Street Canton, OH 44704",Dave Cortijo,,,,40.7993928,-81.3344408,TRUE
+USA,OH,Chillicothe,Rick's Billiard Supply,740-703-7433 (Cell),"1620 North Bridge Street Chillicothe, OH 45601",Rich Richter,,,,39.3692312,-82.9764912,TRUE
+USA,OH,Cincinnati,Roc's House of Billiards,513-252-4646,"624 Ohio Pike Cincinnatii, OH 45245",Amanda Johnson,,,,39.0661012,-84.2931249,TRUE
+USA,OH,Cleveland,Wing's Sportsbar and Grill,440-289-6313,"14516 Broadway Ave. Cleveland, OH 44125",Alan Daher,,,,41.4223702,-81.5801426,TRUE
+USA,OH,Columbus,Bookies Roadhouse,614-351-5070,"4182 W Broad St. Columbus, OH 43228",,4,,,39.9536562,-83.112998,TRUE
+USA,OH,Columbus,Centerfold Club,614-436-0902,"2830 Johnstown Rd. Columbus, OH 43219",Fred Tegtmeier,,,,40.0062346,-82.9127978,TRUE
+USA,OH,Columbus,Columbus Billiards,315-706-7278,"2006 Zettler Road Columbus, OH 43232",Daniel Veniot,,,,39.9304909,-82.9118196,TRUE
+USA,OH,Columbus,Grand Champion Lounge,614-443-8888,"1999 S Champion Ave. Columbus, OH 43207",,4,,,39.9235147,-82.972362,TRUE
+USA,OH,Columbus,L.A.K. Entertainment,614-516-9488,"1855 Hopkins Ave, Columbus, OH 43223",MIDWEST OHIO APA,,,,39.9311507,-83.0447964,TRUE
+USA,OH,Columbus,Players Family Billiards,614-239-7665,"4380 E Main St. Columbus, OH 43213",,12,,7,39.9560672,-82.881475,TRUE
+USA,OH,Columbus,Q-Stix Billiards,614-447-2255,"866 Oakland Park Ave. Columbus, OH 43224",,,,,40.032882,-82.9911664,TRUE
+USA,OH,Dayton,Airway Billiards,937-274-5999,"2611 Needmore Rd. Dayton, OH 45414",,,,,39.8202346,-84.1829479,TRUE
+USA,OH,Dayton,Fox & Hound,937-426-4145,"2661 Fairfield Commons Blvd. Dayton, OH 45431",,,,2,39.7638204,-84.0568815,TRUE
+USA,OH,Dayton,Kings Table Bar,937-431-1700,"2348 Grange Hall Road Dayton, OH 45431",,,,,39.7582099,-84.0752149,TRUE
+USA,OH,Dayton,Setters Lounge,937-286-3545,"1008 Gateway Drive Dayton, OH 45404",Hal Johnson,,,,39.7765092,-84.1596802,TRUE
+USA,OH,Dayton,Valley Billiards,937-237-9188,"2505 Valley Pike Dayton, OH 45404",,,,,39.7932958,-84.1383494,TRUE
+USA,OH,Elida,East Road Billiards,419-331-7225,"E4277 East Road Elida, OH 45807",Tony Ciminillo,,,,40.7729576,-84.1869639,TRUE
+USA,OH,Fairfield,Michael's Billiards,513-860-0044,"6625 Dixie Hwy Suite K Fairfield, OH 45014",Mike Midley,,,,39.3185632,-84.4997467,TRUE
+USA,OH,Fairview Park,River City Billiards,440-333-5808,"21414 Lorain Rd. Fairview Park, OH 44126",,,,6,41.4446004,-81.8577171,TRUE
+USA,OH,Gahanna,The Mug,614-475-6672,"333 Agler Rd. Gahanna, OH 43230",,2,,,40.0189846,-82.8891704,TRUE
+USA,OH,Girard,Master's Bar,330-759-1770,"1675 Trumbull Ave. Girard, OH 44420",,,2,,41.1407717,-80.6664679,TRUE
+USA,OH,Grove City,The Derby,614-539-1909,"2209 Stringtown Rd. Grove City, OH 43123",,2,,,39.8770507,-83.0629347,TRUE
+USA,OH,Hilliard,Bankshot Billiards,614-777-0022,"3201 Hilliard-Rome Rd. Hilliard, OH 43026",,12,,3,40.017022,-83.158355,TRUE
+USA,OH,Huber Heights,Action Palace Billiards,937-496-5872,"5605 Old Troy Pike Huber Heights, OH 45424",Alex Ollinger,8,,4,39.8357161,-84.1412294,TRUE
+USA,OH,Kettering,Sidelines,937-716-5450,"4090 Wilmington Pike Kettering, OH 45429",Mark Ewart,,,,39.686208,-84.1279789,TRUE
+USA,OH,Lancaster,Extreme Billiards,740-243-9171,"1668 Quail Meadows Drive Lancaster, OH 43130",Kevin Pickering,,,,39.7467213,-82.6349867,TRUE
+USA,OH,Lancaster,L. B. Bar & L. B. Billiards,740-277-7656,"146 East Winding St. Lancaster, OH 43130",,7,,,39.709524,-82.6009375,TRUE
+USA,OH,Lancaster,Long Branch Cafe,740-654-9145,"146 East Winding St. Lancaster, OH 43130",,,,,39.709524,-82.6009375,TRUE
+USA,OH,Lewis Center,Bankshot Billiards,614-638-4299,"2881 Abbey Knoll Drive Lewis Center, OH 43035",Don Reed,,,,40.1793414,-82.9808059,TRUE
+USA,OH,Lisbon,Lisbon Fraternal of Eagles,330-424-3516 (Cell),"127 East Chestnut Lisbon, OH 44432",Bob Hunt,,,,40.7739779,-80.766776,TRUE
+USA,OH,London,Big Money Billiards,614-623-5629,"118 West High Street London, OH 43140",Scott Bennett,6,,2,39.8839976,-83.4512457,TRUE
+USA,OH,Lowell,Moose Lodge #2382,740-896-3252,"11569 State Route 60 Lowell, OH 45744",Corby Kitts,,,,39.5321981,-81.5213911,TRUE
+USA,OH,Mansfield,Buckeye Billiards,419-989-3914,"950 Ashland Rd. Mansfield, OH 44905",Larry Abrams,10,,2,40.773491,-82.4795062,TRUE
+USA,OH,Mantua,Bourbon Barrel Saloon,440-321-1410,"11697 OH-44 Mantua, OH 44255",Chris Kanieski,,,,41.3101339,-81.2221495,TRUE
+USA,OH,Martins Ferry,Corner Pocket Billiards,740-491-0199,"56731 Colerain Pike Martins Ferry, OH 43925",,6,,2,40.1070442,-80.7557804,TRUE
+USA,OH,Maumee,Mason's Billiards and Barstools,419-897-9800,"1412 Reynolds Road Maumee, OH 43537",Trent Waldron,,,,41.582395,-83.663583,TRUE
+USA,OH,Middletown,Racks N Balls,937-673-0273 - Josh,"2915 Cincinnati Dayton Road Middletown, OH 45044",Patricia Jaynes,,,,39.4758237,-84.3434005,TRUE
+USA,OH,Middletown,Willie's Pub,513-320-2093,"1613 Germantown Road Middletown, OH 45042",Kenneth Lewis,,,,39.5302728,-84.3831351,TRUE
+USA,OH,Mineral Ridge,Ice Breakers Pool Room,330-544-1112,"5560 W Webb Rd/ Mineral Ridge, OH 44515",,10,,,41.1307506,-80.7700582,TRUE
+USA,OH,New Philadelphia,Bracket Billiards,234-801-4030,"814 Kaderly St. NW New Philadelphia, OH 44663",,,,,40.500818,-81.4523521,TRUE
+USA,OH,Newark,Drumms Family Billiards,740-915-8237,"1987 Coffman Rd. Newark, OH 43055",,,,,40.0380263,-82.4703045,TRUE
+USA,OH,North Ridgeville,Super Maryo Brothers,216-200-1923,"34425 Loraine Road North Ridgeville, OH 44039",Steve Maryp,,,,41.3660565,-81.9978775,TRUE
+USA,OH,Parma,Continuous Billiards,440-842-5177,"5573 Pearl Road Parma, OH 44129",Joe Toth,,,,41.4100442,-81.7376136,TRUE
+USA,OH,Parma,Raxx,216-905-3126,"5513 Pearl Rd. Parma, OH 44129",,,,,41.4111037,-81.7353267,TRUE
+USA,OH,Parma Heights,Rookies Sports Bar,440-842-0834,"6913 W 130th St. Parma Heights, OH 44130",,8,,,41.3770487,-81.7837102,TRUE
+USA,OH,Reynoldsburg,Thirsty Turtle,614-861-3511,"2683 Independence Village Ctr. Reynoldsburg, OH 43068",,,,,39.9261938,-82.8276663,TRUE
+USA,OH,Sandusky,Zippy’s Sports Bar,608-385-1870,"5500 Milan Road Suite 210 Sandusky, OH 44870",Marc Keller,,,,41.4048934,-82.6569204,TRUE
+USA,OH,Sheffield Lake,Dee's Lakeside Billiards,440-452-5633 Derek,"5284 East Lake Road Sheffield Lake, OH 44054",Derek Daniels,5,,2,41.4977486,-82.0758237,TRUE
+USA,OH,Streetsboro,Chuggers Bar & Grill,330-422-0400,"9244 Market Square Dr. Streetsboro, OH 44241",,4,,,41.2433945,-81.349742,TRUE
+USA,OH,Toledo,Miss Cue,419-215-1110 (Cell),"1720 South Reynolds Road Toledo, OH 43614",Daniel Martin,,,,41.6090353,-83.6655532,TRUE
+USA,OH,Toledo,Miss Cue North,419-478-6344,"216 New Towne Square Dr. Toledo, OH 43612",,,,,41.7226215,-83.5437404,TRUE
+USA,OH,Toledo,Miss Cue South,419-865-3792,"1720 S Reynolds Rd. Toledo, OH 43614",,,,,41.6090353,-83.6655532,TRUE
+USA,OH,Toledo,Racktime Billiards,419-343-1539,"2600 Tremainsville Road Toledo, OH 43613",Diane Herzig,12,,2,41.7087897,-83.606592,TRUE
+USA,OH,Van Wert,Cate's Diamond Mine Billiards,814-547-2052,"142 East Main Street Van Wert, OH 45891",Caitlin Stoyer,6,,2,40.8693054,-84.5811673,TRUE
+USA,OH,Vermilion,Pence Lake Erie Lanes,440-506-8619,"4523 Liberty Ave. Vermilion, OH 44089",Tim Pence,,,,41.4243054,-82.3454433,TRUE
+USA,OH,West Carrollton,Miami Valley Sports Bar,937-859-8335,"930 Watertower Ln. West Carrolton, OH 45449",,,,,39.6409889,-84.2394486,TRUE
+USA,OH,Westerville,Cushions Billiards & Lounge,614-882-5986,"5986 Westerville Road Westerville, OH 43081",Dan Sylvester,,,,40.093669,-82.9240848,TRUE
+USA,OH,Westlake,ARG Sales Corporation,(216) 570-8090,"25117 Detroit Rd. Suite 200 Westlake, OH 44145",Michael Hollis,,,,41.4691082,-81.8983569,TRUE
+USA,OH,Winchester,The Ugly Mug,614-920-1604,"9645 Basil Western Road Canal Winchester, OH 43110",Katerina Petrova & Gregory Groves,,,,39.8428249,-82.7748674,TRUE
+USA,OH,Youngstown,Ice Breakers Billiards,330-518-3708,"5516 West Webb Rd. Youngstown, OH 44515",Mike Mousie,,,,41.1303813,-80.7693614,TRUE
+USA,OH,Youngstown,Loose Rack Billiards,330-503-9311,"3207 Mahoning Ave. Youngstown, OH 44509",Sean Martin,,,,41.1027362,-80.7066125,TRUE
+USA,OH,Zanesville,VFW Post 1058,740-452-4491,"1318 Putnam Ave. Zanesville, OH 43701",,4,,,39.9186434,-82.005924,TRUE
+USA,OK,Ada,Ada Billiards,316-706-2764 (cell),"119 Arlington Street Ada, OK 74820",Michael Treat,,,,34.7814516,-96.677637,TRUE
+USA,OK,Admore,Starlite,580-319-5310,"1323 S. Commerce St. Ardmore, OK 73401",,,,,34.1559782,-97.1439305,TRUE
+USA,OK,Cushing,Buck One Bar,"405-780-5807
+","122 West Broadway Street Cushing, OK 74023",,10,,,35.9802218,-96.7737212,TRUE
+USA,OK,Duncan,Ray's Place,(432) 556-0890,"625 US-81, Duncan, OK 73533","Jan Burton Steven Walker
+Ray Mitchell & Darcy Pirtle",3,,,34.4946307,-97.9697375,TRUE
+USA,OK,Enid,Chandler Bourbon & Billiards,580-603-5707 cell,"601 N. Independance Ave. Enid, OK 73701",Mark & Melanie Chandler,,,,36.4026547,-97.8796858,TRUE
+USA,OK,Lawton,Bulgogi House,(580) 699-2345,"2514 B NW Ft. Sill Blvd Lawton, OK 73507",William Forney,3,,,34.6342409,-98.40541,TRUE
+USA,OK,Lawton,Flix Billiards,(580) 248-2877,"2607 NW Cache Road Lawton, OK 73507",James Mallow,,,,34.6242176,-98.4303744,TRUE
+USA,OK,Midwest City,Da Bar,,"5600 S. Sooner Rd. Midwest City, OK 73110",,4,,,35.4094005,-97.4224869,TRUE
+USA,OK,Midwest City,Snarky's Hideaway,405-921-5332,"228 W Harmon Midwest City, OK 73110",Miko Schweitzer,,,,35.4417589,-97.4053127,TRUE
+USA,OK,Moore,Regency Club,405-835-0845,"808 Northwest 24th Street Moore, OK 73160",Anthony Keough,5,,,35.3606974,-97.503955,TRUE
+USA,OK,Muskogee,VFW Post 474,918-683-5253,"3815 W Okmulgee Ave. Muskogee, OK 74401",,8,,,35.7543529,-95.410277,TRUE
+USA,OK,Oklahoma City,Amini's Galleria,(405) 722-2400,"6627 NW Expressway OKC, OK 73132",Ron Cox,,,,35.556177,-97.6324993,TRUE
+USA,OK,Oklahoma City,Bill's Bar & Billiards,405-420-9174 (Cell),"5911 SE 74th St, Oklahoma City, OK 73135",Billy Roberts,16,,3,35.3922426,-97.4182372,TRUE
+USA,OK,Oklahoma City,Chester's Pool Hall & Grill,(405) 942-5944,"2733 NW 50th St, Oklahoma City, OK 73112",Rocky Biswell & John Barton,8,,6,35.5226948,-97.5642073,TRUE
+USA,OK,Oklahoma City,Cue Pro Billiards,405-202-6942,"3416 North May Avenue Oklahoma City, OK 73112",Thein Nguyen,,,,35.5046017,-97.5651363,TRUE
+USA,OK,Oklahoma City,Don Quixote Club,(405) 947-0011,"3030 N Portland Ave, Oklahoma City, OK 73107",,8,,,35.4986293,-97.5823694,TRUE
+USA,OK,Oklahoma City,Lucky's Pool Room,405-685-0904,"4601 South May Oklahoma City, OK 73119",Calvin Carner,,,,35.4195028,-97.5663238,TRUE
+USA,OK,Oklahoma City,Lyrewood Lounge,405-808-1149,"7206 Lyrewood Lane Oklahoma City, OK 73132",Bob Ross,1,,,35.5451775,-97.6305812,TRUE
+USA,OK,Oklahoma City,Taylor Cues Co. LLC,405-317-3298,"4606 NW 10th Oklahoma, OK 73127",Kent Taylor,,,,35.4783169,-97.6035622,TRUE
+USA,OK,Oklahoma City,The Enzone,405-824-9511,"8884 South Western Oklahoma City, OK 73139",Mike Yones,8,,,35.3781913,-97.5293056,TRUE
+USA,OK,Oklahoma City,The Landing Zone,405-732-3678,"8720 SE 15th Street Midwest City, OK 73110",Shelly Thompson,,,,35.449332,-97.3776135,TRUE
+USA,OK,Sayre,66 Lounge,580-729-2830 (Billie),"304 NE Highway 66 Sayre, OK 73662",Jeffery Ward,,,,35.3080406,-99.6376266,TRUE
+USA,OK,Stillwater,Shots,405-372-8200,"421 South Washington St. Stillwater, OK 74074",Kevin Burnette,11,,1,36.1168887,-97.0690459,TRUE
+USA,OK,Sulphur,Los Compadres Restaurant,580-618-2779,"1023 West Broadway Sulphur, OK 73086",Felipe Castillo,,,,34.506061,-96.980538,TRUE
+USA,OK,Tahlequah,Dewain's Place,918-931-1577,"303 S Water Ave. Tahlequah, OK 74464",,,,,35.9101291,-94.9705234,TRUE
+USA,OK,Tulsa,Deep Pockets,9185140026 (bar),"7822 West Parkway Blvd N, Tulsa, OK 74127",Matt & Andrea Noe,16,,6,36.1456032,-96.0792965,TRUE
+USA,OK,Tulsa,Magoo's,918-663-3364,"5002 South Memorial Dr. Tulsa, OK 74145",Jim Mc Dermott & Steve Peace,,,,36.0915602,-95.8866316,TRUE
+USA,OK,Tulsa,Sharky's,918-742-9500,"3415 South Peoria Avenue Tulsa, OK 74105",,,,,36.1137676,-95.9752647,TRUE
+CAN,ON,Windsor,Brews and Cues,519-567-7954,"5663 Ojibway Parkway Windsor, Ontario Canada N9C4J5",Andre Mailloux,,,,42.2583561,-83.0855034,TRUE
+CAN,ON,Mississauga,Game Time Eatery and Entertainment,289-521-9464,"1248 Dundas Street East Mississauga, ON Canada L4Y2C4",Devon Morant,,,,43.6058643,-79.5860449,TRUE
+CAN,ON,Markham,Master Q Snooker Billiards & Lounge,905-307-8828,"20 Apple Creek Blvd. #4 Markham, ON L3R5Z1",Ricky Soong,,,,43.857457,-79.35881,TRUE
+CAN,ON,Toronto,The Palace Pier,416-252-7701,"2045 Lake Shore Blvd West Toronto, ON M8V2Z6",Mike Wychara,,,,43.6315679,-79.4748331,TRUE
+USA,OR,Aloha,Underground Sports Bar,503-848-8888,"18641 SW Tualatin Valley Hwy. Aloha, OR 97003",,8,,,45.494643,-122.868784,TRUE
+USA,OR,Astoria,Triangle Tavern,541-401-1353 Cell,"222 W. Marine Dr. Astoria, OR 97103",Carol Major,,,,46.1897593,-123.8484718,TRUE
+USA,OR,Beaverton,Legends Billiards Room,970-317-2919,"6540 Southwest Fallbrook Place Beaverton, OR 97008",,20,,8,45.4727489,-122.7770275,TRUE
+USA,OR,Bend,Chaos Billiards Lounge,541-797-6978,"1900 NE Davidson St. Ste. 112 Bend, OR 97701",,6,,1,44.0581728,-121.3153096,TRUE
+USA,OR,Canby,Route 99 Roadhouse,503-899-2871 Tyson,"22842 South Highway 99E Canby, OR 97013",,,,,45.2758514,-122.6687529,TRUE
+USA,OR,Coos Bay,Silver Dollar Tavern,541-888-5634,"479 Newmark Ave. Coos Bay, OR 97420-3257",Jessie Lund,,,,43.3926517,-124.276528,TRUE
+USA,OR,Florence,Beachcomber Pub,541-997-6357,"1355 Bay Street Florence, OR 97439",Scott Waiss,,,,43.9667077,-124.1060844,TRUE
+USA,OR,Gresham,Pub 181,503-666-4457,"18415 SE Division St. Gresham, OR 97030",,4,,,45.504957,-122.4734407,TRUE
+USA,OR,Hillsboro,The Dugout,971-226-3384,"871 NE 25th Avenue Hillsboro, OR 97214",William Bishop,,,,45.5288767,-122.9572495,TRUE
+USA,OR,Keizer,Kolby's Restaurant Bar & Billiards,541-593-1724(Kevin),"3838 River Road North Keizer, OR 97303",Kevin Kyle,7,,1,44.9817061,-123.0259338,TRUE
+USA,OR,McMinnville,Mac Club,503-435-1012,"2223 McDaniel McMinnville, OR 97128",,3,,,45.2252373,-123.1820077,TRUE
+USA,OR,Medford,Rack Em Billiards,541.779.6111,"40 N. Riverside Ave. Medford, OR 97501",Dave Smith,7,,7,42.3282036,-122.8707792,TRUE
+USA,OR,Milwaukee,Wichita Pub,503-654-4201,"6106 SE King Rd. Milwaukie, OR 97222",,8,,,45.4470761,-122.5999412,TRUE
+USA,OR,Oregon City,Jin's Lounge,503-816-6098 (JeffCell),"1656 Beaver Creek Road Oregon City, OR 97045",Frank Chin,,,,45.3331251,-122.5854047,TRUE
+USA,OR,Oregon City,McAnulty & Barrys,503-866-1944,"812 Main Street Oregon City, OR 97045",Barb Duval,,,,45.3582758,-122.6067222,TRUE
+USA,OR,Oregon City,Midway Public House,503-656-9501,"1003 7th St. Oregon City, OR 97045",,10,,,45.3547285,-122.6012056,TRUE
+USA,OR,Oregon City,Wichita Bar & Grill,503-557-0277,"19140 Molalla Ave. Oregon City, OR 97045",,3,,,45.3293331,-122.5843742,TRUE
+USA,OR,Portland,Classic Billiards Inc.,503-761-2622,"3636 SE 122nd Ave. Portland, OR 97236",,,,,45.4956459,-122.5363519,TRUE
+USA,OR,Portland,Fortune Star Lounge,503-760-7641,"15920 SE Division St. Portland, OR 97236",Jack Yu,,,,45.5040413,-122.4992596,TRUE
+USA,OR,Portland,Local 66 Bar & Grill,503-946-1135,"6618 SE Powell Blvd. Portland, OR 97206",,2,,,45.4972326,-122.5949483,TRUE
+USA,OR,Portland,Park City Pub,503-284-7107,"8025 NE Sandy Blvd. Portland, OR 97213",,2,,,45.5520224,-122.5803098,TRUE
+USA,OR,Portland,Sams Hollywood Billiards,503-282-8266,"1845 NE 41st Ave. Portland, OR 97212",,,,,45.5363849,-122.6212508,TRUE
+USA,OR,Portland,Silver Dollar II Sports Bar,503-241-3465,"19 NW 5th Ave. Portland, OR 97209",,3,,,45.5234877,-122.6756303,TRUE
+USA,OR,Portland,Slingshot Lounge,503-750-2808,"5532 SE Center Street Portland, OR 97206",Jordan Walden,,,,45.49369,-122.605542,TRUE
+USA,OR,Portland,Sweet Home Bar & Grill,503-283-0274,"2824 N Lombard St. Portland, OR 97217",,1,,,45.5768818,-122.6960618,TRUE
+USA,OR,Portland,Water Trough Saloon,503-234-4970,"4815 SE Hawthorne Blvd. Portland, OR 97215",,3,,1,45.5122503,-122.6126403,TRUE
+USA,OR,Rainier,Interstate Tavern,360-749-6923,"119 East B Street Rainier, OR 97048",Juilene Wvollet,,,,46.0897041,-122.9335904,TRUE
+USA,OR,Salem,Jammers Tavern,503-362-7494,"1095 Cascade Drive NW Salem, OR 97304",Mike Eichinger,,,,44.9499158,-123.0647277,TRUE
+USA,OR,Salem,Phils Bar & Grill,503-362-3600,"1686 12th St. SE Salem, OR 97302",,10,,,44.9214538,-123.0303002,TRUE
+USA,OR,Terrebonne,Green Felt Billiards,541-420-9487,"9281 SW Sundown Canyon Rd. Terrebonne, OR 97760",Jack Leu,,,,44.4467817,-121.3140354,TRUE
+USA,PA,Aliquippa,Kendrew's Lounge,724-375-5959,"2590Brodhead Rd. Aliquippa, PA 15001",,,6,,40.6015392,-80.2756789,TRUE
+USA,PA,Allentown,Federal Order Of Eagles 110,484-515-2953,"1029 S 4th St. Allentown, PA 18103",Richard Kuehner,,,,40.5909771,-75.459757,TRUE
+USA,PA,Bally,Goodwill Fire Company,610-845-2000,"537 Chestnut Street Bally, PA 19503",Paul Swavely,,,,40.4010925,-75.5892991,TRUE
+USA,PA,Bally,The Bally Hotel,215-872-5975,"660 Main Street Bally, PA 19503",Ian Meinzer,,,,40.4024604,-75.5859341,TRUE
+USA,PA,Bangor,East Bangor Volunteer Fire Department,484-221-0203,"30 Central Ave. Bangor, PA 18013",Ed Austin,,,,40.8794135,-75.1827829,TRUE
+USA,PA,Barto,The Player's Choice,215-380-5750,"1 O'Donoghue Way Barto, PA 19504",Lou Gagliano,,,,40.3787951,-75.5964155,TRUE
+USA,PA,Bartonville,Wynder Holdings,845-707-0961,"3400 Route 611 Suite 103 Bartonsville, PA 18321",Kenneth Wynder,,,,41.0068833,-75.2844311,TRUE
+USA,PA,Beaver Falls,Third Base Inn,724-843-9866,"1026 11th St. Beaver Falls, PA 15010",Bill Lilly,,,,40.7509259,-80.3277604,TRUE
+USA,PA,Beaver Falls,"Rager, John",,"2168 Darlington Rd. Beaver Falls, PA 15010",John Rager,,,,40.7662281,-80.3519878,TRUE
+USA,PA,Bernville,Riverboat Saloon,610-488-7878,"1550 Old Route 22 Bernville, PA 19506",Charles & Connie Gallagher,,,,40.5252694,-76.0489101,TRUE
+USA,PA,Bethlehem,Seidersville Democratic Association,610-861-0464,"1383 Clearfield Ave. Bethlehem, PA 18015",,6,,,40.5946098,-75.3921554,TRUE
+USA,PA,Bloomsburg,RD Roadhouse,570-204-3098 (Cell),"23 Perry Ave. Bloomsburg, PA 17815",Ron DeFrain,,,,40.9943308,-76.4778847,TRUE
+USA,PA,Boyertown,Friendship Hook & Ladder,484-614-9478,"10 Warwick Street Boyertown, PA 19512",Bill Carr & Samuel Diehl,,,,40.3319368,-75.6388567,TRUE
+USA,PA,Boyertown,Keystone Fire Company,484-792-1624,"240 N. Walnut Street Boyertown, PA 19512",Brian Warwick,,,,40.3374923,-75.6349018,TRUE
+USA,PA,Butler,The American Legion Post 117,724-283-9014,"413 South Main Street Butler, PA 16001",,1,,,40.8566425,-79.8947366,TRUE
+USA,PA,Camp Hill,Coliseum Entertainment Megaplex,717-972-1000,"410 Saint Johns Church Road Camp Hill, PA 17011",Irfan Butt,,,,40.2305219,-76.9544866,TRUE
+USA,PA,Carlisle,Carlisle Moose Family Center,717-713-1950,"25 East High Street Carlisle, PA 17013",Joe Foreman,,,,40.2015482,-77.1875842,TRUE
+USA,PA,Clarion,Infusion Night Club and Grille,814-603-2073,"518 to 522 Main St. Clarion, PA 16214",Ronald Pacsai,,,,41.214064,-79.384958,TRUE
+USA,PA,Coatsville,Appeteazers,610-383-5187,"2348 E Lincoln Hwy. Coatsville, PA 19320",,5,,,39.9904045,-75.7783329,TRUE
+USA,PA,Conway,Scoot's Bar & Grill,724-869-2127,"1241 2nd Ave. Conway, PA 15027",,,,,40.6616741,-80.2388771,TRUE
+USA,PA,Conway,Lounge Billiards,724-869-0701,"1016 13th St. Conway, PA 15027",Ray Brooks,,,,40.6649403,-80.2318264,TRUE
+USA,PA,Corry,Moose Lodge #98,814-664-8671,"332 E. Washington Ave Corry, PA 16407",Gail Collins,,,,41.9234389,-79.6371837,TRUE
+USA,PA,Darlington,Harry's Place,724-336-5118,"109 E. Palistine Darlington, PA 16115",Harry Myers,,,,40.8239707,-80.4735415,TRUE
+USA,PA,DeLancey,Saint Joseph Polish Society,814-939-9450,"762 Adrian Rd. PO Box 212 DeLancey, PA 15733",Jamie Hopkins,,,,40.9872677,-78.956696,TRUE
+USA,PA,Dickson City,Eagle Billiards,570-955-0182,"873 Scranton Carbondale Hwy. Dickson, PA 18508",,,,,41.4665139,-75.647136,TRUE
+USA,PA,Drexel Hill,Drexeline Billiard Club,610-259-9144,"5100 State Rd. Drexel Hill, PA 19026",,,,,39.945358,-75.325549,TRUE
+USA,PA,DuBois,VFW Post #813,814-371-4124,"114 Fuller Ave. PO Box 523 DuBois, PA 15801",Bob Fay,,,,41.1250886,-78.7667921,TRUE
+USA,PA,Dunbar,Ye Olde Inn,724-628-9820,"106 Monarch Road Dunbar, PA 15431",Donna Wisnewski,,,,39.9734109,-79.6407586,TRUE
+USA,PA,Easton,Fitch's Billiards,610-392-1480,"1401 Camelot Dr. Easton, PA 18045",Scott Fitch,,,,40.7138425,-75.261829,TRUE
+USA,PA,Erie,Bullfrog Bar,814-486-9007,"3864 Peach St. Erie, PA 16509",,2,,,42.0951298,-80.0831985,TRUE
+USA,PA,Erie,Gold Crown Billiards,814-866-2035,"3866 Peach St. Erie, PA 16509",,,,,42.0952183,-80.0824136,TRUE
+USA,PA,Everett,Double LL Bar & Grill,814-381-3015,"901 North Spring Street Everett, PA 15537",Lisa Phipps,,,,40.0219,-78.3731567,TRUE
+USA,PA,Fleetwood,American Game Room,(610) 944-5159,"111 Lake Road FLeetwood, PA 19522",,,,,40.4454283,-75.7922777,TRUE
+USA,PA,Freedom,Harvey Run Inn,724-728-5412,"1530 Harvey Run Rd. Freedom, PA 15042",,1,,,40.6841576,-80.2361787,TRUE
+USA,PA,Greensburg,Midway - St. Clair VFD,724-289-3736 Cell,"1966 Broadway Ave. Greensburg, PA 15601",Verne Koposko,,,,40.2684345,-79.5569415,TRUE
+USA,PA,Greensburg,333 Club,724-961-6373 (cell),"518 W Otterman St. Greensburg, PA 15601",,,,,40.3031674,-79.5540658,TRUE
+USA,PA,Greenville,Hilltop Tavern,252-333-4908,"25 Conneaut Lake Road. Greenville, PA 16125",Jerome Little,7,,,41.4174639,-80.3800323,TRUE
+USA,PA,Hamburg,Perry Indoor Golf and Billiards,570-233-6337,"805 State Street Suite B Hamburg, PA 19526",Jenna Roland,,,,40.5596067,-75.9739684,TRUE
+USA,PA,Harrisburg,Club Med Billiards,717-580-8632 Cell,"101 S. 38th St. Harrisburg, PA 17111",Joel Medvidovich,,,,40.2565368,-76.8221803,TRUE
+USA,PA,Harrisburg,Harrisburg Maennerchor,717-233-3011,"221 North Street Harrisburg, PA 17101",,2,,,40.2642188,-76.8873027,TRUE
+USA,PA,Harrisburg,Gilligan's Bar & Grill,717-939-9575,"987 Eisenhower Blvd. Harrisburg, PA 17111",George Lois,,,,40.2387679,-76.8052365,TRUE
+USA,PA,Harrisburg,The Pour House on Derry,717-682-8955,"6200 Derry St. Harrisburg, PA 17111",Paul Karagiannis,,,,40.2642219,-76.7804032,TRUE
+USA,PA,Hatboro,Archie's Big Heads,215-441-0436,"489 E County Line Rd. Hatboro, PA 19040",,,,,40.1774237,-75.0807117,TRUE
+USA,PA,Haven,D&D Grille & Bar,570-385-9144,"16 St. John Street Schuylkill Haven, PA 17972",Lou Spitler,,,,40.628776,-76.1723737,TRUE
+USA,PA,Hopwood,JC's Diner & Pool Hall,724-550-4368,"242 Toolspring Jumonville Road Hopwood, PA 15445",,,,,39.898285,-79.707829,TRUE
+USA,PA,Imperial,RMV Sales Inc.,724-695-2406,"7900 Staubenville Pike 100 Imperial, PA 15126",Mark Milletary,,,,40.4403953,-80.2276656,TRUE
+USA,PA,Jamestown,First Catholic Slovak Band Hall,814-410-3669,"716 Chestnut Street Johnstown, PA 15906",Tanya McClafferty,,,,40.3422721,-78.9309741,TRUE
+USA,PA,Johnstown,First Russian American Federation,814-341-8674,"301 Chandler Ave. Johnstown, PA 15906",Bill Blasko,,,,40.3486941,-78.9484692,TRUE
+USA,PA,Johnstown,Mully's,814-266-7372,"1449 Scalp Avenue Johnstown, PA 15904",Jeff Conahan,,,,40.2724204,-78.8551623,TRUE
+USA,PA,Johnstown,Woodside Bar and Grill,814-254-4003,"430 Highland Park Road Johnstown, PA 15904",Rob Barmoy,,,,40.2853738,-78.8972179,TRUE
+USA,PA,Kittanning,Fraternal Order Of Eagles 896,724-954-6810,"632 Hawthorne Ave. Kittanning, PA 16201",Chance Jones,,,,40.8226691,-79.5217739,TRUE
+USA,PA,Lancaster,Riverside Camping Association,717-314-8439,"818 Hillaire Road Lancaster, PA 17601",Jeff Greener,,,,40.0582991,-76.3816122,TRUE
+USA,PA,Latrobe,Cooperstown Vets,724-972-5463,"2541 Thomas St. Latrobe, PA 15650",Thomas Gilligan,,,,40.3026293,-79.3625278,TRUE
+USA,PA,Lititz,Garden Spot Home Assoc. #56,717-951-7181,"109 N broad St. Lititz, PA 17543",Ray Sylte,,,,40.1598474,-76.3073031,TRUE
+USA,PA,Manheim,Germania Band Club Of Manheim,717-278-4200,"41 S. Pitt St. Manheim, PA 17545",Scott Hunt,,,,40.1612583,-76.3963921,TRUE
+USA,PA,Masontown,VFW Post #4584,724-880-5238 Albert,"115 River Ave. Masontown, PA 15461",Floyd Gladman,,,,39.8468708,-79.9099561,TRUE
+USA,PA,Monaca,Whiskey Rhythm,724-495-0934,"1198 Pennsylvania Ave. Monaca, PA 15061",,,,,40.6899256,-80.2771616,TRUE
+USA,PA,Mount Pleasant,Slovak Citizens Club,412-965-3867 Work Cell,"807 W. Smithfield St. Mount Pleasant, PA 15666",Randy Rice,,,,40.1522696,-79.5475676,TRUE
+USA,PA,New Brighton,United Croation Club,724-843-2101,"820 3rd Avenue New Brighton, PA 15066",Dave Felo & Stephen Zapsic,,,,40.7344594,-80.3140641,TRUE
+USA,PA,New Holland,New Holland Home Assoc.,717-354-8523,"35 South Hoover Ave. New Holland, PA 17557",Karen Bowers,,,,40.0973731,-76.0994212,TRUE
+USA,PA,Norristown,Markley Billiards,610-278-1595,"1713 Markley St. Norristown, PA 19401",,,,,40.1325618,-75.3352182,TRUE
+USA,PA,Pennsburg,Pizza Como & PC Pub,215-679-4900,"468 Pottstown Ave. Pennsburg, PA 18073",Alfredo Liquoro,,,,40.3928354,-75.4998716,TRUE
+USA,PA,Philadelphia,Ball Busters Billiards,215-313-6411,"3265 South 61st Street Philly, PA 19153",Tyrone Ford,,,,39.919567,-75.20688,TRUE
+USA,PA,Philadelphia,Good Time Tavern,215-668-2880 Cell,"2501 East York St. Philadelphia, PA 19125",Michael Weinberger,,,,39.9772766,-75.1235995,TRUE
+USA,PA,Philadelphia,Jimmy's Pub,215-922-1863,"8018 Castor Avenue Philadelphia, PA 19152",Dennis Elmer,,,,40.0624949,-75.0558948,TRUE
+USA,PA,Philadelphia,Morrell Tavern,215-632-6870,"3800 Morrell Avenue Philadelphia, PA 19114",Susan Berardi,,,,40.0647206,-74.9872566,TRUE
+USA,PA,Philadelphia,Philadelphia University,215-951-2540,"Henry Ave. Philadelphia, PA 19144",,,,,40.0199413,-75.1918365,TRUE
+USA,PA,Phoenixville,Valley Forge Volunteer Fire Co.,610-202-5682,"630 Valley Park Rd. Phoenixville, PA 19481",,,,,40.100065,-75.474571,TRUE
+USA,PA,Phoenixville,VFW,610-933-9974 (VFW),"200 Star Street Phoenixville, PA 19460",,,,,40.1306544,-75.5116103,TRUE
+USA,PA,Pine Grove,North End Fire Company,570-624-8706,"118 North Tulpehocken Street Pine Grove, PA 17963",,,,,40.55736,-76.3922599,TRUE
+USA,PA,Pine Grove,Pine Grove Fish and Game,570-345-3905,"7 Geary Wolfe Road Pine Grove, PA 17963",,,,,40.539291,-76.388756,TRUE
+USA,PA,Pittsburgh,Squirrel Hill Sports Bar,412-422-1001,"5832 Forward Ave. Pittsburgh, PA 15217",,6,,,40.4294184,-79.9224528,TRUE
+USA,PA,Pittsburgh,Breakers,412-531-2250,"1413 Potomac Ave. Pittsburgh, PA 15216",,,,,40.3953403,-80.0347609,TRUE
+USA,PA,Portage,Olde Keg Lounge,814-937-1586 (Cell),"623 Main Street Portage, PA 15946",,,,,40.38686,-78.6726045,TRUE
+USA,PA,Prospect Park,Marty Magee's,610-583-9880,"1110 Lincoln Avenue Prospect Park, PA 19076",,,,,39.8875518,-75.3101278,TRUE
+USA,PA,Prospect Park,Pub On The Pike,610-583-7070 - Location,"910 Chester Pike Prospect Park, PA 19076",,,,,39.8809151,-75.30867,TRUE
+USA,PA,Ridgway,Young's Family Billiards,814-335-0145 (Cell),"Young's253 East Main Street Ridgway, PA 15853",,5,,1,41.4218482,-78.7234664,TRUE
+USA,PA,Ridley Park,Burgundy Lounge,610-636-4158,"25 East Hinckley Ave. Ridley Park, PA 19078",,,,,39.8795684,-75.322929,TRUE
+USA,PA,Rochester,Uncl'Chuck's,724-775-0210,"149 Brighton Ave. Rochester, PA 15074",,,,,40.7007798,-80.2819358,TRUE
+USA,PA,Rochester,Rochester Hotel,412-400-6556,"218 West Washington Rochester, PA 15074",,,,,40.7011656,-80.2839833,TRUE
+USA,PA,Roslyn,VFW Roslyn,215-576-9349,"1140 Easton Road Roslyn, PA 19001",,,,,40.1227299,-75.1329742,TRUE
+USA,PA,Schuylkill Haven,North Ward Social Club,570-385-1368,"521 Dock Street Schuylkill Haven, PA 17972",,,,,40.6371074,-76.1760644,TRUE
+USA,PA,Scranton,Clarkys Billiards,570-650-2564,"850 Providence Rd Scranton, PA 18508",,,,,41.4202754,-75.6649472,TRUE
+USA,PA,Sharon,Blackies Billiards,724-346-3101,"118 Vine Ave. Sharon, PA 16146",,,,,41.2348437,-80.5072692,TRUE
+USA,PA,Sharon,The Rec Room,,"376 Fisher Hill St. Sharon, PA 16146",,5,,,41.245581,-80.50252,TRUE
+USA,PA,Shillington,Ron's Pool Tables,610-775-0118,"1500 Ridge Avenue Shillington, PA 19607",,,,,40.3163453,-75.9568245,TRUE
+USA,PA,Slickville,American Legion #18,(724) 468-9974,"2958 Route 819 Slickville, PA 15684",,,,,40.454818,-79.518766,TRUE
+USA,PA,Tiwn Rocks,Malcotti's Tavern,814-248-0597,"1069 Station Road Twinrocks, PA 15960",,,,,40.5012426,-78.8647312,TRUE
+USA,PA,Trumbauersville,Trumbauersville Better Social Club,215-896-8800,"2000 Oak Drive Trumbauersville, PA 18970",,,,,40.4118432,-75.384073,TRUE
+USA,PA,Tunkhannock,The Blogg Pub and Grill,570-836-7000,"32 East Tioga Street Tunkhannock, PA 18657",,,,,41.5383562,-75.9471632,TRUE
+USA,PA,Turtle Creek,Pinky's Billiard Parlor,412-823-9670,"953 Airbrake Ave. Turtle Creek, PA 15145",,,,,40.4039627,-79.8239704,TRUE
+USA,PA,Twin Rocks,The Break Room Bar And Grill,412-559-7310 Cell,"966 Station Rd. Twin Rocks, PA 15960",,,,,40.4979316,-78.8662416,TRUE
+USA,PA,Uniontown,Anytime Billiards,(724) 323-3132,"225 Pittsburgh St. Uniontown, PA 15401",,,,,39.9090362,-79.7278501,TRUE
+USA,PA,Wampum,Polish White Eagles,724-535-4322,"438 Oswald Street Wampum, PA 16157",,,,,40.8901225,-80.3254451,TRUE
+USA,PA,Wayneburg,Rohanna's Golf Course,724-998-1137 (Adam),"1005 Rolling Meadows Waynesburg, PA 15370",,,,,39.8890938,-80.1153341,TRUE
+USA,PA,Waynesboro,Break Away Sports Lounge,717-762-6465,"810 S Potomac St. Waynesboro, PA 17268",,6,,,39.7456826,-77.590194,TRUE
+USA,PA,Waynesboro,Adolini's Family Billiards,717-655-2278,"800 S. Potomac St. Waynesboro, PA 17268",,14,,2,39.7459108,-77.5901045,TRUE
+USA,PA,Waynesboro,The Park Tavern,717-762-2981 (Lisa),"132 East 5th Street Waynesboro, PA 17268",,,,,39.7473615,-77.5807924,TRUE
+USA,PA,West Chester,The Billiard Club,610-692-5893,"539 East Gay Street West Chester, PA 19380",,,,,39.964828,-75.5978706,TRUE
+USA,RI,Cranston,LA Bailey's,401-489-0421,"1458 Park Ave. Cranston, RI 02920",,,,,41.7826504,-71.4634671,TRUE
+USA,RI,East Providence,The Huddle Bar and Grille,401-383-1443 (location),"478 Waterman Ave. East Providence, RI 02914",,,,,41.8176275,-71.3601005,TRUE
+USA,RI,Johnston,Rum'Em Racks Billiards,401-537-7941,"928 Plainfield St. Johnston, RI 02919",,11,,,41.8053892,-71.4651391,TRUE
+USA,SC,Aiken,Rack & Grill III,803-226-0256,"522 York St. NE Aiken, SC 29801",Michael Newsome,12,,12,33.5680912,-81.7126246,TRUE
+USA,SC,Bluffton,Tavern 46,843-815-2327,"16 Kitties Landing Road Bluffton, SC 29910",Wesley Thompson,,,,32.2531619,-80.8542983,TRUE
+USA,SC,Charleston,Player's Place Billiards,843-556-4991,"1934 Ashley River Rd. Charleston, SC 29407",,,,,32.8074975,-80.0227726,TRUE
+USA,SC,Chesnee,Break and Run LLC,828-320-8745,"404 S. Alabama Ave Chesnee, SC 29323",,12,,2,35.144169,-81.8607683,TRUE
+USA,SC,Columbia,Fast Freddies,803.794.4518,"275 Meeting St. W. Columbia, SC 29169",,,,,33.994191,-81.05498,TRUE
+USA,SC,Columbia,Overtime Bar & Grill,803-728-0555,"1840 Bluff Road Columbia, SC",,7,,2,33.9639421,-80.9989684,TRUE
+USA,SC,Duncan,Players Amusements LLC,912-690-2520,"259 Silver Hawk Dr. Duncan, SC 29334",,,,,34.8932176,-82.1114906,TRUE
+USA,SC,Easley,On The Rail Billiards,864-671-6062,"465 East Main St. Easley, SC 29640",,4,,,34.8319822,-82.5954324,TRUE
+USA,SC,Easley,Rainbow Billiards,864-855-3714,"119 W. Main St. Easley, SC 29640",,,,,34.8297139,-82.6044002,TRUE
+USA,SC,Florence,Beyond Therapy,843-992-7355,"2209 Second Loop Florence, SC 29501",,6,,1,34.1743433,-79.8057506,TRUE
+USA,SC,Greenville,Coliseum on Haywood,864-689-2267,"528 Haywood Rd. Greenville, SC 29607",,7,,2,34.8457426,-82.3401591,TRUE
+USA,SC,Greenville,Just One More,864-292-1502,"2714 Wade Hampton Boulevard Greenville, SC 29615",,,,,34.8988614,-82.3378398,TRUE
+USA,SC,Greenville,World Cup Billiards,864-884-7900,"6119 Whitehorse Road #4 Greenville, SC 29611",,,,,34.8516029,-82.4553395,TRUE
+USA,SC,Greenwood,Sports Break,864-993-0991 (Cell),"114 Cross Creek Connector Greenwood, SC 29649",,,,,34.2079152,-82.177609,TRUE
+USA,SC,Greer,Sunrise Saloon & Grill,864-641-5384,"135 Turner Hill Road Greer, SC 29651",,,,,34.9406283,-82.1807474,TRUE
+USA,SC,Hartsville,Pool Time,843-621-3466,"118 East Carolina Avenue Hartsville, SC 29550",Carlos,7,,2,34.3747741,-80.0725563,TRUE
+USA,SC,Hilton Head Island,Cheap Seats Tavern,843-689-2202,"55 Mathews Drive Unit 130 Hilton Head Island, SC 29926",,4,,,32.2123432,-80.7027459,TRUE
+USA,SC,Inman,Legend's Billiards,864-708-3535,"10451 Asheville Hwy. Inman, SC 29349",,,,,35.0332018,-82.0596438,TRUE
+USA,SC,Ladson,Charleston Billiards,843-553-9595,"113 College Park Rd. Suite J Ladson, SC 29456",,,,,32.9916643,-80.1012608,TRUE
+USA,SC,Ladson,Two Keys Tavern,843-797-7884,"650 College Park Road Unit B Ladson, SC 29456",,,,,33.0146395,-80.0882265,TRUE
+USA,SC,Lexington,Grady's Place,803-957-7665,"850C S Lake Drive Lexington, SC 29072",,,,,33.9639346,-81.2334422,TRUE
+USA,SC,Myrtle Beach,Ron Jon's Burgers,843-236-2225,"3218 Waccamaw Blvd. Myrtle Beach, SC 29579",,7,,,33.7191736,-78.9269679,TRUE
+USA,SC,Myrtle Beach,Dave And Busters,843-457-3902 - Preston,"1322 Celebrity Cir. Myrtle Beach, SC 29577",,,,,33.7183104,-78.880769,TRUE
+USA,SC,Myrtle Beach,Longbeard's Bar & Grill,843-903-2905,"5040 Carolina Forest Boulevard Myrtle Beach, SC 29579",,,,,33.7531574,-78.8619295,TRUE
+USA,SC,Myrtle Beach,Shore Thing Billiards,843-267-8868,"942 Lake Arrowhead Road Myrtle Beach, SC 29572",,10,,1,33.7776412,-78.7909392,TRUE
+USA,SC,Orangeburg,Ace's Corner Pocket,(803) 682-2062,"3897 North Rd. Orangeburg, SC 29118",,,,,33.5417227,-80.9103825,TRUE
+USA,SC,Ridgeland,Tailgators Bar and Grille,678-221-6981,"1108C Argent Blvd. Ridgeland, SC 29936",,,,,32.3134945,-80.9628001,TRUE
+USA,SC,Rockhill,Breakers Sports Bar,704-421-2048,"120 N. Anderson Rd. Rockhill, SC 29730",,,,,34.9412103,-80.9974325,TRUE
+USA,SC,Seneca,The Beer Station,864-444-8393 (Cell),"115 Bountyland Road Suite D Seneca, SC 29672",,,,,34.7066341,-82.9911034,TRUE
+USA,SC,Spartanburg,Cue Time Sports Bar,864-621-3335 (Cell),"8607 Fairforest Road Spartanburg, SC 29303",,,,,34.9803426,-81.9988928,TRUE
+USA,SC,Spartanburg,Steakhorse Restaurant & Billiards,864-586-1527,"2600 E Main St. Suites A & B Spartanburg, SC 29307",,12,,4,34.9795304,-81.8719898,TRUE
+USA,SC,Spartenburg,Red's Grill,864-909-0372,"2245 Haynes St. Spartenburg, SC 29301",,,,,34.9553725,-82.0039681,TRUE
+USA,SC,Summerville,"57 Limited, LLC",(843) 225-3584,"205 Grandview Drive Summerville, SC 29483",,,,,33.0269514,-80.1632233,TRUE
+USA,SC,Summerville,Two Keys Public House,843-797-7884,"205-G Grandview Drive Summerville, SC 29483",,,,,33.0269482,-80.1633248,TRUE
+USA,SC,Sumter,Ravens Nest,803-565-5239,"885 Ravenwood Dr. Sumter, SC 29154",,,,,33.8963159,-80.4401816,TRUE
+USA,SC,Sumter,Strokers Billiards,803-464-1758 (Cell),"1084 Broad Street Sumter, SC 29150",,,,,33.9503906,-80.3770434,TRUE
+USA,SD,Rapid City,Breakroom Billiards,605-484-6300,"3520 Powderhorn Circle Rapid City, SD 57702",Dave Jones,,,,44.051212,-103.298216,TRUE
+USA,TN,Clarksville,Hoo-Ligans Sports Bar,931-645-2364,"915 Providence Clarksville, TN 37042",,,,,36.5516318,-87.3905693,TRUE
+USA,TN,Andersonville,The Speakeasy Lounge,865-705-2322,"111 East Lane Andersonville, TN 37705",Devin Hays,,,,36.1892272,-84.0867017,TRUE
+USA,TN,Ardmore,Valley Tavern,931-427-9913,"24230 Pleasant Hill Road Ardmore, TN 38449",,4,,,35.0091013,-86.885633,TRUE
+USA,TN,Chattanooga,Rob's Restaurant & Lounge,423-875-6164,"5308 Dayton Blvd. Chattanooga, TN 37415",,3,,,35.1470592,-85.2732779,TRUE
+USA,TN,Chattanooga,Chattanooga Billiard Club,423.499.3883,"110 Jordon Drive Chattanooga, TN 37421",,,,,35.0469529,-85.1629053,TRUE
+USA,TN,Chattanooga,Hair of the Dog Pub,423-265-4615,"334 Market St. Chattanooga, TN 37402",,1,,,35.0525124,-85.3093265,TRUE
+USA,TN,Chattanooga,The Honest Pint,423-468-4192,"35 Patten Pkwy. Chattanooga, TN 37402",,,,,35.0461194,-85.3066324,TRUE
+USA,TN,Chattanooga,Diamond Billiard Club,423-432-6582,"3600 Hixson Pike Suite 118 Chattanooga, TN 37415",,,,,35.1067977,-85.2711394,TRUE
+USA,TN,Chattanooga,Rob's Restaurant & Lounge,423-875-6164,"5308 Dayton Blvd. Chattanooga, TN 37415",,,,,35.1470592,-85.2732779,TRUE
+USA,TN,Clarksville,Classic Cue & Billards,931-552-1353,"647 N Riverside Dr. Clarksville, TN 37040",,,,,36.5365269,-87.3672363,TRUE
+USA,TN,Cleveland,CBC - Cleveland Legacy Billiards Players Sports Bar,423-499-3883,"110 Jordan Dr. Chattanooga, TN 37421",,,,,35.0469529,-85.1629053,TRUE
+USA,TN,Collierville,Legacy Billiards,901-854-1502,"851 Progress Road Collierville, TN 38017",,,,,35.021707,-89.650017,TRUE
+USA,TN,Cookeville,Players Sports Bar,931-854-1121,"115 North Cedar Avenue Cookeville, TN 38501",,,,,36.1659307,-85.5073683,TRUE
+USA,TN,Crossville,Crossville Family Billiards,931-484-4494,"166 Lantana Rd. Crosssville, TN 38555",,,,,35.9442794,-85.027069,TRUE
+USA,TN,Goodlettsville,Jones Pool Tables,615-260-5717,"1010 Creekside Drive Goodlettsville, TN 37072",,,,,36.356746,-86.711148,TRUE
+USA,TN,Hixson,Sweet Melissa's Billiards,423-779-8411 Doug,"1966 Northpoint Blvd. #126 Hixson, TN 37343",,16,,2,35.1364,-85.2420296,TRUE
+USA,TN,Jamestown,Jamestown Family Billiards,931-287-8960,"210 S. Main Street Jamestown, TN 38556",,,,,36.4263508,-84.9318761,TRUE
+USA,TN,Kingsport,Breaking Tradition Billiards,904-710-6305,"235 East Market Street Kingsport, TN 37660",,,,,36.5452383,-82.5593007,TRUE
+USA,TN,Knoxville,Billiards and Brews,865-621-3727,"8705 Unicorn Dr. Suite #110 Knoxville, TN 37923",,,,,35.9204334,-84.0754813,TRUE
+USA,TN,Knoxville,Alibaba's,(865) 323-6768,"8111 Gleason Knoxville, TN 37919",,,,,35.9188668,-84.0493711,TRUE
+USA,TN,Knoxville,Billiards & Brews,865-357-1356,"8705 Unicorn Dr. Ste. 110 Knoxville, TN 37923",,10,,4,35.9204334,-84.0754813,TRUE
+USA,TN,Knoxville,Knoxville Billiard Poolhall,865-579-9142,"3920 Chapman Hwy. Knoxville, TN 37920",,,,,35.9390302,-83.9077991,TRUE
+USA,TN,Knoxville,Peyton's Place,865-299-5424,"5210 Schubert Rd. Suite C NW Knoxville, TN 37912",,12,,2,36.0072677,-83.9753982,TRUE
+USA,TN,Knoxville,Knoxville Billiards,865-579-9142,"3920 Chapman Hwy Knoxville, TN 37920",,,,,35.9390302,-83.9077991,TRUE
+USA,TN,Knoxville,Roosters,865-300-9738,"7585 North Shore Dr. Knoxville, TN 37919",,,,,35.9044214,-84.0201503,TRUE
+USA,TN,Lebanon,Jimmy's Bar and Grill,615-547-9724,"1310 Sparta Pike Lebanon, TN 37090",,,,,36.1816235,-86.2644472,TRUE
+USA,TN,Lebanon,Lebanon Senior Citizens Center,615-449-4600,"670 Coles Ferry Pike Lebanon, TN 37087",,,,,36.2182653,-86.2979189,TRUE
+USA,TN,Madison,JOB Billiards,615-868-4270,"900 Gallatin Pike South Madison, TN 37115",,27,,3,36.2533688,-86.7175083,TRUE
+USA,TN,Maryville,Brackins Blues Club,865-566-3386,"112 E. Broadway Ave Maryville, TN 37804",,,,,35.7561735,-83.9707263,TRUE
+USA,TN,Maryville,Maryville Billiards,865-984-0083,"2022 W Broadway Ave. Maryville, TN 37801",,,,,35.7256086,-83.999493,TRUE
+USA,TN,Memphis,High Pockets,901-761-1583,"5099 Old Summer Road Memphis, TN 38122",,4,1,1,35.1495895,-89.8907854,TRUE
+USA,TN,Memphis,The Rack,901-647-2472,"3622 Lamar Avenue Memphis, TN 38118",,,,,35.0662105,-89.9418773,TRUE
+USA,TN,Morristown,Ledford's Barber Shop & Billiards,423-307-8327,"408 North Liberty Hill Road Morristown, TN 37814",,,,,36.2236585,-83.2766732,TRUE
+USA,TN,Mountain City,Corner Pocket,423-727-9791,"137 Pedro Shoun Ln. Mountain City, TN 37683",,,,,36.452422,-81.880154,TRUE
+USA,TN,Murfreesboro,MJ's Pool Hall,615-546-5117,"1253 NW broad St. Murfreesboro, TN 37129",,,,,35.86245,-86.4089621,TRUE
+USA,TN,Sevierville,TN Billiards,865-332-6425,"2002 Winfield Dunn Pkwy. Sevierville, TN 37876",,,,,35.924915,-83.5829047,TRUE
+USA,TN,Trenton,City Limits Bar & Grill,731-414-3329,"10 Milan Hwy. Trenton, TN 38382",,,,,35.9799496,-88.9253528,TRUE
+USA,TN,Westmoreland,Sugar Grove Tavern,615-644-7847,"2239 Fairfield Road Westmoreland, TN 37186",,,,,36.6311592,-86.2663769,TRUE
+USA,TN,Soddy-Daisy,Charlie's Restaurant and Lounge East,"423-718-0257
+","8504 Dayton Pike Soddy-Daisy, TN 37379",,,,,35.2196214,-85.223924,TRUE
+USA,TX,Alvin,CK's Deep Pockets,713-854-1452,"1204 FM 1462 Road Alvin, TX 77511",,,,,29.4023662,-95.248123,TRUE
+USA,TX,Amarillo,Rounders Club,806-352-3317,"2801 Virginia Circle Amarillo, TX 79109",,,,,35.1870584,-101.8680922,TRUE
+USA,TX,Amarillo,Throwbacks Sports Bar,806-418-4482,"7150 Bell St. Amarillo, TX 79109",,,,,35.1322348,-101.9024984,TRUE
+USA,TX,Amarillo,Slim's Pool Palace,806-352-6257,"2514 S Georgia St. Amarillo, TX 79109",,10,,1,35.1869346,-101.867066,TRUE
+USA,TX,Angleton,Damifino's,979-308-4223,"116 E Mulberry Angleton, TX 77515",,8,,2,29.1642412,-95.4310643,TRUE
+USA,TX,Arlington,Rusty's,817-468-9191,"3151 S Cooper St. Arlington, TX 76015",,16,,5,32.6932443,-97.1264737,TRUE
+USA,TX,Austin,Click's - South Austin,512-448-4945,"2121 E Oltorf St. #14 Austin, TX 78741",,,9,,30.23,-97.7327778,TRUE
+USA,TX,Austin,Austin Billiards,(512) 454-2146,"13945 Hwy 183 N Suite C-84 Austin, TX 78717",,,,,30.4710081,-97.7943555,TRUE
+USA,TX,Austin,Betsy's Billiards,512-773-7499,"1901 West William Cannon Suite 147 Austin, TX 78745",,,26,,30.2015311,-97.8066635,TRUE
+USA,TX,Azle,Opentable Sports Grill,817-897-3139,"112 South East Parkway Azle, TX 76020",,8,,,32.8909644,-97.5411834,TRUE
+USA,TX,Baytown,River Queen Saloon,281-420-1830,"4712 1/2 N Highway 146 Baytown, TX 77520",,,,,29.7673658,-94.9181983,TRUE
+USA,TX,Baytown,Tiki Hutt Bar and Grill,281-420-6999,"1307 South Hwy 146 Baytown, TX 77520",,,,,29.6487182,-95.0304473,TRUE
+USA,TX,Big Spring,Pick Pocket Billiards Inc.,432-557-8099 John,"102 East 3rd. Big Spring, TX 79720",,,,,32.2523005,-101.4763988,TRUE
+USA,TX,Brenham,Smitty's Billiards Bar & Grill,979-251-7665,"100 W Main St. Brenham, TX 77833",,,,,30.1674982,-96.3983707,TRUE
+USA,TX,Canton,Jeffro's,903-502-5250,"29616 Hwy. 64 Canton, TX 75103",,10,,,31.9685988,-99.9018131,TRUE
+USA,TX,Cedar Park,Topspin,(512)-694-5826 (Cell),"1851 S. Lakeline Blvd. #106 Cedar Park, TX 78613",,,,,30.4805134,-97.829699,TRUE
+USA,TX,Corpus Christi,Paradise Billiards LLC,361-774-7401,"8210 Seashore Dr. Corpus Christi, TX 78412",,,,,27.6906355,-97.3172085,TRUE
+USA,TX,Crosby,Outlaw Ray's,346-321-8251,"14039 FM 2100 Suite C Crosby, TX 77532",,,,,29.892183,-95.0648132,TRUE
+USA,TX,Dallas,The Hideaway,972-661-5221,"14902 Preston Road Suite 924 Dallas, TX 75254",,,8,,32.9519685,-96.8023315,TRUE
+USA,TX,Dallas,Click's Billiards Corporate,214-521-7001,"3100 Monticello Suite 350 Dallas, TX 75205",,,,,32.8274407,-96.785905,TRUE
+USA,TX,Dayton,Rooster's Bar,832-656-5850,"8040 Highway 321 Dayton, TX 77535",,5,,,30.1140813,-94.9244438,TRUE
+USA,TX,El Paso,Pizxa Zone,915-303-8666,"12311 Montana Ave El Paso, TX",,8,,2,31.8094799,-106.2575352,TRUE
+USA,TX,Farmer's Branch,Universal Billiards,972-247-3001,"13450 Stemmons Freeway Suite #400 Farmers Branch, TX 75234",,,,,32.9276847,-96.9001846,TRUE
+USA,TX,Fort Worth,Fox & Hound English Pub & Grill,817-423-3600,"6051 SW Loop 820 Ste. 322 Fort Worth, TX 76132",,,,9,32.6814697,-97.4157872,TRUE
+USA,TX,Fort Worth,Flips Patio Grill,817-847-4424,"6613 Fossil Bluff Fort Worth, TX 76137",,6,,,32.8617883,-97.3114736,TRUE
+USA,TX,Fort Worth,Rusty's,817-244-3294,"7703 Camp Bowie West Blvd. Fort Worth, TX 76116",,,,,32.7214905,-97.4482347,TRUE
+USA,TX,Fort Worth,Dino's Live,817-222-2608,"2707 Race Street Fort Worth, TX 76111",,,,,32.7733931,-97.3072341,TRUE
+USA,TX,Fort Worth,Fort Worth Billiards,817-377-1004,"3970 W Vickery Blvd Fort Worth, TX 76107",,,,,32.728616,-97.3752495,TRUE
+USA,TX,Frisco,Snookered,954-632-3611,"9550 Dallas Parkway Frisco, TX 75034",,12,,2,33.1572717,-96.8392455,TRUE
+USA,TX,Harker Heights,Jackpot Saloon,254-953-7412,"704 Edwards Dr. Harker Heights, TX 76548",,3,,,31.0831498,-97.6485382,TRUE
+USA,TX,Harker Heights,Shadow Lounge,254-913-0777,"601 East Veterans Memorial Blvd Harker Heights, TX 76548",,,,,31.0870489,-97.6535157,TRUE
+USA,TX,Harker Heights,Stix II,254-699-8280,"560 E Veterans Memorial Blvd. Harker Heights, TX 76548",,4,,,31.0863258,-97.65426,TRUE
+USA,TX,Harlingen,The Rockin Cue,(956) 669-0808,"2020 S. Expressesy 83 Harlingen, TX",,20,,1,26.1846342,-97.7189272,TRUE
+USA,TX,Houston,Bar Sports,832-968-4467,"14440 Hempstead Rd. Houston, TX 77040",,,,,29.858953,-95.5388437,TRUE
+USA,TX,Houston,Bogie's East,281-869-4290,"3040 Farm to Market 1960 Rd E #101 Houston, TX 77073",,,,,30.0191025,-95.3801646,TRUE
+USA,TX,Houston,Bogie's West,832-912-4432,"9638 Jones Rd. Houston, TX 77065",,,,,29.9137552,-95.5840251,TRUE
+USA,TX,Houston,Coaches Sports Bar & Grill,713-466-7773,"17460 NW Fwy. Houston, TX 77040",,,,,29.8915044,-95.5833079,TRUE
+USA,TX,Houston,Fast Eddie's,713-614-0099,"3711 Briar Park Suite #300 Houston, TX 77042",,,,,29.72387,-95.5478651,TRUE
+USA,TX,Houston,Billy Ray's,281-457-6713,"16402 Wallisville Road Houston, TX 77049",,,,,29.8167408,-95.1403971,TRUE
+USA,TX,Houston,Q Ball Snooker Pool Hookah Bar,713-498-8813,"6921 S. Texas 6 Houston, TX 77083",,,,,29.7019605,-95.6421599,TRUE
+USA,TX,Houston,R House,(832) 206-9033,"12637 Fm 529 Road, Houston, TX 77041",,17,,3,29.8790487,-95.6008732,TRUE
+USA,TX,Houston,Craft Republic 65036,281-589-2122,"11470 Westheimer Rd. Houston, TX 77077",,,,,29.737168,-95.5792046,TRUE
+USA,TX,Houston,Rice University,713-870-0927,"PO Box 1892 Houston, TX 77251-1892",,,,,29.7,-95.54,TRUE
+USA,TX,Huffman,Tin Cup Sports Bar,832-572-1923,"24501 FM 2100 Road Suite A Huffman, TX 77336",,,,,30.0285765,-95.0887533,TRUE
+USA,TX,Humble,Coaches Sports Bar & Grill,281-852-6996,"5304 FM 1960 Rd. E Humble, TX 77346",,2,,,29.9987095,-95.1961963,TRUE
+USA,TX,Hurst,Wounded Duck,817-952-3322,"750 E Pipeline Rd. Hurst, TX 76053",,6,,,32.8228482,-97.1576449,TRUE
+USA,TX,Hutto,On the Ball Billiards,512-657-5919 (Cell),"105 Tradesmen Drive Suite C Hutto, TX 78634",,,,,30.5384257,-97.5864353,TRUE
+USA,TX,Keller,Legends Sports Bar,817-879-7444,"5970 Park Vista Cir. #100 Keller, TX 76244",,,,,32.9096384,-97.2571701,TRUE
+USA,TX,Kilgore,The Broken Stool Corner Pocket,903-986-3838,"1011 Kilgore Plz. Kilgore, TX 75662",,,,,32.3905686,-94.8689601,TRUE
+USA,TX,Killeen,Corner Pocket Billiards,(254)833-5233,"202 East Veteran's Memorial Blvd Suite A Killeen, TX 76541",,,,,31.1171194,-97.7277959,TRUE
+USA,TX,Laredo,Legends Billiards,903-985-8499,"3420 Springfield Ave. Laredo, TX 78040",,,,,27.5276087,-99.492916,TRUE
+USA,TX,League City,Corner Pocket,254-338-8468,"201 South Gulf Freeway League City, TX 77573",,,,,29.5017976,-95.1142917,TRUE
+USA,TX,Lewisville,Stixx and Stones Billiards,(469)702-2208,"2302 TX-121 Suite 160, Lewisville, TX 75067",,,,,33.0134667,-96.9925148,TRUE
+USA,TX,Lindale,C & C Breakroom,903-570-0156,"21080 Interstate 20 W Lindale, TX 75771",,,,,32.4843994,-95.5216883,TRUE
+USA,TX,Little Elm,Draft House Bar & Grill,972-987-4737,"2700 E Eldorado Pkwy. Ste. 250 Little Elm, TX 75068",,,,4,33.1758354,-96.8886364,TRUE
+USA,TX,Longview,Herb & Dee's Break Room,903-230-0830,"1408 W Marshall Ave. Longview, TX 75604",,,,,32.5036499,-94.7695226,TRUE
+USA,TX,Longview,The Lodge Sports Bar and Grill,903-746-7319,"501 North Spur 63 Suite A1 Longview, TX 75601",,,,,32.5058912,-94.749867,TRUE
+USA,TX,Lubbock,King Louie's Sports Lounge,806-535-6110,"7604 Milwaukee Ave. Lubbock, TX 79424",,14,,,33.5254633,-101.9580775,TRUE
+USA,TX,Lufkin,Aces Full,(936) 707-5530,"4003 South Medford Drive Suite 200 Lufkin, Tx 75901",,,,,31.3129302,-94.7172481,TRUE
+USA,TX,Mabank,Lakeside Cafe,972-670-8440 (Cell),"623 South Gun Barrel Lane Suite A Mabank, TX 75156",,,,,32.3175675,-96.1126539,TRUE
+USA,TX,Malakoff,Ghost Billiards,903-275-6302,"P.O. Box 101 Malakoff, TX 75148",,,,,32.1695965,-96.0124678,TRUE
+USA,TX,Manor,Ramos Restaurant,512-644-2116,"116 West Parsons Street Manor, TX 78653",,,,,30.3409154,-97.5584581,TRUE
+USA,TX,Midlothian,Oasis Bar & Grill,972-900-0600 (cell),"4720 Ruby Avenue Midlothian, TX 76065",,3,,,32.5338472,-96.9776674,TRUE
+USA,TX,Mineral Wells,Richard's Place,940-452-3989,"1916 SE 15th Ave. Mineral Wells, TX 76067",,,,,32.7941797,-98.0994073,TRUE
+USA,TX,Mineral Wells,Mickey's Pub,940-859-1862,"2201 E Hubbard St Mineral Wells, TX 76067",,,,,32.8094936,-98.0955262,TRUE
+USA,TX,Nacogdoches,The Vapor Shop,936-215-9825,"1017 E Main St. Nacogdoches, TX 75961",,,,,31.6005821,-94.6461677,TRUE
+USA,TX,New Braunfels,Bob's Billiards,210-323-6854,"118 Trade Center Dr. New Braunfels, TX 78130",,,,,29.6883494,-98.1091323,TRUE
+USA,TX,Odessa,Tres Amigos Cantina,806-662-4507 Cell,"518 South Grant Avenue Odessa, TX 79761",,,,,31.8406363,-102.364398,TRUE
+USA,TX,Odessa,The Golden Cue,806-662-4507 Cell,"1400 North Grant Avenue Odessa, TX 79761",,,,,31.8567507,-102.3752232,TRUE
+USA,TX,Odessa,Playmakers Sports Bar,432-307-2198,"2318 Andrews Hwy Odessa, TX 79761",,,,,31.8660942,-102.3794217,TRUE
+USA,TX,Orange,Brick And Barley,409-781-0236,"2614 Lutcher Dr. Orange, TX 77632",,,,,30.1225582,-93.7593013,TRUE
+USA,TX,Palacios,Omar's Bar & Grill,"806-662-4507 Cell
+
+
+361-920-8158","814 Henderson Palacios, TX 77465",,,,,28.7141619,-96.2214604,TRUE
+USA,TX,Pflugerville,Austins Park & Pizza,512-570-9600  Ext. 111,"16231 N IH 35 Pflugerville, TX 78660",,,,,30.4630543,-97.6662167,TRUE
+USA,TX,Pilot Point,Ballistick Billiards,469-369-7665,"100 S. Levy Street Pilot Point, TX 76258",,,,,33.3966103,-96.9497457,TRUE
+USA,TX,Port Arthur,Diamond Sports Bar,409-999-6006,"1250 FM 365 Port Arthur, TX 77640",,10,,,29.931964,-94.005926,TRUE
+USA,TX,Princeton,Pro Billiards Service,214-734-0183 (Cell),"3884 FM 3364 Princeton, TX 75407",,,,,33.1158441,-96.4848375,TRUE
+USA,TX,Richardson,The BIlliard Den,972-792-7665,"580 W Arapaho Rd. Ste. 136 Richardson, TX 75080",,,,,32.9639377,-96.7371058,TRUE
+USA,TX,Round Rock,Skinny Bob's Billiards,512-902-4279(Kim),"300 Hesters Crossing Road #A1 Round Rock, TX 78681",,,,,30.4879027,-97.6801887,TRUE
+USA,TX,San Angelo,Giz & Hum's Billiard and Brews,325-245-6738,"1425 W. Beauregard San Angelo, TX 76901",,9,,1,31.4553737,-100.4556756,TRUE
+USA,TX,San Antonio,Coach's Corner Bar,210-859-0738 cell,"2403 Vance Jackson San Antonio, TX 78213",,4,,,29.4950096,-98.5353256,TRUE
+USA,TX,San Antonio,Bananas's Billiards,210-313-7901,"2003 San Pedro Ave. San Antonio, TX 78212",,8,,2,29.4531204,-98.4998125,TRUE
+USA,TX,San Antonio,Lucky Monkey Sportsbar & Lounge,210-645-6655,"8122 Marbach Rd. Ste. 106 San Antonio, TX 78227",,,,,29.4172919,-98.6477265,TRUE
+USA,TX,San Antonio,Club Movida,210-823-9370,"306 East Mitchell San Antonio, TX 78210",,,,,29.391647,-98.4884053,TRUE
+USA,TX,San Antonio,Fat Racks Sports Bar & Billiards,210-616-2144,"11807 West Avenue San Antonio, TX 78216",,,7,,29.5494833,-98.5069191,TRUE
+USA,TX,San Antonio,The Brown Recluse,210-957-1061,"3333 West Avenue Suite #12 San Antonio, TX 78213",,,,,29.4923312,-98.5266672,TRUE
+USA,TX,San Antonio,The Hidden Treehouse,210-382-4642,"6215 Royal Ridge San Antonio, TX 78239",,,,,29.5351077,-98.3651326,TRUE
+USA,TX,Sherman,VFW Post 2772,903-893-5858,"1707 Baker Rd. Sherman, TX 75090",,8,,,33.6640876,-96.5926375,TRUE
+USA,TX,Spring,Big Tyme Billiards,281-288-0800,"100 Cypresswood Drive Suite G Spring, TX 77388",,25,,5,30.0540726,-95.4348297,TRUE
+USA,TX,Temple,Charlie's Cuez,254-770-3000,"2315 S. 57th St. Temple, TX 76504",,10,,2,31.082638,-97.380702,TRUE
+USA,TX,Temple,Future Cues,254-239-4500(Daniel),"102 South General Bruce Temple, TX 76504",,8,,2,31.101289,-97.3624176,TRUE
+USA,TX,Temple,The Green Door on 2nd Street,254-913-0777,"12 South 2nd Street Temple, TX 76501",,,,,31.0959426,-97.3406426,TRUE
+USA,TX,Tyler,The Brass Star,903-597-5777,"2616 W Northwest Loop 323 Tyler, TX 75702",,8,,,32.3807707,-95.3302707,TRUE
+USA,TX,Waco,Shooter's,254-717-7680,"528 North New Road Waco, TX 76710",,,,,31.5273726,-97.173428,TRUE
+USA,TX,Waxahachie,Side Pocket Billiards,972-937-1414,"301 N Elm St. Waxahachie, TX 75165",,4,,4,32.3885789,-96.848815,TRUE
+USA,TX,Whitehouse,Huff's Place,903-245-4571,"9985 FM 346 E Whitehouse, TX 75791",Glenn Huff,2,3,2,32.2246954,-95.2473004,TRUE
+USA,TX,Whitehouse,Huff's Place,903-245-4571,"9985 FM 346 E Whitehouse, TX 75791",,2,3,2,32.2246954,-95.2473004,TRUE
+USA,TX,Wichita Falls,Broad Street Billiards,940-781-8070,"1300 14th Street Wichita Falls, TX 76301",,,,,33.9029519,-98.4935506,TRUE
+USA,UT,George,Zero X Billiards,435-275-7709,"145 E 500 S Unit 8 St. George, UT 84770",,,,,37.0999059,-113.5804063,TRUE
+USA,UT,Layton,Stockmans Bar,801-540-1824,"80 North Main Street Layton, UT 84041",,,,,41.0614319,-111.966677,TRUE
+USA,UT,Murray,Fraternal Order of Eagles #1760,801-266-0896,"10 W 4th Ave. Murray, UT 84107",,,,,40.6653765,-111.8908274,TRUE
+USA,UT,Ogden,The Outlaw,801-334-9260,"1254 W 21ooth S Ogden, UT 84401",,6,,,41.2067909,-111.9796948,TRUE
+USA,UT,Salt Lake City,Big Willie's,801-463-4996,"1717 S Main St. Salt Lake City, UT 84115",,7,,1,40.7330815,-111.8907206,TRUE
+USA,UT,West Haven,The Outlaw Saloon,(801) 334-9260,"1254 W 2100 S St, West Haven, UT",,6,,,41.2297577,-112.0103432,TRUE
+USA,VA,Alexandria,Street Lights Billiards Acadamy,571-201-0311,"205 S Whiting St, Alexandria, VA 22304",,,,,38.8123552,-77.1376407,TRUE
+USA,VA,Ashburn,Bungalow Billiards,703-786-8664 cell,"44042 Pipeline Plaza Ashburn, VA 20147",,,,,39.0227972,-77.4777707,TRUE
+USA,VA,Blacksburg,Bull & Bones Brewhouse,540-953-2855,"1470 S. Main St. Suite 120 Blacksburg, VA 24060",,6,,1,37.2131294,-80.4020766,TRUE
+USA,VA,Blacksburg,PK's Bar & Grill,540-552-3278,"432 N Main St. Blacksburg, VA 24060",,4,,,37.2321612,-80.4161777,TRUE
+USA,VA,Chesapeake,Longshots Billiard and Darts,757-560-3739 (cell),"1125 S. Military Highway Chesapeake, VA 23320",,,,,36.8075989,-76.2219054,TRUE
+USA,VA,Fredricksburg,Hard Times Cafe,703-969-2688,"5099 Jefferson Davis Hwy Ste. D Fredericksburg, VA 22408",,,,,38.2549324,-77.5006266,TRUE
+USA,VA,Fredricksburg,Charlie G's,540-270-3250,"314 Jefferson Davis Hwy Fredericksburg, VA 22401",,,,,38.3168599,-77.4720346,TRUE
+USA,VA,Front Royal,On Cue Sports and Billiards,937-367-3110,"460 S. Commerce Ave Suite A Front Royal, VA 22630",,,,,38.9116902,-78.1840967,TRUE
+USA,VA,Heathsville,KC's Crabs & Cues,804-580-5965,"1058 Harmony Hills Circle Heathsville, VA 22473",,,,,37.8079603,-76.3500338,TRUE
+USA,VA,Lynchburg,The Clubhouse Bar and Billiards,434-851-4100,"21174 Timberlake Rd. Lynchburg, VA 24502",,8,,1,37.3322677,-79.2433969,TRUE
+USA,VA,Lynchburg,The Clubhouse Bar & Billiards,434-239-7665,"21174 Timberlake Rd. Lynchburg, VA 24502",,,,,37.3322677,-79.2433969,TRUE
+USA,VA,Lynchburg,Friendly Cue Billiards,434-239-8166,"20722 Timberlake Road Suite F-Timbrook Square Lynchburg, VA 24502",,,,,37.3379639,-79.2381425,TRUE
+USA,VA,Midlothian,Diamond Billiards,804-794-8787,"13184 Midlothian Turnpike Midlothian, VA 23113",,11,,5,37.5044217,-77.6434092,TRUE
+USA,VA,Newport News,Long's Billiard Supply,757-599-3661,"9906 Warwick Boulevard Newport News, VA 23601",,,,,37.0278126,-76.4559697,TRUE
+USA,VA,Newport News,Peninsula Billiards,757-450-3569,"10820 Warwick Blvd. Newport News, VA 23601",,,,,37.0404575,-76.4682833,TRUE
+USA,VA,Newport News,Pockets Billiards,757-591-2162,"10539 Jefferson Ave. Newport News, VA 23601",,,,,37.0481921,-76.4605803,TRUE
+USA,VA,Richmond,Fox and Hound,804-560-4600,"11581 Robious Road Richmond, VA 23235",,,,,37.5205478,-77.6103379,TRUE
+USA,VA,Roanoke,Wolf Den Billiards,540-537-0175,"4820 Hollins Rd. Roanoke, VA 24019",,,,,37.3225422,-79.9340519,TRUE
+USA,VA,Roanoke,Awful Arthur's Seafood Co.,(540) 334-2997,"108 Campbell Ave. Roanoke, VA 24011",,,,,37.2716109,-79.942754,TRUE
+USA,VA,Roanoke,Cast Plates and Pints,540-799-7200,"3555D Electric Road Roanoke, VA 24018",,,,,37.225483,-79.9980721,TRUE
+USA,VA,Rocky Mount,Guys and Dolls,540-815-3200 (Cell),"110 Oak Street Rocky Mount, VA 24151",,,,,36.9963563,-79.8947148,TRUE
+,VA,Salem,Awful Arthur's Seafood Co. 2,(540) 334-2997,"131 East Main Street Salem, VA 24153",,,,,37.2935686,-80.0559153,TRUE
+USA,VA,Sterling,First Break Cafe,703-987-9920,"46970 Community Plaza Suite 200 Sterling, VA 20164",,10,,"10
+9",39.014933,-77.3781098,TRUE
+USA,VA,Suffolk,Inland Reef Bar & Grill,757-471-9471,"1009 McArthur Dr. Suffolk, VA 23434",,,,,36.7412588,-76.5688938,TRUE
+USA,VA,Tazewell,Tazewell Moose Lodge,276-988-6667,"179 Hillsboro Dr. North Tazewell, VA 24630",,,,,37.1361303,-81.4928129,TRUE
+USA,VA,Virginia Beach,Ched's Bar & Grill,757-495-8311,"4676 Princess Anne Road Unit 390 Virginia Beach, VA 23462",,4,,,36.8124351,-76.1392729,TRUE
+USA,VA,Virginia Beach,Inland Reef,757-471-9471,"1949 Lynnhaven Pkwy. Ste. 1588 Virginia Beach, VA 23453",,,,,36.7958849,-76.1187392,TRUE
+USA,VA,Virginia Beach,Q-Master Billiards,(757) 499-8900,"5612 Princess Anne Rd. Ste. A, Virginia Beach, VA 23462",,,,,36.838888,-76.1797831,TRUE
+USA,VA,Winchester,Blue Fox Billiards Bar & Grill,540-665-2114,"1160 Millwood Pike Winchester, VA 22602",,,,14,39.1580748,-78.1493626,TRUE
+USA,VT,Bristol,American Legion #19,(802) 453-2951,"56 Airport Drive Bristol, VT 05443",,,,,44.1338889,-73.0898749,TRUE
+USA,VT,Burlington,Three Needs,802-318-0614,"185 Pearl Street Burlington, VT 05401",,,,,44.4802349,-73.2116824,TRUE
+USA,VT,Winooski,Monkey House,802-233-5928,"30 Main St. Winooski, VT 05404",,,,,44.4905215,-73.1867766,TRUE
+USA,WA,Auburn,15th Street Grill,(253) 737-4326,"Auburn 1525 A St NE, Auburn, WA 98002",,10,,4,47.3220495,-122.2294873,TRUE
+USA,WA,Auburn,Performance Grill DBA Good Monkey LLC,206-383-8177 (Cell),"1525 A Street Suite 110 Auburn, WA 98002",,,,,47.3220661,-122.2295129,TRUE
+USA,WA,Bellevue,On Da Hill Billiards,(425) 590-9545,"5625 119th Avenue SE Bellevue, WA 98006",,,,,47.5523316,-122.1799743,TRUE
+USA,WA,Cusick,Kalispel Casino,509-954-5915,"420 Qlispe River Rd. Cusick, WA 99119",,,,,48.3495219,-117.3030174,TRUE
+USA,WA,Everett,White Buffalo Saloon,425-348-5446,"5616 Evergreen Way. Everett, WA 98203",,,,,47.9467593,-122.2160319,TRUE
+USA,WA,Everett,Golden Fleece Billiards,(425) 374-3045,"2929 Colby Ave, Everett, WA 98201",,8,,4,47.9783164,-122.208212,TRUE
+USA,WA,Federal Way,Scoreboard Pub,253-261-7484 Cell,"1200 S. 324th St. Suite 1 Federal Way, WA 98003",,,,,47.3120367,-122.3175356,TRUE
+USA,WA,Fife,Scratch Pizza and Billiards,206-383-8177 Cell,"5129 Pacific Highway East. Fife, WA 98424",,,,,47.2434383,-122.3599686,TRUE
+USA,WA,Goldendale,Hotrods Bar & Grill,509-261-1873,"108 West Main Street Goldendale, WA 98620",,,,,45.8219743,-120.8232466,TRUE
+USA,WA,Kelso,Tim's Bar & Grill,360-636-2627,"213 Allen Street Kelso, WA 98626",,4,,,46.1449765,-122.9105152,TRUE
+USA,WA,Kennewick,Players Sports Bar & Grill,509-586-7187,"118 West Kennewick Avenue Kennewick, WA 99336",,10,,1,46.2089968,-119.1194463,TRUE
+USA,WA,Kent,Clubhouse Bar & Grill,206-383-8177 (Cell),"10432 Kent Kangley Rd. Kent, WA 98030",,10,,8,47.372261,-122.1992609,TRUE
+USA,WA,Long Beach,Long Beach Tavern,541-401-1353 Cell,"305 Pacific Ave. South Long Beach, WA 98631",,,,,46.3498407,-124.0548558,TRUE
+USA,WA,Longview,Silver Star Sports Bar & Grill,(360) 423-8007,"1032 Vandercook Way Longview, WA 98632",,,,,46.1427499,-122.9290989,TRUE
+USA,WA,Longview,Shamrock Tavern,(360) 577-7444,"1131 15th Ave Longview, WA 98632",,3,,,46.1349754,-122.9385598,TRUE
+USA,WA,Maryville,Danny's Midway Pub & Gril,(360) 659-2248,"14824 Smokey Point Boulevard Marysville, WA 98271",,4,,1,48.1312103,-122.1838754,TRUE
+USA,WA,Ocean Park,Doc's Tavern,(360) 665-4105,"1414 Bay Ave Ocean Park, WA 98640",,3,,,46.4912681,-124.0503016,TRUE
+USA,WA,Port Orchard,New Way Vapors Lounge,360-602-0659,"1551 Piper SE Suite 101 Port Orchard, WA 98366",,,,,47.5248539,-122.5788392,TRUE
+USA,WA,Renton,My Dad's Pool Hall,425-286-6925,"846 Lind Ave SW Suite B Renton, WA 98057",,,,,47.4721189,-122.2224486,TRUE
+USA,WA,Richland,Sure Shot Billiards,509-737-9868 (Cell),"3680 West Van Giesen Street West Richland, WA 99353",,,,,46.2973836,-119.3358022,TRUE
+USA,WA,Shoreline,The Golden Fleece,206-941-7531,"1901 NE 205th St. Shoreline, WA 98155",,,,,47.7770969,-122.3078423,TRUE
+USA,WA,South Lakewood,Break Room - WA,206-383-8177,"2510 84th St. South Lakewood, WA 98499",,,,,47.180344,-122.4698118,TRUE
+USA,WA,Spokane,Legacy Billiards,509-325-7751,"5303 N Market Spokane, WA. 99217",,16,,1,47.7063238,-117.3651664,TRUE
+USA,WA,Spokane,7th Rail Bar & Grill,(509) 325-7751,"1911 North Maple Street Spokane, WA 99205",,7,,,47.6752837,-117.4358925,TRUE
+USA,WA,Spokane,Rick's Ringside Pub,509-263-4730 Rick,"921 W. Garland Ave. Spokane, WA 99205",,,,,47.6933131,-117.4253404,TRUE
+USA,WA,Spokane Valley,Black Diamond Billiards,(509) 891-8357,"9614 E Sprague Ave, Spokane Valley, WA 99206",,8,,,47.6566831,-117.2753239,TRUE
+USA,WA,Tacoma,Malarkey's Pool & Brew,253-383-3301,"3115 East L Street Tacoma, WA 98404",,,,,47.234305,-122.4154157,TRUE
+USA,WA,Vancouver,Cascade Bar & Grill,(360) 254-0749,"15000 Mill Plain Blvd. Vancouver, WA 98684",,,3,,45.6169426,-122.5164845,TRUE
+USA,WA,Vancouver,Silver Star Saloon,(360) 694-5742,"6718 NW Fourth Plain Blvd. Vancouver, WA 98661",,,,,45.6402589,-122.6826883,TRUE
+USA,WA,Vancouver,Spot Bar and Grill,971-226-5123 cell,"7225 NE Fourth Plain Blvd. Vancouver, WA 98662",,,,,45.6448585,-122.598465,TRUE
+USA,WA,Westport,Pine Tree Tavern,360-268-9882,"101 Ocean Ave Westport, WA 98595",,,,,46.8864513,-124.1045387,TRUE
+USA,WA,Woodland,Merwin Tap,360-225-7339,"134 Davidson Ave. Woodland, WA 98674",,,,,45.9011707,-122.7476538,TRUE
+USA,WA,Yakima,Little Dutch Inn,509-895-9198 Cell,"214 N. 6th Ave. Yakima, WA 98902",,,,,46.6030806,-120.5189971,TRUE
+USA,WI,Appleton,Mad Apple Billiards,920-955-3990,"3025 W. College Ave Appleton, WI 54914",M. H. Penglase,14,,,44.2610719,-88.453025,TRUE
+USA,WI,Arena,Traders Bar & Grill,608-588-7282,"6174 US Highway 14 Arena, WI 53503",,,,,43.1621119,-90.0233573,TRUE
+USA,WI,Baldwin,HoggPen Bar & Grill,715-688-4644,"870 Main St. Baldwin, WI 54002",,3,,,44.9669199,-92.373688,TRUE
+USA,WI,Bayfield,The Bayfield Inn,715-779-3363,"20 Rittenhouse Avenue Bayfield, WI 54814",,,,,46.8106685,-90.8141691,TRUE
+USA,WI,Beloit,The Carom Room,608-365-1811,"614 E. Grand Ave. Beloit, WI 53511",,,,,42.4993937,-89.0302168,TRUE
+USA,WI,Blanchardville,Cork Down Saloon,608-558-3396,"18272 Lake Road Blanchardville, WI 53516",,,,,42.7599376,-89.9509069,TRUE
+USA,WI,Bristol,Thirsty Horse Bar and Grill,262-620-2750,"12521 Bristol Road Bristol, WI 53104",,,,,42.499648,-88.023032,TRUE
+USA,WI,Cudahy,Light Palace Pub & Grill,414-489-2652,"5880 S. Packard Ave. Cudhay, WI 53110",,2,,,42.9375375,-87.8599272,TRUE
+USA,WI,Elcho,Tattle Tales,715-401-9016 (Cell),"N11192 Antigo Street Elcho, WI 54428",,,,,45.4351635,-89.1838973,TRUE
+USA,WI,Fond Du Lac,Backstage Bar & Grill,920-933-6003,"101 N. Main St. Fond du Lac, WI 54935",,,,,43.7817001,-88.446563,TRUE
+USA,WI,Fond Du Lac,Marghael's,920-922-1860,"N7688 Van Dyne Rd. Fond du Lac, WI 54937",,4,,,43.8203357,-88.503234,TRUE
+USA,WI,Glenwood City,Games Plus,952-807-2351,"3014 County Road G Glenwood City, WI 54013",,,,,45.0613373,-92.1939528,TRUE
+USA,WI,Greenfield,Romine's High Pockets,414-281-2212,"6125 S. 27th St. Greenfield, WI 53221",,,,,42.9335067,-87.9513722,TRUE
+USA,WI,Hartford,The Pour House,262-673-7108,"22 Main Street Hartford, WI 53027",,,,,43.3173533,-88.3786163,TRUE
+USA,WI,Kenosha,Fec's Place,262-515-1482,"5523 6Th Ave. Kenosha, WI 53140",,,,,42.5854832,-87.8183786,TRUE
+USA,WI,Kenosha,Thirsty Horse Pub & Grill,(262) 891-3080,"12711 Bristol Rd, Kenosha, WI 53142",,2,,,42.4963389,-88.0248761,TRUE
+USA,WI,Madison,Brass Ring,608-256-9359,"701 E Washington Ave. Ste. #104 Madison, WI 53703",,6,,,43.0797776,-89.3764005,TRUE
+USA,WI,Medford,Games on the Green,715-785-5277,"103 Luepke Way Medford, WI 54451",,,,,45.1382318,-90.3486384,TRUE
+USA,WI,Menomonee Falls,DJ's Goalpost Sports Bar,262-255-1795,"N81W15094 Appleton Ave. Menomonee Falls, WI 53051",,6,,,43.1661908,-88.0975198,TRUE
+USA,WI,Milwaukee,Steve's on Bluemound,414-257-3210,"5841 West Bluemound Road Milwaukee, WI 53213",,,,,43.036239,-87.985804,TRUE
+USA,WI,Milwaukee,Shepherds on Schlinger,414-771-9419,"8924 W. Schlinger Ave. Milwaukee, WI 53214",,6,,,43.0240888,-88.0244236,TRUE
+USA,WI,Milwaukee,Straight Shots,414-930-9613,"1503 E Oklahoma Ave. Milwaukee, WI 53207",,2,,,42.9880617,-87.8904158,TRUE
+USA,WI,Monroe,The Friendly Inn,608-325-9983,"1335 17Th Street Monroe, WI 53566",,,,,42.5960016,-89.6421173,TRUE
+USA,WI,North Fond Du Lac,Charlie's Banquet Hall & Pub,920-933-3398,"1348 Wisconsin Ave. North Fond du Lac, WI 54937",,,,,43.8174281,-88.4806784,TRUE
+USA,WI,Oshkosh,Varsity Club,608-669-0975,"570 N. Main Oshkosh, WI 54901",,,,,44.0216649,-88.5371202,TRUE
+USA,WI,Oshkosh,The Varsity Club Bar & Billiards,920-651-0806,"570 N Main St. Oshkosh, WI 54901",,,,,44.0216649,-88.5371202,TRUE
+USA,WI,Portage,The Ball Room,608-566-1454,"112 E Cook St. Portage, WI 53901",,21,,1,43.5399656,-89.4589288,TRUE
+USA,WI,Racine,Break & Run Billiards,262-636-3000,"2037 Lathrop Ave. Racine, WI 53405",,,,,42.7051384,-87.8245759,TRUE
+USA,WI,Schofield,Sconni's,715-573-4558,"1239 Schofield Avenue Schofield, WI 54476",,,,,44.9130652,-89.6093452,TRUE
+USA,WI,Sheboygan,Vibez Bar & Billiards,920-458-9965,"2513 S 8th St #1, Sheboygan, WI 53081",,5,,,43.7274108,-87.7126966,TRUE
+USA,WI,Sheboygan Falls,Falls TAP,920-467-2525,"212 Pine Street Sheboygan Falls, WI 53085",,,,,43.7281311,-87.8127723,TRUE
+USA,WI,Sturgeon Bay,Poh's Corner Pub,920-743-3933,"164 N 3rd Ave. Sturgeon Bay, WI 54235",,1,,,44.8359318,-87.3775257,TRUE
+USA,WI,Sun Prairie,The Rock,608-318-0137,"920 W Main St. Sun Prairie, WI 53590",,8,,,43.1820362,-89.2283713,TRUE
+USA,WI,Superior,Top Hat Tavern,218-591-3469,"705 Tower Ave. Superior, WI 54880",,,,,46.7299512,-92.1043425,TRUE
+USA,WI,Sussex,Sussex Bowl,262-246-6808,"N64 W24576 Main St. Sussex, WI 53089",,8,,,43.1344327,-88.2353964,TRUE
+USA,WI,Trevor,Ralph's Ace of Hearts,(262) 862-6477,"10720 Antioch Rd, Trevor, WI 53179",,2,,,42.5201804,-88.0994063,TRUE
+USA,WI,Waukesha,Cue Club of Wisconsin,262-522-3615,"2454 North Grandview Blvd. Waukesha, WI 53188",,,,,43.0384113,-88.2573484,TRUE
+USA,WI,Waukesha,Sunset Bowl - Sporties,262-542-9191,"333 W Sunset Dr. Waukesha, WI 53189",,11,,,42.9874722,-88.2344936,TRUE
+USA,WI,West Allis,Shepherds Sports Lounge & Grill,(414) 771-9419,"8924 W Schlinger Ave, West Allis, WI 53214",,8,,,43.0240888,-88.0244236,TRUE
+USA,WI,West Allis,Fiddlers,414-698-3562,"6108 W. Burnham St. West Allis, WI 53219",,,,,43.010411,-87.989129,TRUE
+USA,WI,West Bend,The Diamond Box,262-429-1360,"140 N Mian St. West Bend, WI 53095",,5,,,43.4243596,-88.1832041,TRUE
+USA,WI,West Bend,"EZR Endeavors, LLC",262-689-0022,"2008 Shalom Drive West Bend, WI 53090",,,,,43.4860273,-88.1374122,TRUE
+USA,WI,Wisconsin Rapids,Holly Rocks,715-570-3495,"910 Chestnut Street Wisconsin Rapids, WI 54494",,,,,44.3836583,-89.8155796,TRUE
+USA,WV,Beckley,Moose Lodge #1606,304-254-0410,"410 New River Drive Beckley, WV 25801",Eddie Hodges,,,,37.7936012,-81.1930556,TRUE
+USA,WV,Bluefield,Mountaineer Bowling Lanes,304-887-7037,"3224 Cumberland Rd. Bluefield, WV 24701",,,,,37.257302,-81.1963653,TRUE
+USA,WV,Charleston,21 Pool Room,(304) 543-6641,"3742 Sissonville Charleston, WV 25312",,,,,38.4170426,-81.6696596,TRUE
+USA,WV,Charleston,Raw Bar 2,304-984-9931,"5760 Sissonville Dr Charleston, WV 25312",,2,,,38.4577948,-81.6630705,TRUE
+USA,WV,Chester,White Stallion Club,304-479-2296,"2701 Lincoln Hwy Chester, WV 26034",,,,,40.595925,-80.5256561,TRUE
+USA,WV,Chester,MVP Sports Bar and Grill,330-383-5484 (Cell),"1294 Lincoln Highway Chester, WV 26034",,,,,40.6039211,-80.5482289,TRUE
+USA,WV,Fairmont,Fairmont Moose Lodge,304-366-2790,"80 Riverside Dr. Farimont, WV 26554",,,,,39.4389643,-80.1751126,TRUE
+USA,WV,Grafton,Strand Pool Room,(304) 365-1919,"14 West Main St. Grafton, WV 26354",,,,,39.3408284,-80.0194924,TRUE
+USA,WV,Huntington,The Pool Hall,681-378-6959,"1036 Washington Ave. Huntington, WV 25704",,,,,38.4146847,-82.4745565,TRUE
+USA,WV,Morgantown,Frank's Hot Spot,304-685-0323 (Cell),"403 Holland Avenue Morgantown, WV 26501",,,,4,39.6355827,-79.9720265,TRUE
+USA,WV,Parkersburg,The League Room,304-893-9640,"1722 Lynn St. Parkersburg, WV 26101",,,,,39.2746756,-81.543032,TRUE
+USA,WV,Philippi,Mattchew's Bar and Grill,304-931-1444,"20305 Barbour County Hwy Philippi, WV 26416",,,,,39.1819976,-80.0543,TRUE
+USA,WV,Princeton,Sonny's Billiards,304-200-2043,"806 Thorn St. Princeton, WV 24740",,,,,37.3663636,-81.0749245,TRUE
+USA,WV,Sissonville,Raw the Third,304-610-8760 (Cell),"8902 Sissonville Drive Sissonville, WV 25320",,,,,38.5433998,-81.6317211,TRUE
+USA,WV,Wheeling,McGovern's Pub,304-551-7137,"200 Ruth Avenue Wheeling, WV 26003",,2,,,40.0318909,-80.7147065,TRUE
+USA,WV,Wheeling,Rookies Sports Bar and Grill,304-650-4555 (Cell),"820 McColloch Street Wheeling, WV 26003",,6,,,40.0748283,-80.7185835,TRUE
+USA,WY,Cheyenne,Peppermilll Bar & Liquors,307-632-9966,"1618 Stillwater Ave. Cheyenne, WY 82009",,6,,1,41.1597081,-104.8026158,TRUE

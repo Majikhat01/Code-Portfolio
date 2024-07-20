@@ -1,0 +1,12 @@
+echo hi
+exit
+pwd
+exit
+cat grammar.txt
+exit
+pwd
+ls
+cd Test
+ls
+run
+exit
