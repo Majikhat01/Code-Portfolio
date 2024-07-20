@@ -62,6 +62,6 @@ This directory includes software projects and code snippets that demonstrate my 
 For any questions or further information, please feel free to contact me:
 
 - **Name**: Calvin Hatfield
-- **Email**: [Your Email Address]
-- **Phone**: [Your Phone Number]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: calhat208@gmail.com
+- **Phone**: (208) 908-8003
+- **LinkedIn**: www.linkedin.com/in/calvin-hatfield
